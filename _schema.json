@@ -1,44 +1,42 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "title": "Client Partnership Roadmap",
+  "title": "Client Partnership Roadmap (Hatch-compatible)",
   "description": "Per-client roadmap consumed by Hatch dashboards and internal tooling. NEVER include revenue, opp_size, or Sales-internal context.",
   "type": "object",
-  "required": ["client", "last_updated", "initiatives"],
+  "required": ["client", "schema_version", "last_sync", "initiatives"],
   "properties": {
-    "client": {
-      "type": "string",
-      "description": "Client name (e.g. 'MWM', 'Kovalee')."
-    },
-    "last_updated": {
-      "type": "string",
-      "format": "date",
-      "description": "Last full review date (YYYY-MM-DD)."
-    },
-    "themes_order": {
-      "type": "array",
-      "items": {"type": "string"},
-      "description": "Optional explicit ordering of themes for dashboard display."
-    },
+    "client": {"type": "string", "description": "Client name (e.g. 'MWM', 'Kovalee')."},
+    "hub": {"type": "string", "description": "Display name of the hub (e.g. 'MWM × Meta Partnership Cockpit')."},
+    "schema_version": {"type": "string", "description": "Semver-style schema version (e.g. '1.0')."},
+    "last_sync": {"type": "string", "description": "ISO 8601 timestamp of last full sync."},
     "initiatives": {
       "type": "array",
       "items": {
         "type": "object",
         "required": ["id", "initiative", "theme", "status", "impact_tier"],
         "properties": {
-          "id": {"type": "string", "pattern": "^[A-Z]+-[0-9]{3}$"},
+          "id": {"type": "integer"},
           "initiative": {"type": "string"},
           "business_impact": {"type": "string"},
           "current_situation": {"type": "string"},
           "next_action": {"type": "string"},
           "meta_owner": {"type": "string"},
           "client_owner": {"type": "string"},
-          "theme": {"type": "string"},
-          "status": {"enum": ["needs_action", "in_progress", "completed", "blocked"]},
-          "impact_tier": {"enum": ["high", "medium", "low"]},
+          "theme": {"type": "string", "enum": ["Performance & Growth", "Measurement & Signals", "Creative & Storytelling", "AI & Innovation", "Strategic Expansion"]},
+          "status": {"enum": ["Open", "In Progress", "Blocked", "Done"]},
+          "impact_tier": {"enum": ["High", "Medium", "Future"]},
+          "deadline": {"type": "string", "description": "ISO date or empty string."},
           "last_updated": {"type": "string", "format": "date"},
+          "link": {"type": "string"},
+          "tags": {"type": "string"},
           "notes": {"type": "string"}
         }
       }
+    },
+    "_display": {
+      "type": "object",
+      "description": "Optional display spec for Hatch hub rendering.",
+      "additionalProperties": true
     }
   }
 }
