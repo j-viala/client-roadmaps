@@ -1,0 +1,44 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Client Partnership Roadmap",
+  "description": "Per-client roadmap consumed by Hatch dashboards and internal tooling. NEVER include revenue, opp_size, or Sales-internal context.",
+  "type": "object",
+  "required": ["client", "last_updated", "initiatives"],
+  "properties": {
+    "client": {
+      "type": "string",
+      "description": "Client name (e.g. 'MWM', 'Kovalee')."
+    },
+    "last_updated": {
+      "type": "string",
+      "format": "date",
+      "description": "Last full review date (YYYY-MM-DD)."
+    },
+    "themes_order": {
+      "type": "array",
+      "items": {"type": "string"},
+      "description": "Optional explicit ordering of themes for dashboard display."
+    },
+    "initiatives": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["id", "initiative", "theme", "status", "impact_tier"],
+        "properties": {
+          "id": {"type": "string", "pattern": "^[A-Z]+-[0-9]{3}$"},
+          "initiative": {"type": "string"},
+          "business_impact": {"type": "string"},
+          "current_situation": {"type": "string"},
+          "next_action": {"type": "string"},
+          "meta_owner": {"type": "string"},
+          "client_owner": {"type": "string"},
+          "theme": {"type": "string"},
+          "status": {"enum": ["needs_action", "in_progress", "completed", "blocked"]},
+          "impact_tier": {"enum": ["high", "medium", "low"]},
+          "last_updated": {"type": "string", "format": "date"},
+          "notes": {"type": "string"}
+        }
+      }
+    }
+  }
+}
