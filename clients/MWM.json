@@ -1,0 +1,27 @@
+{
+  "client": "MWM",
+  "last_updated": "2026-05-11",
+  "themes_order": [
+    "Performance & Growth",
+    "Measurement & Insights",
+    "Creative & Strategy",
+    "AI & Innovation",
+    "Strategic Expansion"
+  ],
+  "initiatives": [
+    {
+      "id": "MWM-000",
+      "initiative": "PLACEHOLDER — awaiting Hatch seed (27 initiatives)",
+      "business_impact": "Replace this entry once Hatch sends the seed JSON.",
+      "current_situation": "Repo bootstrapped 2026-05-11. Awaiting seed import.",
+      "next_action": "Import 27 initiatives from Hatch export.",
+      "meta_owner": "Julian",
+      "client_owner": "",
+      "theme": "Performance & Growth",
+      "status": "needs_action",
+      "impact_tier": "high",
+      "last_updated": "2026-05-11",
+      "notes": "Bootstrap placeholder — safe to delete on first real import."
+    }
+  ]
+}
