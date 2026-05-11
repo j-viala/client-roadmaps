@@ -1,34 +1,31 @@
 # client-roadmaps
 
 Public, sanitized partnership roadmaps per client.
-Source of truth consumed by **Hatch** (per-client partnership cockpits) and by internal Tech Pod tooling.
+Source of truth consumed by **Hatch** (per-client partnership cockpits).
 
 ## Files
 
-- `_schema.json` — canonical schema (Hatch-compatible v1.0)
-- `clients/<CLIENT>.json` — per-client roadmap (one file per client)
+- `_schema.json` — canonical schema (Hatch v2)
+- `clients/<CLIENT>.json` — per-client roadmap (one file per client, flat array of initiatives)
 
-## Schema (per initiative)
+## Schema v2 (per initiative)
 
 | Field | Type | Notes |
 |---|---|---|
-| `id` | integer | Unique within client (1, 2, 3, ...) |
-| `initiative` | string | Short title (client-facing) |
-| `business_impact` | string | One-line value statement |
-| `current_situation` | string | Status narrative |
-| `next_action` | string | What's next |
-| `meta_owner` | string | Meta-side owner |
-| `client_owner` | string | Client-side owner |
-| `theme` | enum | `Performance & Growth` / `Measurement & Signals` / `Creative & Storytelling` / `AI & Innovation` / `Strategic Expansion` |
+| `stream_name` | string | Title (client-facing) |
+| `subtitle_why` | string | Why it matters — business rationale |
+| `subtitle_how` | string | How we deliver — current state + next step |
+| `theme` | enum | `App Performance` / `Measurement & Signals` / `Creative & Formats` / `AI / Innovation` / `Strategic Account` |
 | `status` | enum | `Open` / `In Progress` / `Blocked` / `Done` |
-| `impact_tier` | enum | `High` / `Medium` / `Future` |
+| `meta_owner` | string | Meta-side owner |
+| `client_owner` | string | Client-side owner (generic, replicable across hubs) |
 | `deadline` | ISO date or `""` | Optional |
-| `last_updated` | ISO date | YYYY-MM-DD |
-| `link` | string | Optional reference URL |
-| `tags` | string | Optional, comma-separated |
-| `notes` | string | Optional public-safe context |
+| `link_url` | string | Optional reference URL |
+| `tags` | string | Optional, comma-separated. Convention: `WAITING:Name` for blockers |
+| `sort_order` | integer | Display order |
+| `pinned` | boolean | If true, renders pinned at top of theme |
 
-Top-level: `client`, `hub`, `schema_version`, `last_sync`, `initiatives[]`, optional `_display`.
+**Top-level format:** flat JSON array (no wrapper object).
 
 ## Hatch ingestion
 
@@ -36,10 +33,10 @@ Top-level: `client`, `hub`, `schema_version`, `last_sync`, `initiatives[]`, opti
 https://raw.githubusercontent.com/j-viala/client-roadmaps/main/clients/<CLIENT>.json
 ```
 
-No auth required (public repo). Recommended sync mode: cron 15-30 min.
+No auth required (public repo). Sync mode: cron 2h.
 
 ## Update workflow
 
 1. Edit `clients/<CLIENT>.json` directly via GitHub UI, commit, or push from a script.
-2. Hatch fetches the raw URL on its cron and refreshes its dashboards.
+2. Hatch fetches the raw URL on its 2h cron and refreshes its dashboards.
 3. **Never commit revenue figures, opp_size, sales/RevOps internal context, or any data not appropriate for client viewing.**
