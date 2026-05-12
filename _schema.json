@@ -1,23 +1,23 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
   "title": "Client Partnership Roadmap (Hatch v2)",
-  "description": "Per-client roadmap consumed by Hatch dashboards. Top-level: flat array of initiative objects. NEVER include revenue, opp_size, or Sales-internal context.",
+  "description": "Per-client roadmap consumed by Hatch dashboards. Top-level: flat array of initiative objects. Themes are client-specific (not enum) since each client's roadmap surfaces its own business pillars. NEVER include revenue, opp_size, or Sales-internal context.",
   "type": "array",
   "items": {
     "type": "object",
-    "required": ["stream_name", "theme", "status", "meta_owner", "client_owner", "subtitle_why", "subtitle_how"],
+    "required": ["stream_name", "theme", "status", "meta_owner", "client_owner", "subtitle_why", "subtitle_how", "sort_order"],
     "properties": {
       "stream_name": {"type": "string", "description": "Initiative title (client-facing)."},
       "subtitle_why": {"type": "string", "description": "Why this matters — business rationale (client-facing)."},
-      "subtitle_how": {"type": "string", "description": "How we deliver — current situation + next action (client-facing)."},
-      "theme": {"type": "string", "enum": ["App Performance", "Measurement & Signals", "Creative & Formats", "AI / Innovation", "Strategic Account"]},
+      "subtitle_how": {"type": "string", "description": "How we deliver — current situation (client-facing)."},
+      "theme": {"type": "string", "description": "Client-specific theme. Examples: 'App Performance' (MWM), 'B2C Brand' (SumUp), 'WhatsApp Business' (SumUp). Each client defines their own theme vocabulary; not a fixed enum."},
       "status": {"enum": ["Open", "In Progress", "Blocked", "Done"]},
       "meta_owner": {"type": "string"},
       "client_owner": {"type": "string"},
-      "deadline": {"type": "string", "description": "ISO date or empty string."},
+      "sort_order": {"type": "integer", "description": "Display order within the dashboard."},
+      "deadline": {"type": "string", "description": "Free-form date or empty string."},
       "link_url": {"type": "string"},
       "tags": {"type": "string", "description": "Comma-separated. Convention: 'WAITING:Name' for blockers with owner attribution."},
-      "sort_order": {"type": "integer", "description": "Display order within the dashboard."},
       "pinned": {"type": "boolean", "description": "If true, renders pinned at top of theme."}
     }
   }
