@@ -80,28 +80,16 @@
     "next_action": ""
   },
   {
-    "stream_name": "Web-to-App signal pipeline — rebuild after Apr 21 break",
-    "subtitle_why": "Restore Web-to-App campaign performance",
-    "subtitle_how": "Source corrected Apr 21, monitoring new baseline",
+    "stream_name": "Web-to-App signal restoration — fix pipeline break, anomaly, and data request",
+    "subtitle_why": "Restore Web-to-App campaign performance and clean optimization signals across MWM apps",
+    "subtitle_how": "Source corrected Apr 21, monitoring new baseline. Color Pop + SwipeWipe signal contamination under TSC investigation. Previous Josselyn data request being reformulated (was too complex).",
     "theme": "Strategic Investments",
     "status": "Blocked",
     "meta_owner": "Julian",
     "client_owner": "Josselyn",
     "sort_order": 9,
     "tags": "WAITING:Josselyn",
-    "next_action": ""
-  },
-  {
-    "stream_name": "Web-to-App anomaly — Color Pop + SwipeWipe signal contamination",
-    "subtitle_why": "Ensure clean optimization signal on priority apps",
-    "subtitle_how": "Technical Support Center investigation in flight",
-    "theme": "Strategic Investments",
-    "status": "Blocked",
-    "meta_owner": "Julian + TSC",
-    "client_owner": "Ismail",
-    "sort_order": 10,
-    "tags": "WAITING:Josselyn (14d overdue)",
-    "next_action": ""
+    "next_action": "Reformulate simplified data request to Josselyn + monitor TSC outcome on Color Pop / SwipeWipe"
   },
   {
     "stream_name": "Conversions API (CAPI) signal quality — hashed parameters missing",
@@ -138,16 +126,17 @@
     "next_action": ""
   },
   {
-    "stream_name": "Partnership Ads expansion — scale proven ROAS win to more apps",
-    "subtitle_why": "SwipeWipe pilot delivered 13% ROAS vs 6% BAU, replicate across portfolio",
-    "subtitle_how": "Pilot results validated, expansion planning",
+    "stream_name": "Partnership Ads program — scale ROAS win + MPA credits + automation",
+    "subtitle_why": "SwipeWipe pilot delivered 13% ROAS vs 6% BAU. Scale across portfolio with Meta-funded credits + workflow automation to remove manual setup overhead.",
+    "subtitle_how": "Pilot validated; 0.4% Partnership Ads penetration today across MWM book. Email sent to Josselyn on automation, status unknown. MPA credits program needs green-light before deadline.",
     "theme": "Strategic Investments",
     "status": "In Progress",
     "meta_owner": "Julian",
     "client_owner": "Josselyn",
     "sort_order": 15,
     "link_url": "https://docs.google.com/presentation/d/1XaBolEQMuB7Ogmjld5_9UB_Byes2Fo9U5uMyoZZlY4I/edit?slide=id.g359053d8fb6_1_31#slide=id.g359053d8fb6_1_31",
-    "next_action": ""
+    "next_action": "Confirm green-light on MPA credits with Josselyn + scope automation rollout for top 5 apps",
+    "pinned": true
   },
   {
     "stream_name": "Custom Label Audiences beta — audience-level bid optimization",
@@ -172,17 +161,6 @@
     "next_action": ""
   },
   {
-    "stream_name": "Business AI — expand access to large advertiser accounts",
-    "subtitle_why": "Unlock account-level AI insights at MWM scale",
-    "subtitle_how": "Currently SMB-only allowlist, large advertisers excluded",
-    "theme": "Strategic Investments",
-    "status": "Blocked",
-    "meta_owner": "Julian",
-    "client_owner": "Josselyn",
-    "sort_order": 18,
-    "next_action": ""
-  },
-  {
     "stream_name": "Picnic onboarding — Meta UA strategy post-acquisition",
     "subtitle_why": "Stand up dedicated Picnic workstream within MWM",
     "subtitle_how": "Scope session not yet scheduled",
@@ -202,7 +180,7 @@
     "meta_owner": "Julian + Rafael + Gilles",
     "client_owner": "Josselyn + Charles + Benjamin",
     "sort_order": 20,
-    "pinned": true,
+    "pinned": false,
     "deadline": "TODAY",
     "next_action": ""
   },
@@ -215,7 +193,7 @@
     "meta_owner": "Julian",
     "client_owner": "Benjamin",
     "sort_order": 21,
-    "pinned": true,
+    "pinned": false,
     "deadline": "TODAY",
     "next_action": ""
   },
@@ -266,20 +244,6 @@
     "next_action": ""
   },
   {
-    "stream_name": "Meta-funded Partnership Ads test (MPA credits program)",
-    "subtitle_why": "Use Meta-funded credits before expiration deadline",
-    "subtitle_how": "0.4% Partnership Ads penetration, needs green-light",
-    "theme": "Strategic Investments",
-    "status": "Open",
-    "meta_owner": "Julian + Rafael",
-    "client_owner": "Xavier + McKenna",
-    "sort_order": 26,
-    "pinned": true,
-    "link_url": "https://meta.highspot.com/items/68c884354e9a8abb2496b235",
-    "deadline": "2026-06-30",
-    "next_action": ""
-  },
-  {
     "stream_name": "Technical betas session with Horia (BizEng)",
     "subtitle_why": "Scope AEB de-boost fix + Value Rules with engineering team",
     "subtitle_how": "Meeting not yet scheduled",
@@ -288,17 +252,6 @@
     "meta_owner": "Julian",
     "client_owner": "Horia",
     "sort_order": 27,
-    "next_action": ""
-  },
-  {
-    "stream_name": "Check next Meta event in Dubai — potential MWM presence",
-    "subtitle_why": "Event opportunity for client relationship",
-    "subtitle_how": "From Tech Pod notes May 7",
-    "theme": "Strategic Investments",
-    "status": "Open",
-    "meta_owner": "Julian",
-    "client_owner": "—",
-    "sort_order": 28,
     "next_action": ""
   },
   {
@@ -313,39 +266,6 @@
     "next_action": ""
   },
   {
-    "stream_name": "Web-to-App purchases event — simplify data request to Josselyn",
-    "subtitle_why": "Unblock investigation with lighter data ask",
-    "subtitle_how": "Previous request too complex, reformulate",
-    "theme": "Strategic Investments",
-    "status": "Open",
-    "meta_owner": "Julian",
-    "client_owner": "Josselyn",
-    "sort_order": 30,
-    "next_action": ""
-  },
-  {
-    "stream_name": "Partnership Ads Automation test — automate workflow at scale",
-    "subtitle_why": "Reduce manual setup time for Partnership Ads campaigns",
-    "subtitle_how": "Email sent to Josselyn, status unknown",
-    "theme": "Strategic Investments",
-    "status": "Open",
-    "meta_owner": "Julian",
-    "client_owner": "Josselyn",
-    "sort_order": 31,
-    "next_action": ""
-  },
-  {
-    "stream_name": "Creative Shop London event — review deck",
-    "subtitle_why": "Creative inspiration and event preparation",
-    "subtitle_how": "Deck available",
-    "theme": "Strategic Investments",
-    "status": "Open",
-    "meta_owner": "Julian",
-    "client_owner": "—",
-    "sort_order": 32,
-    "next_action": ""
-  },
-  {
     "stream_name": "Web-to-App conversion location — adopt unified optimization (+15-20% volume RS)",
     "subtitle_why": "Top Q2 RS expected lift in MWM book — Meta-projected +15-20% conversion volume uplift",
     "subtitle_how": "RS not yet activated on MWM accounts; setup requires app-side conversion event mapping aligned with web pixel",
@@ -354,7 +274,8 @@
     "status": "Open",
     "meta_owner": "Julian",
     "client_owner": "Josselyn",
-    "sort_order": 33
+    "sort_order": 33,
+    "pinned": true
   },
   {
     "stream_name": "Creative Diversification — increase variant count to combat creative fatigue (+13% CPA RS)",
