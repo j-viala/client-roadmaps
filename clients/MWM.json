@@ -45,17 +45,6 @@
     "next_action": ""
   },
   {
-    "stream_name": "Audience Explorer Boosting (AEB) — de-boost killing delivery",
-    "subtitle_why": "Restore delivery quality and advertiser confidence",
-    "subtitle_how": "Awaiting MWM diagnostic input on affected campaigns",
-    "theme": "Performance & Growth",
-    "status": "Blocked",
-    "meta_owner": "Julian",
-    "client_owner": "Josselyn",
-    "sort_order": 5,
-    "next_action": ""
-  },
-  {
     "stream_name": "Collaborative Ads for App (CASC) — full-funnel pilot",
     "subtitle_why": "Test full-funnel efficiency bridging brand and performance",
     "subtitle_how": "Deck shared to Josselyn, awaiting feedback",
@@ -112,17 +101,6 @@
     "client_owner": "Ismail",
     "sort_order": 10,
     "tags": "WAITING:Josselyn (14d overdue)",
-    "next_action": ""
-  },
-  {
-    "stream_name": "Creative tracking gap — Sincerely Off My Chest app (CAPI dedup)",
-    "subtitle_why": "Validate animated creative performance measurement",
-    "subtitle_how": "Awaiting MWM technical investigation",
-    "theme": "Performance & Growth",
-    "status": "Blocked",
-    "meta_owner": "Julian",
-    "client_owner": "Josselyn",
-    "sort_order": 11,
     "next_action": ""
   },
   {
