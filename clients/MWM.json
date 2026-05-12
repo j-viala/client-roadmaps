@@ -58,17 +58,6 @@
     "next_action": ""
   },
   {
-    "stream_name": "Marketing API migration — Advantage+ / AAC breaking changes",
-    "subtitle_why": "Protect Q2 revenue continuity from API deprecations",
-    "subtitle_how": "API audit not started yet",
-    "theme": "Strategic Investments",
-    "status": "Open",
-    "meta_owner": "Julian",
-    "client_owner": "Josselyn + Ismail",
-    "sort_order": 7,
-    "next_action": ""
-  },
-  {
     "stream_name": "App Re-engagement pilot — reactivate lapsed users",
     "subtitle_why": "Capture incremental revenue from existing user base",
     "subtitle_how": "No re-engagement layer active today",
@@ -80,18 +69,6 @@
     "next_action": ""
   },
   {
-    "stream_name": "Web-to-App signal restoration — fix pipeline break, anomaly, and data request",
-    "subtitle_why": "Restore Web-to-App campaign performance and clean optimization signals across MWM apps",
-    "subtitle_how": "Source corrected Apr 21, monitoring new baseline. Color Pop + SwipeWipe signal contamination under TSC investigation. Previous Josselyn data request being reformulated (was too complex).",
-    "theme": "Strategic Investments",
-    "status": "Blocked",
-    "meta_owner": "Julian",
-    "client_owner": "Josselyn",
-    "sort_order": 9,
-    "tags": "WAITING:Josselyn",
-    "next_action": "Reformulate simplified data request to Josselyn + monitor TSC outcome on Color Pop / SwipeWipe"
-  },
-  {
     "stream_name": "Conversions API (CAPI) signal quality — hashed parameters missing",
     "subtitle_why": "Lift attribution accuracy and delivery quality",
     "subtitle_how": "Awaiting MWM decision on signal collection expansion",
@@ -100,17 +77,6 @@
     "meta_owner": "Julian",
     "client_owner": "Josselyn",
     "sort_order": 12,
-    "next_action": ""
-  },
-  {
-    "stream_name": "Static-to-Animated creative migration Q2",
-    "subtitle_why": "Capture performance lift from animated ad formats",
-    "subtitle_how": "Top performing static creatives not yet identified",
-    "theme": "Performance & Growth",
-    "status": "Open",
-    "meta_owner": "Julian",
-    "client_owner": "Josselyn",
-    "sort_order": 13,
     "next_action": ""
   },
   {
@@ -198,17 +164,6 @@
     "next_action": ""
   },
   {
-    "stream_name": "Picnic hand-over — transfer from Rebecca Schatz (UK team)",
-    "subtitle_why": "Complete account seat transfer post-acquisition",
-    "subtitle_how": "Operational hand-off in progress",
-    "theme": "Strategic Investments",
-    "status": "In Progress",
-    "meta_owner": "Julian + Rafael",
-    "client_owner": "Charles",
-    "sort_order": 22,
-    "next_action": ""
-  },
-  {
     "stream_name": "Brand Lift / Conversion Lift Study — first scalable branding test",
     "subtitle_why": "Convince VP Growth (Benjamin) on branding investment value",
     "subtitle_how": "Pre-condition for formalizing monthly cadence",
@@ -252,17 +207,6 @@
     "meta_owner": "Julian",
     "client_owner": "Horia",
     "sort_order": 27,
-    "next_action": ""
-  },
-  {
-    "stream_name": "Attributed Revenue discrepancy — animation-to-static Sincerely Off My Chest",
-    "subtitle_why": "CRM attribution accuracy for creative format decisions",
-    "subtitle_how": "Raised in Apr 29 weekly call with Josselyn",
-    "theme": "Strategic Investments",
-    "status": "Open",
-    "meta_owner": "Julian",
-    "client_owner": "Josselyn",
-    "sort_order": 29,
     "next_action": ""
   },
   {
