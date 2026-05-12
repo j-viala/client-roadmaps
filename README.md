@@ -3,18 +3,21 @@
 Public, sanitized partnership roadmaps per client.
 Source of truth consumed by **Hatch** (per-client partnership cockpits).
 
+> **v3 (2026-05-12)**: Split `subtitle_how` into two fields. State stays in `subtitle_how`, the next step moves to a dedicated `next_action` field. Hatch UI now renders 'Status' and 'Next Action' as two separate sections per initiative.
+
 ## Files
 
-- `_schema.json` — canonical schema (Hatch v2)
+- `_schema.json` — canonical schema (Hatch v3)
 - `clients/<CLIENT>.json` — per-client roadmap (one file per client, flat array of initiatives)
 
-## Schema v2 (per initiative)
+## Schema v3 (per initiative)
 
 | Field | Type | Notes |
 |---|---|---|
 | `stream_name` | string | Title (client-facing) |
 | `subtitle_why` | string | Why it matters — business rationale |
-| `subtitle_how` | string | How we deliver — current state + next step |
+| `subtitle_how` | string | Current state — where we are now (no next step here) |
+| `next_action` | string | Explicit next step, verb-led (lock, share, confirm, schedule, chase, decide, scope, relance) |
 | `theme` | string | Client-specific. Examples: MWM uses `App Performance` / `Measurement & Signals` / `Creative & Formats` / `AI / Innovation` / `Strategic Account`. SumUp uses `B2C Brand` / `B2B Merchant Acquisition` / `Measurement & Signals` / `WhatsApp Business` / `Geo Expansion`. Each client defines their own theme vocabulary. |
 | `status` | enum | `Open` / `In Progress` / `Blocked` / `Done` |
 | `meta_owner` | string | Meta-side owner |

@@ -7,17 +7,19 @@
     "status": "Done",
     "meta_owner": "Julian",
     "client_owner": "Thomas",
-    "sort_order": 1
+    "sort_order": 1,
+    "next_action": ""
   },
   {
     "stream_name": "Search Lift Study — replicate Wave 1 lift signal at scale",
     "subtitle_why": "Confirm branding lifts hold under bigger spend before committing always-on budget",
-    "subtitle_how": "Retest configuration in build — lock launch window with Thomas",
+    "subtitle_how": "Retest configuration in build",
     "theme": "B2C Brand",
     "status": "In Progress",
     "meta_owner": "Julian",
     "client_owner": "Thomas",
-    "sort_order": 2
+    "sort_order": 2,
+    "next_action": "Lock launch window with Thomas"
   },
   {
     "stream_name": "B2C campaign creative direction",
@@ -27,7 +29,8 @@
     "status": "Done",
     "meta_owner": "Marie L.",
     "client_owner": "Queenie C.",
-    "sort_order": 3
+    "sort_order": 3,
+    "next_action": ""
   },
   {
     "stream_name": "Branding activation alignment — unblock cross-market deployment",
@@ -37,37 +40,41 @@
     "status": "Blocked",
     "meta_owner": "Julian",
     "client_owner": "Thomas",
-    "sort_order": 4
+    "sort_order": 4,
+    "next_action": "One last relance — kill the workstream if no reply within 2 weeks"
   },
   {
     "stream_name": "SumUp Pay (B2C) event optimisation — lift conversion event quality",
     "subtitle_why": "Improve attribution accuracy on first-funding events for SumUp Pay",
-    "subtitle_how": "Event optimisation call scheduled",
+    "subtitle_how": "Event optimisation call scheduled with Queenie C.",
     "theme": "B2C Brand",
     "status": "In Progress",
     "meta_owner": "Julian",
     "client_owner": "Queenie C.",
-    "sort_order": 5
+    "sort_order": 5,
+    "next_action": "Review pixel + CAPI setup, share recommendations within 2 weeks"
   },
   {
     "stream_name": "Value Optimisation (VO) — UK merchant acquisition rollout",
     "subtitle_why": "Scale value-based bidding on the UK book to lift LTV-weighted conversions",
-    "subtitle_how": "Live in UK — monitoring weekly performance vs CPA-only baseline",
+    "subtitle_how": "Live in UK, monitoring weekly performance vs CPA-only baseline",
     "theme": "B2B Merchant Acquisition",
     "status": "In Progress",
     "meta_owner": "Julian",
     "client_owner": "Diogo S.",
-    "sort_order": 6
+    "sort_order": 6,
+    "next_action": "First 30-day uplift readout end of May, decide extension to other markets (#7)"
   },
   {
     "stream_name": "Value Optimisation (VO) — extension to Tier 1 EMEA markets",
     "subtitle_why": "Replicate UK VO uplift across additional priority markets",
-    "subtitle_how": "Email thread with Diogo S. + Willem + Anna active — confirm market shortlist",
+    "subtitle_how": "Email thread with Diogo S. + Willem + Anna active",
     "theme": "B2B Merchant Acquisition",
     "status": "In Progress",
     "meta_owner": "Julian",
     "client_owner": "Diogo S.",
-    "sort_order": 7
+    "sort_order": 7,
+    "next_action": "Confirm market shortlist"
   },
   {
     "stream_name": "Director-level strategic sync",
@@ -77,7 +84,8 @@
     "status": "Done",
     "meta_owner": "Rafael",
     "client_owner": "Umberto Z.",
-    "sort_order": 8
+    "sort_order": 8,
+    "next_action": ""
   },
   {
     "stream_name": "Monthly ritual cadence",
@@ -88,7 +96,8 @@
     "meta_owner": "Julian",
     "client_owner": "Bruno F.",
     "sort_order": 9,
-    "deadline": "May 12"
+    "deadline": "May 12",
+    "next_action": ""
   },
   {
     "stream_name": "Pixel hygiene audit",
@@ -98,7 +107,8 @@
     "status": "Done",
     "meta_owner": "Julian",
     "client_owner": "Bojana",
-    "sort_order": 10
+    "sort_order": 10,
+    "next_action": ""
   },
   {
     "stream_name": "App signal coverage",
@@ -108,7 +118,8 @@
     "status": "Done",
     "meta_owner": "Julian",
     "client_owner": "Bojana",
-    "sort_order": 11
+    "sort_order": 11,
+    "next_action": ""
   },
   {
     "stream_name": "QBR scheduling",
@@ -118,89 +129,98 @@
     "status": "Done",
     "meta_owner": "Julian",
     "client_owner": "Bruno F.",
-    "sort_order": 12
+    "sort_order": 12,
+    "next_action": ""
   },
   {
     "stream_name": "WhatsApp Business Solution (BSP) — 4 EMEA use case scoping",
     "subtitle_why": "Unlock WhatsApp as merchant acquisition channel for SumUp",
-    "subtitle_how": "BSP partner meetings completed (LinkMobility, Vonage May 1, Sinch May 11) — use case lock pending",
+    "subtitle_how": "BSP partner meetings completed (LinkMobility, Vonage May 1, Sinch May 11)",
     "theme": "WhatsApp Business",
     "status": "In Progress",
     "meta_owner": "Max",
     "client_owner": "Bruno F.",
-    "sort_order": 13
+    "sort_order": 13,
+    "next_action": "Lock 4 EMEA use cases with Bruno F."
   },
   {
     "stream_name": "WhatsApp Business — go-to-market playbook draft",
     "subtitle_why": "Create reusable launch playbook from validated BSP scoping",
-    "subtitle_how": "Drafting starts once 4 EMEA use cases (#13) locked",
+    "subtitle_how": "Awaiting #13 use case lock to start",
     "theme": "WhatsApp Business",
     "status": "Open",
     "meta_owner": "Max",
     "client_owner": "TBD",
-    "sort_order": 14
+    "sort_order": 14,
+    "next_action": "Start playbook draft once #13 is closed"
   },
   {
     "stream_name": "Netherlands launch — Meta performance baseline",
     "subtitle_why": "Establish first-month performance baseline for SumUp NL market entry",
-    "subtitle_how": "Live since April 20 — monitoring weekly perf vs market benchmark",
+    "subtitle_how": "Live since April 20, monitoring weekly perf vs market benchmark",
     "theme": "Geo Expansion",
     "status": "In Progress",
     "meta_owner": "Rafael",
     "client_owner": "Bojana",
     "sort_order": 15,
-    "deadline": "June"
+    "deadline": "June",
+    "next_action": "First 30-day baseline read end of May, share with Bojana to inform expansion playbook"
   },
   {
     "stream_name": "Nordics expansion — pre-launch playbook",
     "subtitle_why": "Support SumUp Nordics market entry with Meta best practices",
-    "subtitle_how": "Plan share expected end of May from Rafael",
+    "subtitle_how": "Pre-launch playbook in scoping with Rafael",
     "theme": "Geo Expansion",
     "status": "Open",
     "meta_owner": "Rafael",
     "client_owner": "TBD",
     "sort_order": 16,
-    "deadline": "End May"
+    "deadline": "End May",
+    "next_action": "Plan share expected end of May"
   },
   {
     "stream_name": "Portugal / Austria / Malta expansion — Q3 readiness",
     "subtitle_why": "Prepare Q3 launch across three priority expansion markets",
-    "subtitle_how": "Q3 planning phase — scope markets and activation playbook",
+    "subtitle_how": "Q3 planning phase, market-by-market scoping",
     "theme": "Geo Expansion",
     "status": "Open",
     "meta_owner": "Rafael",
     "client_owner": "TBD",
     "sort_order": 17,
-    "deadline": "Q3"
+    "deadline": "Q3",
+    "next_action": "Scope each market + draft activation playbook"
   },
   {
     "stream_name": "Value-Based Bidding (VBB) for lead generation — recommendation to SumUp",
     "subtitle_why": "Bring Meta's value-based bidding logic to SumUp's lead gen — currently only tested on Google Ads",
-    "subtitle_how": "Anna asked at 16.04 monthly — share Meta VBB for lead gen options + identify pilot campaign",
+    "subtitle_how": "Anna's request from 16.04 monthly, Meta-side response in build",
     "theme": "B2B Merchant Acquisition",
     "status": "Open",
     "meta_owner": "Julian",
     "client_owner": "Anna",
-    "sort_order": 18
+    "sort_order": 18,
+    "next_action": "Share Meta VBB for lead gen options + identify pilot campaign"
   },
   {
     "stream_name": "Highest Value Bidding (HVB) — explainer + SumUp use case",
     "subtitle_why": "Help SumUp adopt HVB on B2B campaigns where ROAS varies by deal size",
-    "subtitle_how": "Felipe asked at 16.04 monthly — share mechanism doc + identify pilot campaign",
+    "subtitle_how": "Felipe's request from 16.04 monthly, Meta-side response in build",
     "theme": "B2B Merchant Acquisition",
     "status": "Open",
     "meta_owner": "Julian",
     "client_owner": "Felipe",
-    "sort_order": 19
+    "sort_order": 19,
+    "next_action": "Share HVB mechanism doc + identify pilot campaign"
   },
   {
     "stream_name": "MPA Program — Incremental Attribution coupon take-up",
     "subtitle_why": "Activate Meta-funded 25% credit (1-25k) on a measurement test before the window closes",
-    "subtitle_how": "Offer surfaced 10.03 monthly — confirm test type (A/B or Conversion Lift) + coupon size",
+    "subtitle_how": "Coupon offer (25% credit, 1-25k) surfaced at 10.03 monthly",
     "theme": "Measurement & Signals",
     "status": "Open",
     "meta_owner": "Julian",
     "client_owner": "Bruno F.",
-    "sort_order": 20
+    "sort_order": 20,
+    "next_action": "Confirm test type (A/B or Conversion Lift) + coupon size with Bruno F."
   }
 ]

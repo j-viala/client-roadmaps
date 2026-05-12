@@ -1,24 +1,69 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "title": "Client Partnership Roadmap (Hatch v2)",
-  "description": "Per-client roadmap consumed by Hatch dashboards. Top-level: flat array of initiative objects. Themes are client-specific (not enum) since each client's roadmap surfaces its own business pillars. NEVER include revenue, opp_size, or Sales-internal context.",
+  "title": "Client Partnership Roadmap (Hatch v3)",
+  "description": "Per-client roadmap consumed by Hatch dashboards. v3 splits state from action: subtitle_how = current situation, next_action = explicit next step. NEVER include revenue, opp_size, or Sales-internal context.",
   "type": "array",
   "items": {
     "type": "object",
-    "required": ["stream_name", "theme", "status", "meta_owner", "client_owner", "subtitle_why", "subtitle_how", "sort_order"],
+    "required": [
+      "stream_name",
+      "theme",
+      "status",
+      "meta_owner",
+      "client_owner",
+      "subtitle_why",
+      "subtitle_how",
+      "next_action",
+      "sort_order"
+    ],
     "properties": {
-      "stream_name": {"type": "string", "description": "Initiative title (client-facing)."},
-      "subtitle_why": {"type": "string", "description": "Why this matters — business rationale (client-facing)."},
-      "subtitle_how": {"type": "string", "description": "How we deliver — current situation (client-facing)."},
-      "theme": {"type": "string", "description": "Client-specific theme. Examples: 'App Performance' (MWM), 'B2C Brand' (SumUp), 'WhatsApp Business' (SumUp). Each client defines their own theme vocabulary; not a fixed enum."},
-      "status": {"enum": ["Open", "In Progress", "Blocked", "Done"]},
-      "meta_owner": {"type": "string"},
-      "client_owner": {"type": "string"},
-      "sort_order": {"type": "integer", "description": "Display order within the dashboard."},
-      "deadline": {"type": "string", "description": "Free-form date or empty string."},
-      "link_url": {"type": "string"},
-      "tags": {"type": "string", "description": "Comma-separated. Convention: 'WAITING:Name' for blockers with owner attribution."},
-      "pinned": {"type": "boolean", "description": "If true, renders pinned at top of theme."}
+      "stream_name": {
+        "type": "string"
+      },
+      "subtitle_why": {
+        "type": "string",
+        "description": "Business rationale (why this matters)."
+      },
+      "subtitle_how": {
+        "type": "string",
+        "description": "Current state / situation (where we are now)."
+      },
+      "next_action": {
+        "type": "string",
+        "description": "Explicit next step (verb-led). Use empty string only for Done items with no follow-up."
+      },
+      "theme": {
+        "type": "string"
+      },
+      "status": {
+        "enum": [
+          "Open",
+          "In Progress",
+          "Blocked",
+          "Done"
+        ]
+      },
+      "meta_owner": {
+        "type": "string"
+      },
+      "client_owner": {
+        "type": "string"
+      },
+      "sort_order": {
+        "type": "integer"
+      },
+      "deadline": {
+        "type": "string"
+      },
+      "link_url": {
+        "type": "string"
+      },
+      "tags": {
+        "type": "string"
+      },
+      "pinned": {
+        "type": "boolean"
+      }
     }
   }
 }

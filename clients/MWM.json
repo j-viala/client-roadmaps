@@ -7,7 +7,8 @@
     "status": "Open",
     "meta_owner": "Julian",
     "client_owner": "Josselyn",
-    "sort_order": 1
+    "sort_order": 1,
+    "next_action": ""
   },
   {
     "stream_name": "Click-Based Audience Exclusion — remove existing users from targeting",
@@ -17,7 +18,8 @@
     "status": "Open",
     "meta_owner": "Julian",
     "client_owner": "Josselyn",
-    "sort_order": 2
+    "sort_order": 2,
+    "next_action": ""
   },
   {
     "stream_name": "Predicted Lifetime Value (pLTV) — blended optimization rollout",
@@ -27,7 +29,8 @@
     "status": "Open",
     "meta_owner": "Julian + Horia",
     "client_owner": "Josselyn",
-    "sort_order": 3
+    "sort_order": 3,
+    "next_action": ""
   },
   {
     "stream_name": "Advantage+ App Campaign — Highest Volume bid consolidation test",
@@ -38,7 +41,8 @@
     "meta_owner": "Julian",
     "client_owner": "Josselyn",
     "sort_order": 4,
-    "link_url": "https://docs.google.com/spreadsheets/d/1jq5CbXugwqKo3PmcjfA2CfIE-u_iP0BGnKM6lnOOL8s/edit?gid=109251479#gid=109251479"
+    "link_url": "https://docs.google.com/spreadsheets/d/1jq5CbXugwqKo3PmcjfA2CfIE-u_iP0BGnKM6lnOOL8s/edit?gid=109251479#gid=109251479",
+    "next_action": ""
   },
   {
     "stream_name": "Audience Explorer Boosting (AEB) — de-boost killing delivery",
@@ -48,7 +52,8 @@
     "status": "Blocked",
     "meta_owner": "Julian",
     "client_owner": "Josselyn",
-    "sort_order": 5
+    "sort_order": 5,
+    "next_action": ""
   },
   {
     "stream_name": "Collaborative Ads for App (CASC) — full-funnel pilot",
@@ -60,7 +65,8 @@
     "client_owner": "Josselyn",
     "sort_order": 6,
     "link_url": "https://docs.google.com/presentation/d/1XaBolEQMuB7Ogmjld5_9UB_Byes2Fo9U5uMyoZZlY4I/edit?slide=id.g3a57a2b2a18_0_0#slide=id.g3a57a2b2a18_0_0",
-    "deadline": "2026-05-13"
+    "deadline": "2026-05-13",
+    "next_action": ""
   },
   {
     "stream_name": "Marketing API migration — Advantage+ / AAC breaking changes",
@@ -70,7 +76,8 @@
     "status": "Open",
     "meta_owner": "Julian",
     "client_owner": "Josselyn + Ismail",
-    "sort_order": 7
+    "sort_order": 7,
+    "next_action": ""
   },
   {
     "stream_name": "App Re-engagement pilot — reactivate lapsed users",
@@ -80,7 +87,8 @@
     "status": "Open",
     "meta_owner": "Julian",
     "client_owner": "Josselyn",
-    "sort_order": 8
+    "sort_order": 8,
+    "next_action": ""
   },
   {
     "stream_name": "Web-to-App signal pipeline — rebuild after Apr 21 break",
@@ -91,7 +99,8 @@
     "meta_owner": "Julian",
     "client_owner": "Josselyn",
     "sort_order": 9,
-    "tags": "WAITING:Josselyn"
+    "tags": "WAITING:Josselyn",
+    "next_action": ""
   },
   {
     "stream_name": "Web-to-App anomaly — Color Pop + SwipeWipe signal contamination",
@@ -102,7 +111,8 @@
     "meta_owner": "Julian + TSC",
     "client_owner": "Ismail",
     "sort_order": 10,
-    "tags": "WAITING:Josselyn (14d overdue)"
+    "tags": "WAITING:Josselyn (14d overdue)",
+    "next_action": ""
   },
   {
     "stream_name": "Creative tracking gap — Sincerely Off My Chest app (CAPI dedup)",
@@ -112,7 +122,8 @@
     "status": "Blocked",
     "meta_owner": "Julian",
     "client_owner": "Josselyn",
-    "sort_order": 11
+    "sort_order": 11,
+    "next_action": ""
   },
   {
     "stream_name": "Conversions API (CAPI) signal quality — hashed parameters missing",
@@ -122,7 +133,8 @@
     "status": "Blocked",
     "meta_owner": "Julian",
     "client_owner": "Josselyn",
-    "sort_order": 12
+    "sort_order": 12,
+    "next_action": ""
   },
   {
     "stream_name": "Static-to-Animated creative migration Q2",
@@ -132,7 +144,8 @@
     "status": "Open",
     "meta_owner": "Julian",
     "client_owner": "Josselyn",
-    "sort_order": 13
+    "sort_order": 13,
+    "next_action": ""
   },
   {
     "stream_name": "Threads placement activation — reach younger audiences",
@@ -143,7 +156,8 @@
     "meta_owner": "Julian",
     "client_owner": "Josselyn",
     "sort_order": 14,
-    "link_url": "https://docs.google.com/presentation/d/1XaBolEQMuB7Ogmjld5_9UB_Byes2Fo9U5uMyoZZlY4I/edit?slide=id.g34fcf147ce7_0_0#slide=id.g34fcf147ce7_0_0"
+    "link_url": "https://docs.google.com/presentation/d/1XaBolEQMuB7Ogmjld5_9UB_Byes2Fo9U5uMyoZZlY4I/edit?slide=id.g34fcf147ce7_0_0#slide=id.g34fcf147ce7_0_0",
+    "next_action": ""
   },
   {
     "stream_name": "Partnership Ads expansion — scale proven ROAS win to more apps",
@@ -154,7 +168,8 @@
     "meta_owner": "Julian",
     "client_owner": "Josselyn",
     "sort_order": 15,
-    "link_url": "https://docs.google.com/presentation/d/1XaBolEQMuB7Ogmjld5_9UB_Byes2Fo9U5uMyoZZlY4I/edit?slide=id.g359053d8fb6_1_31#slide=id.g359053d8fb6_1_31"
+    "link_url": "https://docs.google.com/presentation/d/1XaBolEQMuB7Ogmjld5_9UB_Byes2Fo9U5uMyoZZlY4I/edit?slide=id.g359053d8fb6_1_31#slide=id.g359053d8fb6_1_31",
+    "next_action": ""
   },
   {
     "stream_name": "Custom Label Audiences beta — audience-level bid optimization",
@@ -164,7 +179,8 @@
     "status": "Open",
     "meta_owner": "Julian",
     "client_owner": "Josselyn",
-    "sort_order": 16
+    "sort_order": 16,
+    "next_action": ""
   },
   {
     "stream_name": "AI Connectors — connect MWM AI platform to Meta Ads data",
@@ -174,7 +190,8 @@
     "status": "In Progress",
     "meta_owner": "Julian",
     "client_owner": "Josselyn + Benjamin",
-    "sort_order": 17
+    "sort_order": 17,
+    "next_action": ""
   },
   {
     "stream_name": "Business AI — expand access to large advertiser accounts",
@@ -184,7 +201,8 @@
     "status": "Blocked",
     "meta_owner": "Julian",
     "client_owner": "Josselyn",
-    "sort_order": 18
+    "sort_order": 18,
+    "next_action": ""
   },
   {
     "stream_name": "Picnic onboarding — Meta UA strategy post-acquisition",
@@ -194,7 +212,8 @@
     "status": "Open",
     "meta_owner": "Julian + Rafael",
     "client_owner": "Josselyn + Charles",
-    "sort_order": 19
+    "sort_order": 19,
+    "next_action": ""
   },
   {
     "stream_name": "MWM onsite + exec lunch",
@@ -206,7 +225,8 @@
     "client_owner": "Josselyn + Charles + Benjamin",
     "sort_order": 20,
     "pinned": true,
-    "deadline": "TODAY"
+    "deadline": "TODAY",
+    "next_action": ""
   },
   {
     "stream_name": "Monthly cadence with Benjamin (VP Growth)",
@@ -218,7 +238,8 @@
     "client_owner": "Benjamin",
     "sort_order": 21,
     "pinned": true,
-    "deadline": "TODAY"
+    "deadline": "TODAY",
+    "next_action": ""
   },
   {
     "stream_name": "Picnic hand-over — transfer from Rebecca Schatz (UK team)",
@@ -228,7 +249,8 @@
     "status": "In Progress",
     "meta_owner": "Julian + Rafael",
     "client_owner": "Charles",
-    "sort_order": 22
+    "sort_order": 22,
+    "next_action": ""
   },
   {
     "stream_name": "Brand Lift / Conversion Lift Study — first scalable branding test",
@@ -239,7 +261,8 @@
     "meta_owner": "Julian",
     "client_owner": "Benjamin",
     "sort_order": 23,
-    "deadline": "2026-05-13"
+    "deadline": "2026-05-13",
+    "next_action": ""
   },
   {
     "stream_name": "Value Rules — custom audience bid adjustments implementation",
@@ -249,7 +272,8 @@
     "status": "Open",
     "meta_owner": "Julian",
     "client_owner": "Josselyn",
-    "sort_order": 24
+    "sort_order": 24,
+    "next_action": ""
   },
   {
     "stream_name": "Purchase Event troubleshooting — Free Trial conversion confusion",
@@ -260,7 +284,8 @@
     "meta_owner": "Julian",
     "client_owner": "Josselyn",
     "sort_order": 25,
-    "tags": "WAITING:Josselyn"
+    "tags": "WAITING:Josselyn",
+    "next_action": ""
   },
   {
     "stream_name": "Meta-funded Partnership Ads test (MPA credits program)",
@@ -273,7 +298,8 @@
     "sort_order": 26,
     "pinned": true,
     "link_url": "https://meta.highspot.com/items/68c884354e9a8abb2496b235",
-    "deadline": "2026-06-30"
+    "deadline": "2026-06-30",
+    "next_action": ""
   },
   {
     "stream_name": "Technical betas session with Horia (BizEng)",
@@ -283,7 +309,8 @@
     "status": "Open",
     "meta_owner": "Julian",
     "client_owner": "Horia",
-    "sort_order": 27
+    "sort_order": 27,
+    "next_action": ""
   },
   {
     "stream_name": "Check next Meta event in Dubai — potential MWM presence",
@@ -293,7 +320,8 @@
     "status": "Open",
     "meta_owner": "Julian",
     "client_owner": "—",
-    "sort_order": 28
+    "sort_order": 28,
+    "next_action": ""
   },
   {
     "stream_name": "Attributed Revenue discrepancy — animation-to-static Sincerely Off My Chest",
@@ -303,7 +331,8 @@
     "status": "Open",
     "meta_owner": "Julian",
     "client_owner": "Josselyn",
-    "sort_order": 29
+    "sort_order": 29,
+    "next_action": ""
   },
   {
     "stream_name": "Web-to-App purchases event — simplify data request to Josselyn",
@@ -313,7 +342,8 @@
     "status": "Open",
     "meta_owner": "Julian",
     "client_owner": "Josselyn",
-    "sort_order": 30
+    "sort_order": 30,
+    "next_action": ""
   },
   {
     "stream_name": "Partnership Ads Automation test — automate workflow at scale",
@@ -323,7 +353,8 @@
     "status": "Open",
     "meta_owner": "Julian",
     "client_owner": "Josselyn",
-    "sort_order": 31
+    "sort_order": 31,
+    "next_action": ""
   },
   {
     "stream_name": "Creative Shop London event — review deck",
@@ -333,6 +364,7 @@
     "status": "Open",
     "meta_owner": "Julian",
     "client_owner": "—",
-    "sort_order": 32
+    "sort_order": 32,
+    "next_action": ""
   }
 ]
