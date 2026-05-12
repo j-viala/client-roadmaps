@@ -15,7 +15,7 @@ Source of truth consumed by **Hatch** (per-client partnership cockpits).
 | `stream_name` | string | Title (client-facing) |
 | `subtitle_why` | string | Why it matters — business rationale |
 | `subtitle_how` | string | How we deliver — current state + next step |
-| `theme` | enum | `App Performance` / `Measurement & Signals` / `Creative & Formats` / `AI / Innovation` / `Strategic Account` |
+| `theme` | string | Client-specific. Examples: MWM uses `App Performance` / `Measurement & Signals` / `Creative & Formats` / `AI / Innovation` / `Strategic Account`. SumUp uses `B2C Brand` / `B2B Merchant Acquisition` / `Measurement & Signals` / `WhatsApp Business` / `Geo Expansion`. Each client defines their own theme vocabulary. |
 | `status` | enum | `Open` / `In Progress` / `Blocked` / `Done` |
 | `meta_owner` | string | Meta-side owner |
 | `client_owner` | string | Client-side owner (generic, replicable across hubs) |
