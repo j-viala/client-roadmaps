@@ -210,7 +210,7 @@
     "next_action": ""
   },
   {
-    "stream_name": "Web-to-App conversion location — adopt unified optimization (+15-20% volume RS)",
+    "stream_name": "Web-to-App conversion location — adopt unified optimization (+15-20% conversion volume)",
     "subtitle_why": "Top Q2 RS expected lift in MWM book — Meta-projected +15-20% conversion volume uplift",
     "subtitle_how": "RS not yet activated on MWM accounts; setup requires app-side conversion event mapping aligned with web pixel",
     "next_action": "Brief Josselyn on Web-to-App conversion location setup, target activation by end of May",
@@ -222,7 +222,7 @@
     "pinned": true
   },
   {
-    "stream_name": "Creative Diversification — increase variant count to combat creative fatigue (+13% CPA RS)",
+    "stream_name": "Creative Diversification — increase variant count to combat creative fatigue (+13% lower CPA)",
     "subtitle_why": "Q2 RS 3-dot priority at only 2% adoption; +13% lower CPA potential per Meta benchmark",
     "subtitle_how": "Creative pipeline currently low-variation across top apps, recycling same-pattern statics",
     "next_action": "Map current variant count per app, define monthly variant volume target with Josselyn",
