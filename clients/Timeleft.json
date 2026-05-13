@@ -1,1 +1,32 @@
-[]
+[
+  {
+    "stream_name": "Check EMQ, check VO usage, Check simply, check opportunity score",
+    "subtitle_why": "",
+    "subtitle_how": "from Tech Pod notes 2026-05-07",
+    "next_action": "",
+    "theme": "Strategic Investments",
+    "status": "Open",
+    "meta_owner": "Julian",
+    "client_owner": "",
+    "sort_order": 1,
+    "deadline": "",
+    "link_url": "https://docs.google.com/document/d/1zDEIeylW3Goisy4xT4EcXvVrJULmB1Fpm8gKcfBSq7M/edit",
+    "tags": "pod-context-sync",
+    "pinned": false
+  },
+  {
+    "stream_name": "Check if too many creatives: change positioning from friendship app to persona-based approach",
+    "subtitle_why": "",
+    "subtitle_how": "from Tech Pod notes 2026-05-07",
+    "next_action": "",
+    "theme": "Performance & Growth",
+    "status": "Open",
+    "meta_owner": "Julian",
+    "client_owner": "",
+    "sort_order": 2,
+    "deadline": "",
+    "link_url": "https://docs.google.com/document/d/1zDEIeylW3Goisy4xT4EcXvVrJULmB1Fpm8gKcfBSq7M/edit",
+    "tags": "pod-context-sync",
+    "pinned": false
+  }
+]

@@ -1,1 +1,62 @@
-[]
+[
+  {
+    "stream_name": "Explore reinstall campaigns — install state subscription",
+    "subtitle_why": "",
+    "subtitle_how": "Install state for re-engagement. Subscription model.",
+    "next_action": "",
+    "theme": "Strategic Investments",
+    "status": "Blocked",
+    "meta_owner": "Julian",
+    "client_owner": "",
+    "sort_order": 1,
+    "deadline": "2026-04-15",
+    "link_url": "",
+    "tags": "WAITING:client",
+    "pinned": true
+  },
+  {
+    "stream_name": "Explore branding use case Kovalee",
+    "subtitle_why": "",
+    "subtitle_how": "",
+    "next_action": "",
+    "theme": "Performance & Growth",
+    "status": "Open",
+    "meta_owner": "Julian",
+    "client_owner": "",
+    "sort_order": 2,
+    "deadline": "2026-04-23",
+    "link_url": "",
+    "tags": "",
+    "pinned": true
+  },
+  {
+    "stream_name": "Follow up W2W Signals Audit",
+    "subtitle_why": "",
+    "subtitle_how": "",
+    "next_action": "",
+    "theme": "Performance & Growth",
+    "status": "Open",
+    "meta_owner": "Julian",
+    "client_owner": "",
+    "sort_order": 3,
+    "deadline": "2026-04-23",
+    "link_url": "",
+    "tags": "",
+    "pinned": true
+  },
+  {
+    "stream_name": "Identify CAPI technical PoC for Web-to-Web campaigns — Ettore",
+    "subtitle_why": "",
+    "subtitle_how": "Email envoyé Ettore Carfagnini today 16:27. Identifier meilleur tech contact côté Meta pour CAPI Web-to-Web setup. Relancer si pas de retour avant May 5",
+    "next_action": "",
+    "theme": "Performance & Growth",
+    "status": "Open",
+    "meta_owner": "Julian",
+    "client_owner": "",
+    "sort_order": 4,
+    "deadline": "",
+    "link_url": "",
+    "tags": "task-gardener-2026-04-28",
+    "pinned": true
+  }
+]

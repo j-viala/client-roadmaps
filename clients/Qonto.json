@@ -1,1 +1,32 @@
-[]
+[
+  {
+    "stream_name": "Suivre case Qonto ES — vérification alternative annonceur (Karine)",
+    "subtitle_why": "",
+    "subtitle_how": "Karine attend alternative verification annonceur côté Meta. Relancer si pas de progrès avant deadline",
+    "next_action": "",
+    "theme": "Strategic Investments",
+    "status": "Open",
+    "meta_owner": "Julian",
+    "client_owner": "",
+    "sort_order": 1,
+    "deadline": "2026-06-02",
+    "link_url": "",
+    "tags": "eod-2026-04-29",
+    "pinned": true
+  },
+  {
+    "stream_name": "Push 'website + app' conversion location rec — $259K RS opp unactioned",
+    "subtitle_why": "",
+    "subtitle_how": "Top RS in Qonto book per CRM. Brief client on the recommendation, target adoption Q2.",
+    "next_action": "",
+    "theme": "Performance & Growth",
+    "status": "Open",
+    "meta_owner": "Julian",
+    "client_owner": "",
+    "sort_order": 2,
+    "deadline": "",
+    "link_url": "",
+    "tags": "task-gardener-fri-2026-05-08",
+    "pinned": true
+  }
+]

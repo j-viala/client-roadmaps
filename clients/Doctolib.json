@@ -1,1 +1,62 @@
-[]
+[
+  {
+    "stream_name": "Push B2B recat FR — case 1492477605932176",
+    "subtitle_why": "",
+    "subtitle_how": "Support reviewed - push for recat confirmation.",
+    "next_action": "",
+    "theme": "Strategic Investments",
+    "status": "Open",
+    "meta_owner": "Julian",
+    "client_owner": "",
+    "sort_order": 1,
+    "deadline": "2026-05-12",
+    "link_url": "",
+    "tags": "",
+    "pinned": true
+  },
+  {
+    "stream_name": "Launch Doctolib Parent branding — juin 60K",
+    "subtitle_why": "",
+    "subtitle_how": "Nouveau produit app patient. Budget 60K Meta. Branding campaign juin.",
+    "next_action": "",
+    "theme": "Strategic Investments",
+    "status": "Open",
+    "meta_owner": "Julian",
+    "client_owner": "",
+    "sort_order": 2,
+    "deadline": "2026-04-23",
+    "link_url": "",
+    "tags": "",
+    "pinned": true
+  },
+  {
+    "stream_name": "GDPR reply to Naima — answer Doctolib data privacy questions",
+    "subtitle_why": "",
+    "subtitle_how": "Naima asked Doctolib GDPR-related questions; reply due tomorrow per task-gardener detection",
+    "next_action": "",
+    "theme": "Strategic Investments",
+    "status": "Open",
+    "meta_owner": "Julian",
+    "client_owner": "",
+    "sort_order": 3,
+    "deadline": "2026-05-14",
+    "link_url": "",
+    "tags": "",
+    "pinned": true
+  },
+  {
+    "stream_name": "Push B2C messaging \"rappel RDV\" Doctolib — leverage Harmonie Mutuelle + Doctolib Parent launch",
+    "subtitle_why": "",
+    "subtitle_how": "Use case Harmonie Mutuelle = ref. Tied au lancement Doctolib Parent (jeunes parents). Coord avec Adrien Cretat B2C.",
+    "next_action": "",
+    "theme": "Strategic Investments",
+    "status": "Open",
+    "meta_owner": "Julian",
+    "client_owner": "",
+    "sort_order": 4,
+    "deadline": "",
+    "link_url": "https://info.doctolib.fr/solution/doctolib-parents/",
+    "tags": "wax-debrief-2026-04-27",
+    "pinned": false
+  }
+]
