@@ -326,5 +326,17 @@
     "client_owner": "Felipe",
     "sort_order": 27,
     "tags": "team:Self-serve"
+  },
+  {
+    "stream_name": "Leads Ads troubleshooting — restore lead capture for B2B merchant acquisition",
+    "subtitle_why": "Leads Ads is a primary acquisition format for SumUp B2B campaigns; downtime/issues directly impact Sales-led pipeline",
+    "subtitle_how": "TSC case ongoing with Meta technical support; investigation in flight on form delivery / lead routing issue",
+    "next_action": "Track TSC case resolution; relance technical support weekly until lead capture restored on Anna's campaigns",
+    "theme": "Performance & Growth",
+    "status": "In Progress",
+    "meta_owner": "Julian",
+    "client_owner": "Anna",
+    "sort_order": 28,
+    "tags": "team:Sales-led, WAITING:Meta TSC"
   }
 ]
