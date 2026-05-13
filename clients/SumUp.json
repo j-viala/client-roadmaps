@@ -244,7 +244,7 @@
     "tags": "team:CRM"
   },
   {
-    "stream_name": "Website + App conversion location — adopt unified optimization (+15-20% volume RS)",
+    "stream_name": "Website + App conversion location — adopt unified optimization (+15-20% conversion volume)",
     "subtitle_why": "Top Q2 RS expected lift on SumUp book — Meta-projected +15-20% conversion volume uplift",
     "subtitle_how": "RS not yet activated; setup requires unified web pixel + app event mapping for SumUp Pay funnel",
     "next_action": "Brief Diogo S. (Mobile) + Bojana (Sales-led) on Web-to-App conversion location setup; target activation by end of May",
@@ -256,7 +256,7 @@
     "tags": "team:Mobile"
   },
   {
-    "stream_name": "Scale Partnership Ads — pilot on UK book (-71% CPA, +19% purchase RS)",
+    "stream_name": "Scale Partnership Ads — pilot on UK book (-71% CPA, +19% purchase rate)",
     "subtitle_why": "Q2 RS with massive expected lift (-71% CPA, +19% purchase rate). 0% adoption today = full upside available.",
     "subtitle_how": "Partnership Ads not yet activated on SumUp campaigns. Requires creator/partner identification + content licensing setup.",
     "next_action": "Identify 3-5 candidate creators per market with Anna (Sales-led); pilot on UK book first",
@@ -268,7 +268,7 @@
     "tags": "team:Sales-led"
   },
   {
-    "stream_name": "Account Structure simplification — close from 41% to full adoption (+5% CPA RS)",
+    "stream_name": "Account Structure simplification — close from 41% to full adoption (+5% lower CPA)",
     "subtitle_why": "Q2 4-dot priority RS at 41% partial adoption today. Close the gap for full +5% lower CPA lift.",
     "subtitle_how": "Multiple campaigns with overlapping audiences and similar objectives identified; consolidation roadmap drafted",
     "next_action": "Map remaining campaigns to consolidate with Bojana + Anna; finalize consolidation plan by end of May",
@@ -280,7 +280,7 @@
     "tags": "team:Sales-led"
   },
   {
-    "stream_name": "Threads Feed placement activation (+10% incremental reach RS)",
+    "stream_name": "Threads Feed placement activation (+10% incremental reach)",
     "subtitle_why": "Q2 4-dot priority RS at 0% adoption. Easy win — placement is opt-in.",
     "subtitle_how": "Placement currently unchecked across SumUp's live campaigns",
     "next_action": "Toggle Threads placement on top campaigns with Felipe (Self-serve); monitor delivery for 2-3 weeks",
@@ -292,7 +292,7 @@
     "tags": "team:Self-serve"
   },
   {
-    "stream_name": "Reels 9:16 + audio adoption — push from 14% to top campaigns (+10% CPA RS)",
+    "stream_name": "Reels 9:16 + audio adoption — push from 14% to top campaigns (+10% lower CPA)",
     "subtitle_why": "Q2 RS at 14% adoption today. Underused on top campaigns; +10% lower CPA potential.",
     "subtitle_how": "9:16 video assets exist for some campaigns; adoption fragmented across markets",
     "next_action": "Audit current 9:16 video coverage; target 80% adoption on top 5 campaigns by end of Q2",
@@ -304,7 +304,7 @@
     "tags": "team:Self-serve"
   },
   {
-    "stream_name": "Add animation to image ads — combat creative fatigue (+8% CTR RS)",
+    "stream_name": "Add animation to image ads — combat creative fatigue (+8% CTR vs static)",
     "subtitle_why": "Q2 RS at 0% adoption. Cheap creative lift via animation; +8% CTR vs static benchmark.",
     "subtitle_how": "Static image ads dominate creative pipeline; no animated variants yet",
     "next_action": "Identify top 5 static creatives + brief animator (or auto-animation tool) with Thomas (Brand)",
@@ -316,7 +316,7 @@
     "tags": "team:Brand"
   },
   {
-    "stream_name": "Landing Page Views Optimization — A/B test LPV vs current goal (+14% CPA RS)",
+    "stream_name": "Landing Page Views Optimization — A/B test LPV vs current goal (+14% lower CPA)",
     "subtitle_why": "Q2 2-dot RS at 0% adoption. Low-effort optimization setting change; +14% CPA efficiency on top-funnel campaigns.",
     "subtitle_how": "Optim goal currently set to other objectives; LPV not tested",
     "next_action": "A/B test LPV vs current optim on 1-2 traffic campaigns with Felipe (Self-serve)",
