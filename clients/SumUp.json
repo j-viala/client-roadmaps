@@ -36,18 +36,6 @@
     "tags": "team:B2C"
   },
   {
-    "stream_name": "Branding activation alignment — unblock cross-market deployment",
-    "subtitle_why": "Avoid fragmented brand execution across SumUp markets",
-    "subtitle_how": "Pending response from SumUp brand team — relance needed (long-blocked, kill or revive)",
-    "theme": "Strategic Investments",
-    "status": "Blocked",
-    "meta_owner": "Julian",
-    "client_owner": "Thomas",
-    "sort_order": 4,
-    "next_action": "One last relance — kill the workstream if no reply within 2 weeks",
-    "tags": "team:Brand"
-  },
-  {
     "stream_name": "SumUp Pay (B2C) event optimisation — lift conversion event quality",
     "subtitle_why": "Improve attribution accuracy on first-funding events for SumUp Pay",
     "subtitle_how": "Event optimisation call scheduled with Queenie C.",
