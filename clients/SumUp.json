@@ -99,7 +99,7 @@
   {
     "stream_name": "Pixel hygiene audit",
     "subtitle_why": "Close web event coverage gaps",
-    "subtitle_how": "Awaiting SumUp tech response on Bojana TSC case 1343671247601526",
+    "subtitle_how": "Awaiting SumUp tech response (Bojana, support case ongoing)",
     "theme": "Performance & Growth",
     "status": "Done",
     "meta_owner": "Julian",
@@ -220,9 +220,9 @@
     "tags": "team:Self-serve"
   },
   {
-    "stream_name": "MPA Program — Incremental Attribution coupon take-up",
-    "subtitle_why": "Activate Meta-funded 25% credit (1-25k) on a measurement test before the window closes",
-    "subtitle_how": "Coupon offer (25% credit, 1-25k) surfaced at 10.03 monthly",
+    "stream_name": "Incremental Attribution test — Meta credit opportunity (25%, 1-25k)",
+    "subtitle_why": "Activate Meta credit (25% on 1-25k) on a measurement test before the window closes",
+    "subtitle_how": "Credit offer (25%, 1-25k) surfaced at 10.03 monthly",
     "theme": "Performance & Growth",
     "status": "Open",
     "meta_owner": "Julian",

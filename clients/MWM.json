@@ -45,7 +45,7 @@
     "next_action": ""
   },
   {
-    "stream_name": "Collaborative Ads for App (CASC) — full-funnel pilot",
+    "stream_name": "Collaborative Ads for App — full-funnel pilot",
     "subtitle_why": "Test full-funnel efficiency bridging brand and performance",
     "subtitle_how": "Deck shared to Josselyn, awaiting feedback",
     "theme": "Strategic Investments",
@@ -92,8 +92,8 @@
     "next_action": ""
   },
   {
-    "stream_name": "Partnership Ads program — scale ROAS win + MPA credits + automation",
-    "subtitle_why": "SwipeWipe pilot delivered 13% ROAS vs 6% BAU. Scale across portfolio with Meta-funded credits + workflow automation to remove manual setup overhead.",
+    "stream_name": "Partnership Ads program — scale ROAS win + Meta-funded credits + automation",
+    "subtitle_why": "SwipeWipe pilot delivered 13% ROAS vs 6% BAU. Scale across portfolio with Meta-funded ad credits + workflow automation to remove manual setup overhead.",
     "subtitle_how": "Pilot validated; 0.4% Partnership Ads penetration today across MWM book. Email sent to Josselyn on automation, status unknown. MPA credits program needs green-light before deadline.",
     "theme": "Strategic Investments",
     "status": "In Progress",
@@ -101,13 +101,13 @@
     "client_owner": "Josselyn",
     "sort_order": 15,
     "link_url": "https://docs.google.com/presentation/d/1XaBolEQMuB7Ogmjld5_9UB_Byes2Fo9U5uMyoZZlY4I/edit?slide=id.g359053d8fb6_1_31#slide=id.g359053d8fb6_1_31",
-    "next_action": "Confirm green-light on MPA credits with Josselyn + scope automation rollout for top 5 apps",
+    "next_action": "Confirm green-light on Meta-funded credits with Josselyn + scope automation rollout for top 5 apps",
     "pinned": true
   },
   {
     "stream_name": "Custom Label Audiences beta — audience-level bid optimization",
     "subtitle_why": "Enable granular bid adjustments per audience segment",
-    "subtitle_how": "Beta access available via Value Rules path",
+    "subtitle_how": "Beta opportunity available — can be unlocked via Value Rules setup",
     "theme": "Strategic Investments",
     "status": "Open",
     "meta_owner": "Julian",
@@ -196,17 +196,6 @@
     "client_owner": "Josselyn",
     "sort_order": 25,
     "tags": "WAITING:Josselyn",
-    "next_action": ""
-  },
-  {
-    "stream_name": "Technical betas session with Horia (BizEng)",
-    "subtitle_why": "Scope AEB de-boost fix + Value Rules with engineering team",
-    "subtitle_how": "Meeting not yet scheduled",
-    "theme": "Performance & Growth",
-    "status": "Open",
-    "meta_owner": "Julian",
-    "client_owner": "Horia",
-    "sort_order": 27,
     "next_action": ""
   },
   {
