@@ -1,14 +1,14 @@
 [
   {
-    "stream_name": "App Promotion test — validate Highest Volume bidding before scaling",
-    "subtitle_why": "Validate bidding hypothesis before committing full Q2 budget",
-    "subtitle_how": "Test backlog queued for Q2, nothing live yet",
-    "theme": "Strategic Investments",
-    "status": "Open",
+    "stream_name": "App bidding optimization — validate + scale Highest Volume across portfolio",
+    "subtitle_why": "Validate Highest Volume bidding hypothesis and consolidate winning bids at scale to capture full Q2 budget potential",
+    "subtitle_how": "Test backlog queued for Q2 (validation phase); AAC Highest Volume bid consolidation beta confirmed, weekly rollout in progress",
+    "theme": "Performance & Growth",
+    "status": "In Progress",
     "meta_owner": "Julian",
     "client_owner": "Josselyn",
     "sort_order": 1,
-    "next_action": ""
+    "next_action": "Launch 2 validation test variants + monitor AAC weekly rollout, measure CPA delta"
   },
   {
     "stream_name": "Click-Based Audience Exclusion — remove existing users from targeting",
@@ -30,18 +30,6 @@
     "meta_owner": "Julian + Horia",
     "client_owner": "Josselyn",
     "sort_order": 3,
-    "next_action": ""
-  },
-  {
-    "stream_name": "Advantage+ App Campaign — Highest Volume bid consolidation test",
-    "subtitle_why": "Scale winning creatives with controlled budget across accounts",
-    "subtitle_how": "Beta queue confirmed, weekly rollout in progress",
-    "theme": "Performance & Growth",
-    "status": "In Progress",
-    "meta_owner": "Julian",
-    "client_owner": "Josselyn",
-    "sort_order": 4,
-    "link_url": "https://docs.google.com/spreadsheets/d/1jq5CbXugwqKo3PmcjfA2CfIE-u_iP0BGnKM6lnOOL8s/edit?gid=109251479#gid=109251479",
     "next_action": ""
   },
   {
@@ -69,15 +57,15 @@
     "next_action": ""
   },
   {
-    "stream_name": "Conversions API (CAPI) signal quality — hashed parameters missing",
-    "subtitle_why": "Lift attribution accuracy and delivery quality",
-    "subtitle_how": "Awaiting MWM decision on signal collection expansion",
+    "stream_name": "CAPI signal quality debug — hashed params + Purchase Event troubleshooting",
+    "subtitle_why": "Lift CAPI attribution accuracy by fixing hashed parameter coverage + resolving Purchase Event signal ambiguity (Free Trial conversion confusion)",
+    "subtitle_how": "Both workstreams blocked on MWM technical input — awaiting hashed param decision + campaign data from Josselyn for Free Trial event mapping",
     "theme": "Performance & Growth",
     "status": "Blocked",
     "meta_owner": "Julian",
     "client_owner": "Josselyn",
     "sort_order": 12,
-    "next_action": ""
+    "next_action": "Chase Josselyn on hashed parameter expansion decision + collect Free Trial campaign data for event mapping"
   },
   {
     "stream_name": "Threads placement activation — reach younger audiences",
@@ -184,18 +172,6 @@
     "meta_owner": "Julian",
     "client_owner": "Josselyn",
     "sort_order": 24,
-    "next_action": ""
-  },
-  {
-    "stream_name": "Purchase Event troubleshooting — Free Trial conversion confusion",
-    "subtitle_why": "Clarify conversion event signal quality for optimization",
-    "subtitle_how": "Awaiting campaign data from Josselyn",
-    "theme": "Performance & Growth",
-    "status": "Blocked",
-    "meta_owner": "Julian",
-    "client_owner": "Josselyn",
-    "sort_order": 25,
-    "tags": "WAITING:Josselyn",
     "next_action": ""
   },
   {
