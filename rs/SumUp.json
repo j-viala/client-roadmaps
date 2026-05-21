@@ -2,370 +2,533 @@
   {
     "rank": 1,
     "solution": "Improve CAPI event match quality",
-    "adoption_pct": 0,
+    "what_it_solves": "Restores attribution signal lost to ATT/cookie loss.",
+    "activate_it": [
+      "Improve Conversions API Event Match Quality"
+    ],
     "priority": "Critical",
+    "adoption_pct": 0,
     "stage": "Pitched",
-    "why_it_matters": "Restores attribution signal lost to ATT/cookie loss.",
+    "expected_lift": "+5% lower CPA + 1pt EMQ uplift",
     "tags": "",
     "hidden_by_default": false
   },
   {
     "rank": 2,
     "solution": "Advantage+ placements",
-    "adoption_pct": 0,
+    "what_it_solves": "ML-optimized delivery across surfaces. Beats manual placement selection.",
+    "activate_it": [
+      "Advantage+  placements"
+    ],
     "priority": "Critical",
+    "adoption_pct": 0,
     "stage": "Not started",
-    "why_it_matters": "ML-optimized delivery across surfaces. Beats manual placement selection.",
+    "expected_lift": "+6% lower CPA",
     "tags": "",
     "hidden_by_default": false
   },
   {
     "rank": 3,
     "solution": "Lead-quality bidding (conversion leads goal)",
-    "adoption_pct": 0,
+    "what_it_solves": "Filters spam leads at the bidding layer.",
+    "activate_it": [
+      "Maximize lead quality with instant form conversion leads performance goal"
+    ],
     "priority": "Critical",
+    "adoption_pct": 0,
     "stage": "Not started",
-    "why_it_matters": "Filters spam leads at the bidding layer.",
+    "expected_lift": "",
     "tags": "",
     "hidden_by_default": false
   },
   {
     "rank": 4,
     "solution": "Enable lead verification",
-    "adoption_pct": 0,
+    "what_it_solves": "Pre-fill + verify reduces spam. Higher CRM acceptance rates.",
+    "activate_it": [
+      "Enable SMS Verification for Instant Forms"
+    ],
     "priority": "Critical",
+    "adoption_pct": 0,
     "stage": "Not started",
-    "why_it_matters": "Pre-fill + verify reduces spam. Higher CRM acceptance rates.",
+    "expected_lift": "",
     "tags": "",
     "hidden_by_default": false
   },
   {
     "rank": 5,
     "solution": "Improve CAPI event coverage",
-    "adoption_pct": 0,
+    "what_it_solves": "More events fired = more learning data for ML.",
+    "activate_it": [
+      "Improve CAPI Event Coverage"
+    ],
     "priority": "Critical",
+    "adoption_pct": 0,
     "stage": "Not started",
-    "why_it_matters": "More events fired = more learning data for ML.",
+    "expected_lift": "+10% attribution recovery",
     "tags": "",
     "hidden_by_default": false
   },
   {
     "rank": 6,
     "solution": "Advantage+ campaign budget",
-    "adoption_pct": 1,
+    "what_it_solves": "Budget consolidation. Exits learning phase faster.",
+    "activate_it": [
+      "Add Advantage+ campaign budget"
+    ],
     "priority": "Critical",
+    "adoption_pct": 1,
     "stage": "Not started",
-    "why_it_matters": "Budget consolidation. Exits learning phase faster.",
+    "expected_lift": "+12% lower CPA",
     "tags": "",
     "hidden_by_default": false
   },
   {
     "rank": 7,
     "solution": "Scale Partnership Ads",
-    "adoption_pct": 11,
+    "what_it_solves": "Creator/UGC signal at scale. Brand amplification format.",
+    "activate_it": [
+      "Add partnership ads to BAU strategy",
+      "Partnership Ads Dynamic Header Optimization",
+      "Show products from your catalog with partnership ads"
+    ],
     "priority": "Critical",
+    "adoption_pct": 11,
     "stage": "Not started",
-    "why_it_matters": "Creator/UGC signal at scale. Brand amplification format.",
+    "expected_lift": "+25% CTR vs standard ads",
     "tags": "",
     "hidden_by_default": false
   },
   {
     "rank": 8,
     "solution": "Opt into Reels (9:16 with audio)",
-    "adoption_pct": 15,
+    "what_it_solves": "3.2× more effective for brand impressions. Core of Reels-first strategy.",
+    "activate_it": [
+      "Build Reels ads assets",
+      "Selecting Reels placements",
+      "Add Music",
+      "GenAI Video Expansion for FB Reels",
+      "Enable video expansion via video touch-ups"
+    ],
     "priority": "Critical",
+    "adoption_pct": 15,
     "stage": "Not started",
-    "why_it_matters": "3.2× more effective for brand impressions. Core of Reels-first strategy.",
+    "expected_lift": "3.2× more effective for brand impressions",
     "tags": "",
     "hidden_by_default": false
   },
   {
     "rank": 9,
     "solution": "Increase creative diversification",
-    "adoption_pct": 26,
+    "what_it_solves": "#1 lever for BLS lift and learning-phase exit. Concentrated spend caps performance.",
+    "activate_it": [
+      "Address creative limited",
+      "Create mixed-asset campaigns",
+      "Address creative fatigue",
+      "Improve Creative Volume"
+    ],
     "priority": "Critical",
+    "adoption_pct": 26,
     "stage": "Partially adopted",
-    "why_it_matters": "#1 lever for BLS lift and learning-phase exit. Concentrated spend caps performance.",
+    "expected_lift": "+13% lower CPA",
     "tags": "",
     "hidden_by_default": false
   },
   {
     "rank": 10,
     "solution": "CAPI for CRM integration",
-    "adoption_pct": 0,
+    "what_it_solves": "Sync offline conversions back. Re-attributes B2B funnel.",
+    "activate_it": [
+      "Conversions API for CRM integration",
+      "Integrate CRM with Conversions API"
+    ],
     "priority": "High",
+    "adoption_pct": 0,
     "stage": "Not started",
-    "why_it_matters": "Sync offline conversions back. Re-attributes B2B funnel.",
+    "expected_lift": "",
     "tags": "",
     "hidden_by_default": false
   },
   {
     "rank": 11,
     "solution": "Drive website traffic with website to WhatsApp ads",
-    "adoption_pct": 0,
+    "what_it_solves": "",
+    "activate_it": [
+      "Enable WhatsApp overlay for website campaigns"
+    ],
     "priority": "High",
+    "adoption_pct": 0,
     "stage": "Pitched",
-    "why_it_matters": "",
+    "expected_lift": "",
     "tags": "",
     "hidden_by_default": false
   },
   {
     "rank": 12,
     "solution": "Turn on incremental attribution",
-    "adoption_pct": 0,
+    "what_it_solves": "Counts only conversions Meta drove. Cleaner ROAS reads.",
+    "activate_it": [
+      "Turn on incremental attribution for more conversions"
+    ],
     "priority": "High",
+    "adoption_pct": 0,
     "stage": "Not started",
-    "why_it_matters": "Counts only conversions Meta drove. Cleaner ROAS reads.",
+    "expected_lift": "Understanding true incremental impact",
     "tags": "",
     "hidden_by_default": false
   },
   {
     "rank": 13,
     "solution": "Chat with leads from instant form (Messenger)",
-    "adoption_pct": 0,
+    "what_it_solves": "Continues the conversation. Higher SQL conversion.",
+    "activate_it": [
+      "Chat with leads from instant form on Messenger"
+    ],
     "priority": "High",
+    "adoption_pct": 0,
     "stage": "Not started",
-    "why_it_matters": "Continues the conversation. Higher SQL conversion.",
+    "expected_lift": "",
     "tags": "",
     "hidden_by_default": false
   },
   {
     "rank": 14,
     "solution": "Connect external analytics to Meta",
-    "adoption_pct": 0,
+    "what_it_solves": "Closes the loop between Meta delivery and your BI.",
+    "activate_it": [
+      "Connect your Google analytics tooling to Meta"
+    ],
     "priority": "High",
+    "adoption_pct": 0,
     "stage": "Not started",
-    "why_it_matters": "Closes the loop between Meta delivery and your BI.",
+    "expected_lift": "Full-funnel attribution visibility",
     "tags": "",
     "hidden_by_default": false
   },
   {
     "rank": 15,
     "solution": "Run single-cell Conversion Lift test",
-    "adoption_pct": 0,
+    "what_it_solves": "Causal measurement, not correlation. Defends spend.",
+    "activate_it": [
+      "Single-cell Conversion Lift test"
+    ],
     "priority": "High",
+    "adoption_pct": 0,
     "stage": "Not started",
-    "why_it_matters": "Causal measurement, not correlation. Defends spend.",
+    "expected_lift": "Quantified causal lift measurement",
     "tags": "",
     "hidden_by_default": false
   },
   {
     "rank": 16,
     "solution": "Value optimization for ROAS",
-    "adoption_pct": 0,
+    "what_it_solves": "Optimizes for value, not just conversions. Lifts ROAS.",
+    "activate_it": [
+      "Select value optimization goal"
+    ],
     "priority": "High",
+    "adoption_pct": 0,
     "stage": "Not started",
-    "why_it_matters": "Optimizes for value, not just conversions. Lifts ROAS.",
+    "expected_lift": "+15-20% ROAS uplift",
     "tags": "",
     "hidden_by_default": true
   },
   {
     "rank": 17,
     "solution": "Adopt flexible media",
-    "adoption_pct": 2,
+    "what_it_solves": "Lets system mix-and-match assets for best per-placement combo.",
+    "activate_it": [
+      "Enable flexible media"
+    ],
     "priority": "High",
+    "adoption_pct": 2,
     "stage": "Not started",
-    "why_it_matters": "Lets system mix-and-match assets for best per-placement combo.",
+    "expected_lift": "+5% CPA improvement",
     "tags": "",
     "hidden_by_default": true
   },
   {
     "rank": 18,
     "solution": "Optimize account structure",
-    "adoption_pct": 7,
+    "what_it_solves": "Same logic, account-wide. Compounding gains.",
+    "activate_it": [
+      "Simplify or consolidate ad sets"
+    ],
     "priority": "High",
+    "adoption_pct": 7,
     "stage": "Partially adopted",
-    "why_it_matters": "Same logic, account-wide. Compounding gains.",
+    "expected_lift": "+5% lower CPA",
     "tags": "",
     "hidden_by_default": true
   },
   {
     "rank": 19,
     "solution": "Cross-sell authentication messages",
-    "adoption_pct": 0,
+    "what_it_solves": "Activates WA channel for users on Messenger/Insta.",
+    "activate_it": [
+      "Cross-sell authentication messages to non-WhatsApp client"
+    ],
     "priority": "Medium",
+    "adoption_pct": 0,
     "stage": "Not started",
-    "why_it_matters": "Activates WA channel for users on Messenger/Insta.",
+    "expected_lift": "",
     "tags": "",
     "hidden_by_default": true
   },
   {
     "rank": 20,
     "solution": "Adopt marketing messages on the MM API for WhatsApp",
-    "adoption_pct": 0,
+    "what_it_solves": "",
+    "activate_it": [
+      "Adopt marketing messages on the MM API for WhatsApp"
+    ],
     "priority": "Medium",
+    "adoption_pct": 0,
     "stage": "Not started",
-    "why_it_matters": "",
+    "expected_lift": "",
     "tags": "",
     "hidden_by_default": true
   },
   {
     "rank": 21,
     "solution": "Pitch Cost Cap for higher spend from Bid Cap constraints",
-    "adoption_pct": 0,
+    "what_it_solves": "",
+    "activate_it": [
+      "Switch to cost per result goal bidding from bid cap"
+    ],
     "priority": "Medium",
+    "adoption_pct": 0,
     "stage": "Pitched",
-    "why_it_matters": "",
+    "expected_lift": "",
     "tags": "",
     "hidden_by_default": true
   },
   {
     "rank": 22,
     "solution": "Improve CPA and ROAS by increasing catalog match rate",
-    "adoption_pct": 0,
+    "what_it_solves": "",
+    "activate_it": [
+      "Improve Catalog Match Rate"
+    ],
     "priority": "Medium",
+    "adoption_pct": 0,
     "stage": "Pitched",
-    "why_it_matters": "",
+    "expected_lift": "",
     "tags": "",
     "hidden_by_default": true
   },
   {
     "rank": 23,
     "solution": "Pitch Leads objective (instant form)",
-    "adoption_pct": 0,
+    "what_it_solves": "Lower CPL than off-platform forms. Better mobile UX.",
+    "activate_it": [
+      "Pitch leads objective with instant form to upper funnel advertisers"
+    ],
     "priority": "Medium",
+    "adoption_pct": 0,
     "stage": "Not started",
-    "why_it_matters": "Lower CPL than off-platform forms. Better mobile UX.",
+    "expected_lift": "",
     "tags": "",
     "hidden_by_default": true
   },
   {
     "rank": 24,
     "solution": "Adopt Website and Instant Form multiple conversion location",
-    "adoption_pct": 0,
+    "what_it_solves": "",
+    "activate_it": [
+      "Adopt Website and Instant Form multiple conversion location"
+    ],
     "priority": "Medium",
+    "adoption_pct": 0,
     "stage": "Not started",
-    "why_it_matters": "",
+    "expected_lift": "",
     "tags": "",
     "hidden_by_default": true
   },
   {
     "rank": 25,
     "solution": "Adopt Conversions API",
-    "adoption_pct": 0,
+    "what_it_solves": "",
+    "activate_it": [
+      "Adopt Conversions API"
+    ],
     "priority": "Medium",
+    "adoption_pct": 0,
     "stage": "Not started",
-    "why_it_matters": "",
+    "expected_lift": "",
     "tags": "",
     "hidden_by_default": true
   },
   {
     "rank": 26,
     "solution": "Add animation to image ads",
-    "adoption_pct": 0,
+    "what_it_solves": "Higher CTR + completion vs static. Low-effort production lift.",
+    "activate_it": [
+      "Add animation to your image ads"
+    ],
     "priority": "Medium",
+    "adoption_pct": 0,
     "stage": "Not started",
-    "why_it_matters": "Higher CTR + completion vs static. Low-effort production lift.",
+    "expected_lift": "+8% CTR lift",
     "tags": "",
     "hidden_by_default": true
   },
   {
     "rank": 27,
     "solution": "Enable format automation",
-    "adoption_pct": 0,
+    "what_it_solves": "ML reformats creative across placements automatically. Saves prod cycles.",
+    "activate_it": [
+      "[TEMPORARY NAME] Guidance (product_extension_to_carousel)",
+      "Enable Carousel to Single Image Format"
+    ],
     "priority": "Medium",
+    "adoption_pct": 0,
     "stage": "Not started",
-    "why_it_matters": "ML reformats creative across placements automatically. Saves prod cycles.",
+    "expected_lift": "+5-10% delivery efficiency",
     "tags": "",
     "hidden_by_default": true
   },
   {
     "rank": 28,
     "solution": "Pitch leads objective with instant form to website form advertisers",
-    "adoption_pct": 0,
+    "what_it_solves": "",
+    "activate_it": [
+      "Pitch leads objective with instant form to website form advertisers"
+    ],
     "priority": "Medium",
+    "adoption_pct": 0,
     "stage": "Not started",
-    "why_it_matters": "",
+    "expected_lift": "",
     "tags": "",
     "hidden_by_default": true
   },
   {
     "rank": 29,
     "solution": "Adopt Product Extensions",
-    "adoption_pct": 0,
+    "what_it_solves": "Surfaces SKUs directly. Better PDP discovery.",
+    "activate_it": [
+      "Adopt product extensions"
+    ],
     "priority": "Medium",
+    "adoption_pct": 0,
     "stage": "Pitched",
-    "why_it_matters": "Surfaces SKUs directly. Better PDP discovery.",
+    "expected_lift": "",
     "tags": "",
     "hidden_by_default": true
   },
   {
     "rank": 30,
     "solution": "Paid messaging (whatsapp API)",
-    "adoption_pct": 0,
+    "what_it_solves": "",
+    "activate_it": [
+      "Utility messages upsell",
+      "Upsell MM API for WhatsApp",
+      "Cross -sell authentication messages",
+      "Upsell authentication messages"
+    ],
     "priority": "Medium",
+    "adoption_pct": 0,
     "stage": "Pitched",
-    "why_it_matters": "",
+    "expected_lift": "",
     "tags": "",
     "hidden_by_default": true
   },
   {
     "rank": 31,
     "solution": "OS: Consider landing page views optimization",
-    "adoption_pct": 0,
+    "what_it_solves": "",
+    "activate_it": [
+      "Consider landing page views optimization"
+    ],
     "priority": "Medium",
+    "adoption_pct": 0,
     "stage": "Pitched",
-    "why_it_matters": "",
+    "expected_lift": "",
     "tags": "",
     "hidden_by_default": true
   },
   {
     "rank": 32,
     "solution": "Adopt goal-based bidding",
-    "adoption_pct": 0,
+    "what_it_solves": "Aligns delivery to business KPI vs proxy metric.",
+    "activate_it": [
+      "Goal-based bidding"
+    ],
     "priority": "Medium",
+    "adoption_pct": 0,
     "stage": "Not started",
-    "why_it_matters": "Aligns delivery to business KPI vs proxy metric.",
+    "expected_lift": "+5% lower CPA",
     "tags": "",
     "hidden_by_default": true
   },
   {
     "rank": 33,
     "solution": "Adopt related media suggestions",
-    "adoption_pct": 0,
+    "what_it_solves": "Surface high-affinity variants to keep refresh cadence up.",
+    "activate_it": [
+      "Adopt related media suggestions"
+    ],
     "priority": "Medium",
+    "adoption_pct": 0,
     "stage": "Not started",
-    "why_it_matters": "Surface high-affinity variants to keep refresh cadence up.",
+    "expected_lift": "",
     "tags": "",
     "hidden_by_default": true
   },
   {
     "rank": 34,
     "solution": "Adopt Threads Feed placement",
-    "adoption_pct": 2,
+    "what_it_solves": "Net-new inventory. Early-mover advantage on rising surface.",
+    "activate_it": [
+      "Adopt Threads Feed placement"
+    ],
     "priority": "Medium",
+    "adoption_pct": 2,
     "stage": "Not started",
-    "why_it_matters": "Net-new inventory. Early-mover advantage on rising surface.",
+    "expected_lift": "+10% incremental reach",
     "tags": "",
     "hidden_by_default": true
   },
   {
     "rank": 35,
     "solution": "Marketing Messages on WhatsApp on Ads Manager-Crosssell",
-    "adoption_pct": 0,
+    "what_it_solves": "",
+    "activate_it": [
+      "Marketing Messages on WhatsApp on Ads Manager-Upsell",
+      "Marketing Messages on WhatsApp on Ads Manager-Crosssell"
+    ],
     "priority": "Low",
+    "adoption_pct": 0,
     "stage": "Dismissed",
-    "why_it_matters": "",
+    "expected_lift": "",
     "tags": "",
     "hidden_by_default": true
   },
   {
     "rank": 36,
     "solution": "OS: Unlock Advantage+ Catalog Ads",
-    "adoption_pct": 0,
+    "what_it_solves": "",
+    "activate_it": [
+      "Unlock Advantage+ Catalog Ads"
+    ],
     "priority": "Low",
+    "adoption_pct": 0,
     "stage": "Dismissed",
-    "why_it_matters": "",
+    "expected_lift": "",
     "tags": "",
     "hidden_by_default": true
   },
   {
     "rank": 37,
     "solution": "Advantage+ audience",
-    "adoption_pct": 100,
+    "what_it_solves": "Broad targeting + ML signal. Outperforms most manual interest lists.",
+    "activate_it": [
+      "Advantage+ audience"
+    ],
     "priority": "Low",
+    "adoption_pct": 100,
     "stage": "Adopted",
-    "why_it_matters": "Broad targeting + ML signal. Outperforms most manual interest lists.",
+    "expected_lift": "+15% lower CPA",
     "tags": "",
     "hidden_by_default": true
   }
