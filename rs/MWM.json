@@ -11,7 +11,6 @@
     ],
     "priority": "Critical",
     "adoption_pct": 0,
-    "stage": "Actioned",
     "expected_lift": "+5% lower CPA + 1pt EMQ uplift",
     "references": [
       "Meta CAPI Performance Benchmarks"
@@ -30,7 +29,6 @@
     ],
     "priority": "Critical",
     "adoption_pct": 0,
-    "stage": "Not started",
     "expected_lift": "Full-funnel attribution visibility",
     "references": [
       "Meta GA4 Integration Guide"
@@ -50,7 +48,6 @@
     ],
     "priority": "Critical",
     "adoption_pct": 0,
-    "stage": "Pitched",
     "expected_lift": "Quantified causal lift measurement",
     "references": [
       "Meta Conversion Lift Methodology 2025"
@@ -70,7 +67,6 @@
     ],
     "priority": "Critical",
     "adoption_pct": 0,
-    "stage": "Pitched",
     "expected_lift": "+15-20% conversion volume uplift",
     "references": [
       "Meta Cross-Surface Attribution Report 2025"
@@ -90,7 +86,6 @@
     ],
     "priority": "Critical",
     "adoption_pct": 0,
-    "stage": "Not started",
     "expected_lift": "+6% lower CPA",
     "references": [
       "Meta Advantage+ Benchmarks 2025"
@@ -111,7 +106,6 @@
     ],
     "priority": "Critical",
     "adoption_pct": 2,
-    "stage": "Not started",
     "expected_lift": "+15-20% ROAS uplift (app)",
     "references": [
       "Meta App Advertising Playbook 2025",
@@ -133,7 +127,6 @@
     ],
     "priority": "Critical",
     "adoption_pct": 11,
-    "stage": "Not started",
     "expected_lift": "+25% CTR vs standard ads",
     "references": [
       "Meta Partnership Ads Benchmarks 2025",
@@ -154,7 +147,6 @@
     ],
     "priority": "High",
     "adoption_pct": 0,
-    "stage": "Not started",
     "expected_lift": "+5-10% delivery efficiency",
     "references": [
       "Meta Format Automation Benchmarks 2025"
@@ -173,7 +165,6 @@
     ],
     "priority": "High",
     "adoption_pct": 0,
-    "stage": "Not started",
     "expected_lift": "",
     "references": [
       "Meta Creative Library Insights"
@@ -192,7 +183,6 @@
     ],
     "priority": "High",
     "adoption_pct": 0,
-    "stage": "Not started",
     "expected_lift": "+5% lower CPA",
     "references": [
       "Meta Bidding Strategy Guide 2025"
@@ -209,7 +199,6 @@
     ],
     "priority": "High",
     "adoption_pct": 0,
-    "stage": "Not started",
     "expected_lift": "",
     "references": [],
     "tags": "",
@@ -227,7 +216,6 @@
     ],
     "priority": "High",
     "adoption_pct": 0,
-    "stage": "Pitched",
     "expected_lift": "+5% lower CPA",
     "references": [
       "Meta Account Structure Best Practices 2025"
@@ -248,7 +236,6 @@
     ],
     "priority": "High",
     "adoption_pct": 5,
-    "stage": "Not started",
     "expected_lift": "+15-20% ROAS uplift",
     "references": [
       "Meta Value Optimization Benchmarks"
@@ -265,7 +252,6 @@
     ],
     "priority": "High",
     "adoption_pct": 12,
-    "stage": "Not started",
     "expected_lift": "",
     "references": [],
     "tags": "",
@@ -284,7 +270,6 @@
     ],
     "priority": "High",
     "adoption_pct": 33,
-    "stage": "Actioned",
     "expected_lift": "+13% lower CPA",
     "references": [
       "Meta Creative Insights 2025",
@@ -305,7 +290,6 @@
     ],
     "priority": "High",
     "adoption_pct": 51,
-    "stage": "Not started",
     "expected_lift": "+12% lower CPA",
     "references": [
       "Meta Advantage+ Campaign Budget Benchmarks 2025"
@@ -325,7 +309,6 @@
     ],
     "priority": "High",
     "adoption_pct": 54,
-    "stage": "Partially adopted",
     "expected_lift": "+5% lower CPA",
     "references": [
       "Meta Account Structure Best Practices 2025"
@@ -344,7 +327,6 @@
     ],
     "priority": "Medium",
     "adoption_pct": 0,
-    "stage": "Not started",
     "expected_lift": "",
     "references": [
       "Meta WhatsApp Authentication Playbook"
@@ -363,7 +345,6 @@
     ],
     "priority": "Medium",
     "adoption_pct": 0,
-    "stage": "Not started",
     "expected_lift": "",
     "references": [
       "Meta Messenger Lead Handoff Guide"
@@ -383,7 +364,6 @@
     ],
     "priority": "Medium",
     "adoption_pct": 0,
-    "stage": "Not started",
     "expected_lift": "",
     "references": [
       "Meta CAPI for B2B Benchmarks 2025"
@@ -402,7 +382,6 @@
     ],
     "priority": "Medium",
     "adoption_pct": 0,
-    "stage": "Not started",
     "expected_lift": "",
     "references": [
       "Meta Lead Verification Benchmarks 2025"
@@ -422,7 +401,6 @@
     ],
     "priority": "Medium",
     "adoption_pct": 0,
-    "stage": "Not started",
     "expected_lift": "",
     "references": [
       "Meta Lead Ads Quality Benchmarks 2025"
@@ -442,7 +420,6 @@
     ],
     "priority": "Medium",
     "adoption_pct": 0,
-    "stage": "Pitched",
     "expected_lift": "+8% CTR lift",
     "references": [
       "Meta Advantage+ Creative Benchmarks 2025"
@@ -462,7 +439,6 @@
     ],
     "priority": "Medium",
     "adoption_pct": 0,
-    "stage": "Pitched",
     "expected_lift": "+10% attribution recovery",
     "references": [
       "Meta CAPI Performance Benchmarks"
@@ -479,7 +455,6 @@
     ],
     "priority": "Medium",
     "adoption_pct": 0,
-    "stage": "Not started",
     "expected_lift": "",
     "references": [],
     "tags": "",
@@ -497,7 +472,6 @@
     ],
     "priority": "Medium",
     "adoption_pct": 1,
-    "stage": "Actioned",
     "expected_lift": "+10% incremental reach",
     "references": [
       "Meta Threads Ads Launch Report 2025"
@@ -517,7 +491,6 @@
     ],
     "priority": "Medium",
     "adoption_pct": 38,
-    "stage": "Not started",
     "expected_lift": "+5% CPA improvement",
     "references": [
       "Meta Flexible Media Benchmarks 2025"
@@ -538,7 +511,6 @@
     ],
     "priority": "Medium",
     "adoption_pct": 46,
-    "stage": "Not started",
     "expected_lift": "3.2× more effective for brand impressions",
     "references": [
       "Meta Reels Performance Report 2025"
@@ -558,7 +530,6 @@
     ],
     "priority": "Medium",
     "adoption_pct": 66,
-    "stage": "Partially adopted",
     "expected_lift": "Understanding true incremental impact",
     "references": [
       "Meta Attribution Setting Guide 2025"
@@ -575,7 +546,6 @@
     ],
     "priority": "Low",
     "adoption_pct": 0,
-    "stage": "Dismissed",
     "expected_lift": "",
     "references": [],
     "tags": "",
@@ -593,7 +563,6 @@
     ],
     "priority": "Low",
     "adoption_pct": 0,
-    "stage": "Dismissed",
     "expected_lift": "",
     "references": [
       "Meta Lead Ads Benchmarks 2025"
@@ -610,7 +579,6 @@
     ],
     "priority": "Low",
     "adoption_pct": 0,
-    "stage": "Dismissed",
     "expected_lift": "",
     "references": [],
     "tags": "",
@@ -627,7 +595,6 @@
     ],
     "priority": "Low",
     "adoption_pct": 0,
-    "stage": "Dismissed",
     "expected_lift": "",
     "references": [
       "Meta Product Extensions Benchmarks 2025"
@@ -644,7 +611,6 @@
     ],
     "priority": "Low",
     "adoption_pct": 100,
-    "stage": "Adopted",
     "expected_lift": "",
     "references": [],
     "tags": "",
@@ -659,7 +625,6 @@
     ],
     "priority": "Low",
     "adoption_pct": 100,
-    "stage": "Adopted",
     "expected_lift": "",
     "references": [],
     "tags": "",
@@ -677,7 +642,6 @@
     ],
     "priority": "Low",
     "adoption_pct": 100,
-    "stage": "Not started",
     "expected_lift": "+15% lower CPA",
     "references": [
       "Meta Advantage+ Audience Benchmarks 2025"
