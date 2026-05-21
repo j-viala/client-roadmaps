@@ -1,0 +1,182 @@
+[
+  {
+    "rank": 1,
+    "solution": "Turn on incremental attribution",
+    "adoption_pct": 0,
+    "priority": "Critical",
+    "stage": "Pitched",
+    "why_it_matters": "Counts only conversions Meta drove. Cleaner ROAS reads.",
+    "tags": ""
+  },
+  {
+    "rank": 2,
+    "solution": "Scale Partnership Ads",
+    "adoption_pct": 0,
+    "priority": "Critical",
+    "stage": "Pitched",
+    "why_it_matters": "Creator/UGC signal at scale. Brand amplification format.",
+    "tags": ""
+  },
+  {
+    "rank": 3,
+    "solution": "Run single-cell Conversion Lift test",
+    "adoption_pct": 0,
+    "priority": "Critical",
+    "stage": "Pitched",
+    "why_it_matters": "Causal measurement, not correlation. Defends spend.",
+    "tags": ""
+  },
+  {
+    "rank": 4,
+    "solution": "Simplify or consolidate ad sets",
+    "adoption_pct": 0,
+    "priority": "Critical",
+    "stage": "Pitched",
+    "why_it_matters": "Faster learning phase. Less fragmentation = better delivery.",
+    "tags": ""
+  },
+  {
+    "rank": 5,
+    "solution": "App value optimization (ROAS)",
+    "adoption_pct": 0,
+    "priority": "Critical",
+    "stage": "Pitched",
+    "why_it_matters": "Same logic, app surface. Top lever for app advertisers.",
+    "tags": ""
+  },
+  {
+    "rank": 6,
+    "solution": "Adopt related media suggestions",
+    "adoption_pct": 0,
+    "priority": "High",
+    "stage": "Pitched",
+    "why_it_matters": "Surface high-affinity variants to keep refresh cadence up.",
+    "tags": ""
+  },
+  {
+    "rank": 7,
+    "solution": "Connect external analytics to Meta",
+    "adoption_pct": 0,
+    "priority": "High",
+    "stage": "Pitched",
+    "why_it_matters": "Closes the loop between Meta delivery and your BI.",
+    "tags": ""
+  },
+  {
+    "rank": 8,
+    "solution": "Increase creative diversification",
+    "adoption_pct": 12,
+    "priority": "High",
+    "stage": "Actioned",
+    "why_it_matters": "#1 lever for BLS lift and learning-phase exit. Concentrated spend caps performance.",
+    "tags": ""
+  },
+  {
+    "rank": 9,
+    "solution": "Advantage+ campaign budget",
+    "adoption_pct": 48,
+    "priority": "High",
+    "stage": "Pitched",
+    "why_it_matters": "Budget consolidation. Exits learning phase faster.",
+    "tags": ""
+  },
+  {
+    "rank": 10,
+    "solution": "Adopt Threads Feed placement",
+    "adoption_pct": 0,
+    "priority": "Medium",
+    "stage": "Actioned",
+    "why_it_matters": "Net-new inventory. Early-mover advantage on rising surface.",
+    "tags": ""
+  },
+  {
+    "rank": 11,
+    "solution": "Advantage+ placements",
+    "adoption_pct": 0,
+    "priority": "Medium",
+    "stage": "Pitched",
+    "why_it_matters": "ML-optimized delivery across surfaces. Beats manual placement selection.",
+    "tags": ""
+  },
+  {
+    "rank": 12,
+    "solution": "Adopt flexible media",
+    "adoption_pct": 0,
+    "priority": "Medium",
+    "stage": "Pitched",
+    "why_it_matters": "Lets system mix-and-match assets for best per-placement combo.",
+    "tags": ""
+  },
+  {
+    "rank": 13,
+    "solution": "Optimize your Pixel with High Intent Events",
+    "adoption_pct": 0,
+    "priority": "Medium",
+    "stage": "Pitched",
+    "why_it_matters": "",
+    "tags": ""
+  },
+  {
+    "rank": 14,
+    "solution": "Adopt goal-based bidding",
+    "adoption_pct": 0,
+    "priority": "Medium",
+    "stage": "Pitched",
+    "why_it_matters": "Aligns delivery to business KPI vs proxy metric.",
+    "tags": ""
+  },
+  {
+    "rank": 15,
+    "solution": "Adopt 'website and app' conversion location",
+    "adoption_pct": 0,
+    "priority": "Medium",
+    "stage": "Pitched",
+    "why_it_matters": "Captures cross-surface conversions otherwise lost.",
+    "tags": ""
+  },
+  {
+    "rank": 16,
+    "solution": "Opt into Reels (9:16 with audio)",
+    "adoption_pct": 2,
+    "priority": "Medium",
+    "stage": "Actioned",
+    "why_it_matters": "3.2× more effective for brand impressions. Core of Reels-first strategy.",
+    "tags": ""
+  },
+  {
+    "rank": 17,
+    "solution": "Gen AI Creative: Adopt text generation",
+    "adoption_pct": 3,
+    "priority": "Medium",
+    "stage": "Actioned",
+    "why_it_matters": "",
+    "tags": ""
+  },
+  {
+    "rank": 18,
+    "solution": "Improve CAPI event match quality",
+    "adoption_pct": 4,
+    "priority": "Medium",
+    "stage": "Actioned",
+    "why_it_matters": "Restores attribution signal lost to ATT/cookie loss.",
+    "tags": ""
+  },
+  {
+    "rank": 19,
+    "solution": "Add animation to image ads",
+    "adoption_pct": 12,
+    "priority": "Medium",
+    "stage": "Partially adopted",
+    "why_it_matters": "Higher CTR + completion vs static. Low-effort production lift.",
+    "tags": ""
+  },
+  {
+    "rank": 20,
+    "solution": "Optimize account structure",
+    "adoption_pct": 65,
+    "priority": "Medium",
+    "stage": "Partially adopted",
+    "why_it_matters": "Same logic, account-wide. Compounding gains.",
+    "tags": ""
+  }
+]
