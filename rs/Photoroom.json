@@ -4,12 +4,18 @@
     "solution": "Turn on incremental attribution",
     "what_it_solves": "Counts only conversions Meta drove. Cleaner ROAS reads.",
     "activate_it": [
-      "Turn on incremental attribution for more conversions"
+      "Ads Manager → Account Settings → Attribution Setting → enable Incremental Attribution",
+      "Confirm with analytics team to avoid double-counting in BI dashboards",
+      "Add 'Incremental Conversions' column in reporting view",
+      "Re-baseline ROAS reads after 14d to capture cleaner attribution"
     ],
     "priority": "Critical",
     "adoption_pct": 0,
     "stage": "Pitched",
     "expected_lift": "Understanding true incremental impact",
+    "references": [
+      "Meta Attribution Setting Guide 2025"
+    ],
     "tags": "",
     "hidden_by_default": false
   },
@@ -18,14 +24,20 @@
     "solution": "Scale Partnership Ads",
     "what_it_solves": "Creator/UGC signal at scale. Brand amplification format.",
     "activate_it": [
-      "Add partnership ads to BAU strategy",
-      "Partnership Ads Dynamic Header Optimization",
-      "Show products from your catalog with partnership ads"
+      "Identify creator/UGC partners aligned with brand (use Brand Collabs Manager)",
+      "Set up Partnership Ads in existing campaigns (Ads Manager → Ad level → Partnership Ad toggle)",
+      "Test 3-5 creator concepts in same ad set as BAU creative",
+      "Enable Dynamic Header Optimization for creative variation",
+      "Compare CTR + CPA vs standard ads → scale winners 20%+"
     ],
     "priority": "Critical",
     "adoption_pct": 0,
     "stage": "Pitched",
     "expected_lift": "+25% CTR vs standard ads",
+    "references": [
+      "Meta Partnership Ads Benchmarks 2025",
+      "Meta Creator Marketing Insights"
+    ],
     "tags": "",
     "hidden_by_default": false
   },
@@ -34,12 +46,18 @@
     "solution": "Run single-cell Conversion Lift test",
     "what_it_solves": "Causal measurement, not correlation. Defends spend.",
     "activate_it": [
-      "Single-cell Conversion Lift test"
+      "Open Ads Manager → Experiments → Conversion Lift",
+      "Define one test cell on top-spending campaign (min. $10k spend, 7-day window)",
+      "Configure conversion event + holdout group (Meta team can run setup for you)",
+      "Review lift report at end of test → use to defend run-rate vs CFO"
     ],
     "priority": "Critical",
     "adoption_pct": 0,
     "stage": "Pitched",
     "expected_lift": "Quantified causal lift measurement",
+    "references": [
+      "Meta Conversion Lift Methodology 2025"
+    ],
     "tags": "",
     "hidden_by_default": false
   },
@@ -54,6 +72,7 @@
     "adoption_pct": 0,
     "stage": "Pitched",
     "expected_lift": "+5% lower CPA",
+    "references": [],
     "tags": "",
     "hidden_by_default": false
   },
@@ -62,12 +81,20 @@
     "solution": "App value optimization (ROAS)",
     "what_it_solves": "Same logic, app surface. Top lever for app advertisers.",
     "activate_it": [
-      "Adopt app value optimization to maximize ROAS"
+      "Audit Pixel/SDK value event coverage (Events Manager → Test Events)",
+      "Confirm value parity vs MMP (AppsFlyer / Adjust) on key events",
+      "Switch app campaign optimization goal: Conversions → Value",
+      "Set min ROAS bid floor + monitor 7d learning phase",
+      "Scale budget by 20-30% per week once exiting learning"
     ],
     "priority": "Critical",
     "adoption_pct": 0,
     "stage": "Pitched",
     "expected_lift": "+15-20% ROAS uplift (app)",
+    "references": [
+      "Meta App Advertising Playbook 2025",
+      "Meta Value Optimization Benchmarks"
+    ],
     "tags": "",
     "hidden_by_default": false
   },
@@ -82,6 +109,7 @@
     "adoption_pct": 0,
     "stage": "Pitched",
     "expected_lift": "",
+    "references": [],
     "tags": "",
     "hidden_by_default": false
   },
@@ -96,6 +124,7 @@
     "adoption_pct": 0,
     "stage": "Pitched",
     "expected_lift": "Full-funnel attribution visibility",
+    "references": [],
     "tags": "",
     "hidden_by_default": false
   },
@@ -104,15 +133,20 @@
     "solution": "Increase creative diversification",
     "what_it_solves": "#1 lever for BLS lift and learning-phase exit. Concentrated spend caps performance.",
     "activate_it": [
-      "Address creative limited",
-      "Address creative fatigue",
-      "Create mixed-asset campaigns",
-      "Improve Creative Volume"
+      "Audit current creative split — flag if 1 creative >40% spend",
+      "Brief 3-5 distinct creative concepts per ad set (variant ≠ minor edit)",
+      "Mix formats: video + static + carousel within same ad set",
+      "Use Advantage+ Creative to auto-generate format variants",
+      "Refresh cadence: ≥1 new concept per 2 weeks per ad set"
     ],
     "priority": "High",
     "adoption_pct": 12,
     "stage": "Actioned",
     "expected_lift": "+13% lower CPA",
+    "references": [
+      "Meta Creative Insights 2025",
+      "Meta Creative Diversification Benchmarks"
+    ],
     "tags": "",
     "hidden_by_default": false
   },
@@ -127,6 +161,9 @@
     "adoption_pct": 48,
     "stage": "Pitched",
     "expected_lift": "+12% lower CPA",
+    "references": [
+      "Meta Advantage+ Campaign Budget Benchmarks 2025"
+    ],
     "tags": "",
     "hidden_by_default": false
   },
@@ -141,6 +178,7 @@
     "adoption_pct": 0,
     "stage": "Actioned",
     "expected_lift": "+10% incremental reach",
+    "references": [],
     "tags": "",
     "hidden_by_default": false
   },
@@ -155,6 +193,9 @@
     "adoption_pct": 0,
     "stage": "Pitched",
     "expected_lift": "+6% lower CPA",
+    "references": [
+      "Meta Advantage+ Benchmarks 2025"
+    ],
     "tags": "",
     "hidden_by_default": false
   },
@@ -169,6 +210,7 @@
     "adoption_pct": 0,
     "stage": "Pitched",
     "expected_lift": "+5% CPA improvement",
+    "references": [],
     "tags": "",
     "hidden_by_default": false
   },
@@ -183,6 +225,7 @@
     "adoption_pct": 0,
     "stage": "Pitched",
     "expected_lift": "",
+    "references": [],
     "tags": "",
     "hidden_by_default": false
   },
@@ -197,6 +240,7 @@
     "adoption_pct": 0,
     "stage": "Pitched",
     "expected_lift": "+5% lower CPA",
+    "references": [],
     "tags": "",
     "hidden_by_default": false
   },
@@ -211,6 +255,7 @@
     "adoption_pct": 0,
     "stage": "Pitched",
     "expected_lift": "+15-20% conversion volume uplift",
+    "references": [],
     "tags": "",
     "hidden_by_default": false
   },
@@ -229,6 +274,9 @@
     "adoption_pct": 2,
     "stage": "Actioned",
     "expected_lift": "3.2× more effective for brand impressions",
+    "references": [
+      "Meta Reels Performance Report 2025"
+    ],
     "tags": "",
     "hidden_by_default": true
   },
@@ -243,6 +291,7 @@
     "adoption_pct": 3,
     "stage": "Actioned",
     "expected_lift": "",
+    "references": [],
     "tags": "",
     "hidden_by_default": true
   },
@@ -257,6 +306,9 @@
     "adoption_pct": 4,
     "stage": "Actioned",
     "expected_lift": "+5% lower CPA + 1pt EMQ uplift",
+    "references": [
+      "Meta CAPI Performance Benchmarks"
+    ],
     "tags": "",
     "hidden_by_default": true
   },
@@ -271,6 +323,7 @@
     "adoption_pct": 12,
     "stage": "Partially adopted",
     "expected_lift": "+8% CTR lift",
+    "references": [],
     "tags": "",
     "hidden_by_default": true
   },
@@ -285,6 +338,7 @@
     "adoption_pct": 65,
     "stage": "Partially adopted",
     "expected_lift": "+5% lower CPA",
+    "references": [],
     "tags": "",
     "hidden_by_default": true
   }
