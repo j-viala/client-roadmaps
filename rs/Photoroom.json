@@ -66,13 +66,18 @@
     "solution": "Simplify or consolidate ad sets",
     "what_it_solves": "Faster learning phase. Less fragmentation = better delivery.",
     "activate_it": [
-      "Simplify or consolidate ad sets"
+      "Audit ad set count per campaign — flag if >10 with similar objective + audience",
+      "Merge ad sets with overlapping targeting / same creative pool",
+      "Use Value Rules to prioritize high-value conversions within consolidated set",
+      "Fewer ad sets = faster learning phase exit + better delivery"
     ],
     "priority": "Critical",
     "adoption_pct": 0,
     "stage": "Pitched",
     "expected_lift": "+5% lower CPA",
-    "references": [],
+    "references": [
+      "Meta Account Structure Best Practices 2025"
+    ],
     "tags": "",
     "hidden_by_default": false
   },
@@ -103,13 +108,17 @@
     "solution": "Adopt related media suggestions",
     "what_it_solves": "Surface high-affinity variants to keep refresh cadence up.",
     "activate_it": [
-      "Adopt related media suggestions"
+      "Ads Manager → Creative library → review 'Related media' panel for each top-performing ad",
+      "Add 2-3 system-suggested variants per ad set per refresh cycle",
+      "Keeps refresh cadence up without full new brief"
     ],
     "priority": "High",
     "adoption_pct": 0,
     "stage": "Pitched",
     "expected_lift": "",
-    "references": [],
+    "references": [
+      "Meta Creative Library Insights"
+    ],
     "tags": "",
     "hidden_by_default": false
   },
@@ -118,13 +127,17 @@
     "solution": "Connect external analytics to Meta",
     "what_it_solves": "Closes the loop between Meta delivery and your BI.",
     "activate_it": [
-      "Connect your Google analytics tooling to Meta"
+      "Events Manager → Integrations → connect Google Analytics 4 / Adobe Analytics",
+      "Maps full-funnel events (sessions, scroll depth, on-page actions) into Meta signal",
+      "Improves Meta ML targeting + attribution loop"
     ],
     "priority": "High",
     "adoption_pct": 0,
     "stage": "Pitched",
     "expected_lift": "Full-funnel attribution visibility",
-    "references": [],
+    "references": [
+      "Meta GA4 Integration Guide"
+    ],
     "tags": "",
     "hidden_by_default": false
   },
@@ -155,7 +168,10 @@
     "solution": "Advantage+ campaign budget",
     "what_it_solves": "Budget consolidation. Exits learning phase faster.",
     "activate_it": [
-      "Add Advantage+ campaign budget"
+      "Ads Manager → Campaign level → toggle 'Advantage+ campaign budget' (CBO)",
+      "Consolidate 3+ ad sets under one campaign budget",
+      "System reallocates spend to top-performing ad set automatically",
+      "Exits learning phase 30-40% faster than ABO"
     ],
     "priority": "High",
     "adoption_pct": 48,
@@ -172,13 +188,18 @@
     "solution": "Adopt Threads Feed placement",
     "what_it_solves": "Net-new inventory. Early-mover advantage on rising surface.",
     "activate_it": [
-      "Adopt Threads Feed placement"
+      "Ads Manager → Ad set → Placements → enable Threads Feed (default-on after May 2025)",
+      "If manually excluded, re-enable at ad set level",
+      "Net-new inventory — incremental reach on early adopter surface",
+      "Asset format: 9:16 or 1:1 recommended"
     ],
     "priority": "Medium",
     "adoption_pct": 0,
     "stage": "Actioned",
     "expected_lift": "+10% incremental reach",
-    "references": [],
+    "references": [
+      "Meta Threads Ads Launch Report 2025"
+    ],
     "tags": "",
     "hidden_by_default": false
   },
@@ -187,7 +208,10 @@
     "solution": "Advantage+ placements",
     "what_it_solves": "ML-optimized delivery across surfaces. Beats manual placement selection.",
     "activate_it": [
-      "Advantage+  placements"
+      "Ads Manager → Ad set → Placements → select 'Advantage+ placements'",
+      "ML auto-allocates spend across Feed, Stories, Reels, Marketplace, Audience Network",
+      "Beats manual placement in 80%+ of A/B tests",
+      "Avoid manual placement unless brand-safety constraint"
     ],
     "priority": "Medium",
     "adoption_pct": 0,
@@ -204,13 +228,18 @@
     "solution": "Adopt flexible media",
     "what_it_solves": "Lets system mix-and-match assets for best per-placement combo.",
     "activate_it": [
-      "Enable flexible media"
+      "Ads Manager → Ad level → toggle 'Flexible media'",
+      "Add 5-10 assets per ad set — system mixes per placement automatically",
+      "Confirm brand-safety guardrails on auto-mixed combos",
+      "Compare CPA vs locked-creative ads in same campaign"
     ],
     "priority": "Medium",
     "adoption_pct": 0,
     "stage": "Pitched",
     "expected_lift": "+5% CPA improvement",
-    "references": [],
+    "references": [
+      "Meta Flexible Media Benchmarks 2025"
+    ],
     "tags": "",
     "hidden_by_default": false
   },
@@ -234,13 +263,17 @@
     "solution": "Adopt goal-based bidding",
     "what_it_solves": "Aligns delivery to business KPI vs proxy metric.",
     "activate_it": [
-      "Goal-based bidding"
+      "Ads Manager → Ad set → Bid strategy → switch to 'Goal-based' (Cost cap / Bid cap / ROAS)",
+      "Align bid to business KPI vs proxy",
+      "Allow 7d for learning phase re-stabilization"
     ],
     "priority": "Medium",
     "adoption_pct": 0,
     "stage": "Pitched",
     "expected_lift": "+5% lower CPA",
-    "references": [],
+    "references": [
+      "Meta Bidding Strategy Guide 2025"
+    ],
     "tags": "",
     "hidden_by_default": false
   },
@@ -249,13 +282,18 @@
     "solution": "Adopt 'website and app' conversion location",
     "what_it_solves": "Captures cross-surface conversions otherwise lost.",
     "activate_it": [
-      "Create website and app ads"
+      "Ads Manager → Campaign → Conversion location → 'Website and app'",
+      "Requires both Pixel (web) and App SDK installed + connected",
+      "System bids across both surfaces, optimizes for cross-surface converters",
+      "Captures attribution Meta otherwise loses to Web-to-App handoff"
     ],
     "priority": "Medium",
     "adoption_pct": 0,
     "stage": "Pitched",
     "expected_lift": "+15-20% conversion volume uplift",
-    "references": [],
+    "references": [
+      "Meta Cross-Surface Attribution Report 2025"
+    ],
     "tags": "",
     "hidden_by_default": false
   },
@@ -264,11 +302,11 @@
     "solution": "Opt into Reels (9:16 with audio)",
     "what_it_solves": "3.2× more effective for brand impressions. Core of Reels-first strategy.",
     "activate_it": [
-      "Selecting Reels placements",
-      "Add Music",
-      "Build Reels ads assets",
-      "GenAI Video Expansion for FB Reels",
-      "Enable video expansion via video touch-ups"
+      "Ads Manager → Ad set → Placements → ensure Reels (Facebook + Instagram) ON",
+      "Upload 9:16 vertical video — minimum 1 per ad set",
+      "Add audio track (silent video severely penalized in Reels feed)",
+      "Use GenAI Video Expansion to auto-extend 16:9 → 9:16 if asset library limited",
+      "Track Reels-specific CPM vs Feed CPM (typically -20% on Reels)"
     ],
     "priority": "Medium",
     "adoption_pct": 2,
@@ -300,7 +338,10 @@
     "solution": "Improve CAPI event match quality",
     "what_it_solves": "Restores attribution signal lost to ATT/cookie loss.",
     "activate_it": [
-      "Improve Conversions API Event Match Quality"
+      "Events Manager → Data Sources → check EMQ score per event",
+      "Add missing customer parameters: email, phone, name, IP, user agent (hashed)",
+      "Use Signals Explorer to identify coverage gaps",
+      "Push EMQ to 8+ (sweet spot for attribution recovery)"
     ],
     "priority": "Medium",
     "adoption_pct": 4,
@@ -317,13 +358,18 @@
     "solution": "Add animation to image ads",
     "what_it_solves": "Higher CTR + completion vs static. Low-effort production lift.",
     "activate_it": [
-      "Add animation to your image ads"
+      "Ads Manager → Ad level → Advantage+ Creative → enable 'Add motion to images'",
+      "Test on 50%+ of static-only ad sets first",
+      "Monitor CTR delta vs static-only baseline at day 7",
+      "Roll out animated variants where CTR lift ≥+5%"
     ],
     "priority": "Medium",
     "adoption_pct": 12,
     "stage": "Partially adopted",
     "expected_lift": "+8% CTR lift",
-    "references": [],
+    "references": [
+      "Meta Advantage+ Creative Benchmarks 2025"
+    ],
     "tags": "",
     "hidden_by_default": true
   },
@@ -332,13 +378,18 @@
     "solution": "Optimize account structure",
     "what_it_solves": "Same logic, account-wide. Compounding gains.",
     "activate_it": [
-      "Simplify or consolidate ad sets"
+      "Account-level audit: count of campaigns, ad sets, ads vs spend tier",
+      "Rule of thumb: <50 active ad sets per account for accounts <$1M/mo",
+      "Consolidate per objective/funnel stage, not per micro-targeting",
+      "Re-baseline after restructure (expect 5-10% CPA improvement)"
     ],
     "priority": "Medium",
     "adoption_pct": 65,
     "stage": "Partially adopted",
     "expected_lift": "+5% lower CPA",
-    "references": [],
+    "references": [
+      "Meta Account Structure Best Practices 2025"
+    ],
     "tags": "",
     "hidden_by_default": true
   }
