@@ -6,7 +6,8 @@
     "priority": "Critical",
     "stage": "Not started",
     "why_it_matters": "",
-    "tags": ""
+    "tags": "",
+    "hidden_by_default": false
   },
   {
     "rank": 2,
@@ -15,7 +16,8 @@
     "priority": "Critical",
     "stage": "Not started",
     "why_it_matters": "Captures cross-surface conversions otherwise lost.",
-    "tags": ""
+    "tags": "",
+    "hidden_by_default": false
   },
   {
     "rank": 3,
@@ -24,7 +26,8 @@
     "priority": "Critical",
     "stage": "Pitched",
     "why_it_matters": "#1 lever for BLS lift and learning-phase exit. Concentrated spend caps performance.",
-    "tags": ""
+    "tags": "",
+    "hidden_by_default": false
   },
   {
     "rank": 4,
@@ -33,7 +36,8 @@
     "priority": "High",
     "stage": "Not started",
     "why_it_matters": "Lets system mix-and-match assets for best per-placement combo.",
-    "tags": ""
+    "tags": "",
+    "hidden_by_default": false
   },
   {
     "rank": 5,
@@ -42,7 +46,8 @@
     "priority": "High",
     "stage": "Not started",
     "why_it_matters": "Surface high-affinity variants to keep refresh cadence up.",
-    "tags": ""
+    "tags": "",
+    "hidden_by_default": false
   },
   {
     "rank": 6,
@@ -51,7 +56,8 @@
     "priority": "High",
     "stage": "Actioned",
     "why_it_matters": "Creator/UGC signal at scale. Brand amplification format.",
-    "tags": ""
+    "tags": "",
+    "hidden_by_default": false
   },
   {
     "rank": 7,
@@ -60,7 +66,8 @@
     "priority": "High",
     "stage": "Not started",
     "why_it_matters": "ML reformats creative across placements automatically. Saves prod cycles.",
-    "tags": ""
+    "tags": "",
+    "hidden_by_default": false
   },
   {
     "rank": 8,
@@ -69,7 +76,8 @@
     "priority": "High",
     "stage": "Not started",
     "why_it_matters": "More events fired = more learning data for ML.",
-    "tags": ""
+    "tags": "",
+    "hidden_by_default": false
   },
   {
     "rank": 9,
@@ -78,7 +86,8 @@
     "priority": "High",
     "stage": "Scoped",
     "why_it_matters": "Closes the loop between Meta delivery and your BI.",
-    "tags": ""
+    "tags": "",
+    "hidden_by_default": false
   },
   {
     "rank": 10,
@@ -87,7 +96,8 @@
     "priority": "High",
     "stage": "Partially adopted",
     "why_it_matters": "ML-optimized delivery across surfaces. Beats manual placement selection.",
-    "tags": ""
+    "tags": "",
+    "hidden_by_default": false
   },
   {
     "rank": 11,
@@ -96,7 +106,8 @@
     "priority": "High",
     "stage": "Scoped",
     "why_it_matters": "Broad targeting + ML signal. Outperforms most manual interest lists.",
-    "tags": ""
+    "tags": "",
+    "hidden_by_default": false
   },
   {
     "rank": 12,
@@ -105,7 +116,8 @@
     "priority": "High",
     "stage": "Actioned",
     "why_it_matters": "3.2× more effective for brand impressions. Core of Reels-first strategy.",
-    "tags": ""
+    "tags": "",
+    "hidden_by_default": false
   },
   {
     "rank": 13,
@@ -114,7 +126,8 @@
     "priority": "Medium",
     "stage": "Pitched",
     "why_it_matters": "",
-    "tags": ""
+    "tags": "",
+    "hidden_by_default": false
   },
   {
     "rank": 14,
@@ -123,7 +136,8 @@
     "priority": "Medium",
     "stage": "Not started",
     "why_it_matters": "",
-    "tags": ""
+    "tags": "",
+    "hidden_by_default": false
   },
   {
     "rank": 15,
@@ -132,7 +146,8 @@
     "priority": "Medium",
     "stage": "Not started",
     "why_it_matters": "Continues the conversation. Higher SQL conversion.",
-    "tags": ""
+    "tags": "",
+    "hidden_by_default": false
   },
   {
     "rank": 16,
@@ -141,7 +156,8 @@
     "priority": "Medium",
     "stage": "Not started",
     "why_it_matters": "",
-    "tags": ""
+    "tags": "",
+    "hidden_by_default": true
   },
   {
     "rank": 17,
@@ -150,7 +166,8 @@
     "priority": "Medium",
     "stage": "Not started",
     "why_it_matters": "Aligns delivery to business KPI vs proxy metric.",
-    "tags": ""
+    "tags": "",
+    "hidden_by_default": true
   },
   {
     "rank": 18,
@@ -159,7 +176,8 @@
     "priority": "Medium",
     "stage": "Not started",
     "why_it_matters": "Sync offline conversions back. Re-attributes B2B funnel.",
-    "tags": ""
+    "tags": "",
+    "hidden_by_default": true
   },
   {
     "rank": 19,
@@ -168,7 +186,8 @@
     "priority": "Medium",
     "stage": "Not started",
     "why_it_matters": "",
-    "tags": ""
+    "tags": "",
+    "hidden_by_default": true
   },
   {
     "rank": 20,
@@ -177,7 +196,8 @@
     "priority": "Medium",
     "stage": "Not started",
     "why_it_matters": "Pre-fill + verify reduces spam. Higher CRM acceptance rates.",
-    "tags": ""
+    "tags": "",
+    "hidden_by_default": true
   },
   {
     "rank": 21,
@@ -186,7 +206,8 @@
     "priority": "Medium",
     "stage": "Not started",
     "why_it_matters": "Higher CTR + completion vs static. Low-effort production lift.",
-    "tags": ""
+    "tags": "",
+    "hidden_by_default": true
   },
   {
     "rank": 22,
@@ -195,7 +216,8 @@
     "priority": "Medium",
     "stage": "Not started",
     "why_it_matters": "Filters spam leads at the bidding layer.",
-    "tags": ""
+    "tags": "",
+    "hidden_by_default": true
   },
   {
     "rank": 23,
@@ -204,7 +226,8 @@
     "priority": "Medium",
     "stage": "Partially adopted",
     "why_it_matters": "Budget consolidation. Exits learning phase faster.",
-    "tags": ""
+    "tags": "",
+    "hidden_by_default": true
   },
   {
     "rank": 24,
@@ -213,7 +236,8 @@
     "priority": "Low",
     "stage": "Dismissed",
     "why_it_matters": "",
-    "tags": ""
+    "tags": "",
+    "hidden_by_default": true
   },
   {
     "rank": 25,
@@ -222,7 +246,8 @@
     "priority": "Low",
     "stage": "Dismissed",
     "why_it_matters": "",
-    "tags": ""
+    "tags": "",
+    "hidden_by_default": true
   },
   {
     "rank": 26,
@@ -231,7 +256,8 @@
     "priority": "Low",
     "stage": "Dismissed",
     "why_it_matters": "",
-    "tags": ""
+    "tags": "",
+    "hidden_by_default": true
   },
   {
     "rank": 27,
@@ -240,7 +266,8 @@
     "priority": "Low",
     "stage": "Dismissed",
     "why_it_matters": "Net-new inventory. Early-mover advantage on rising surface.",
-    "tags": ""
+    "tags": "",
+    "hidden_by_default": true
   },
   {
     "rank": 28,
@@ -249,7 +276,8 @@
     "priority": "Low",
     "stage": "Dismissed",
     "why_it_matters": "",
-    "tags": ""
+    "tags": "",
+    "hidden_by_default": true
   },
   {
     "rank": 29,
@@ -258,7 +286,8 @@
     "priority": "Low",
     "stage": "Dismissed",
     "why_it_matters": "",
-    "tags": ""
+    "tags": "",
+    "hidden_by_default": true
   },
   {
     "rank": 30,
@@ -267,7 +296,8 @@
     "priority": "Low",
     "stage": "Dismissed",
     "why_it_matters": "Faster learning phase. Less fragmentation = better delivery.",
-    "tags": ""
+    "tags": "",
+    "hidden_by_default": true
   },
   {
     "rank": 31,
@@ -276,7 +306,8 @@
     "priority": "Low",
     "stage": "Dismissed",
     "why_it_matters": "Optimizes for value, not just conversions. Lifts ROAS.",
-    "tags": ""
+    "tags": "",
+    "hidden_by_default": true
   },
   {
     "rank": 32,
@@ -285,7 +316,8 @@
     "priority": "Low",
     "stage": "Dismissed",
     "why_it_matters": "Counts only conversions Meta drove. Cleaner ROAS reads.",
-    "tags": ""
+    "tags": "",
+    "hidden_by_default": true
   },
   {
     "rank": 33,
@@ -294,7 +326,8 @@
     "priority": "Low",
     "stage": "Adopted",
     "why_it_matters": "",
-    "tags": ""
+    "tags": "",
+    "hidden_by_default": true
   },
   {
     "rank": 34,
@@ -303,7 +336,8 @@
     "priority": "Low",
     "stage": "Adopted",
     "why_it_matters": "Restores attribution signal lost to ATT/cookie loss.",
-    "tags": ""
+    "tags": "",
+    "hidden_by_default": true
   },
   {
     "rank": 35,
@@ -312,6 +346,7 @@
     "priority": "Low",
     "stage": "Adopted",
     "why_it_matters": "Same logic, account-wide. Compounding gains.",
-    "tags": ""
+    "tags": "",
+    "hidden_by_default": true
   }
 ]
