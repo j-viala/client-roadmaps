@@ -11,7 +11,6 @@
     ],
     "priority": "Critical",
     "adoption_pct": 0,
-    "stage": "Pitched",
     "expected_lift": "Understanding true incremental impact",
     "references": [
       "Meta Attribution Setting Guide 2025"
@@ -32,7 +31,6 @@
     ],
     "priority": "Critical",
     "adoption_pct": 0,
-    "stage": "Pitched",
     "expected_lift": "+25% CTR vs standard ads",
     "references": [
       "Meta Partnership Ads Benchmarks 2025",
@@ -53,7 +51,6 @@
     ],
     "priority": "Critical",
     "adoption_pct": 0,
-    "stage": "Pitched",
     "expected_lift": "Quantified causal lift measurement",
     "references": [
       "Meta Conversion Lift Methodology 2025"
@@ -73,7 +70,6 @@
     ],
     "priority": "Critical",
     "adoption_pct": 0,
-    "stage": "Pitched",
     "expected_lift": "+5% lower CPA",
     "references": [
       "Meta Account Structure Best Practices 2025"
@@ -94,7 +90,6 @@
     ],
     "priority": "Critical",
     "adoption_pct": 0,
-    "stage": "Pitched",
     "expected_lift": "+15-20% ROAS uplift (app)",
     "references": [
       "Meta App Advertising Playbook 2025",
@@ -114,7 +109,6 @@
     ],
     "priority": "High",
     "adoption_pct": 0,
-    "stage": "Pitched",
     "expected_lift": "",
     "references": [
       "Meta Creative Library Insights"
@@ -133,7 +127,6 @@
     ],
     "priority": "High",
     "adoption_pct": 0,
-    "stage": "Pitched",
     "expected_lift": "Full-funnel attribution visibility",
     "references": [
       "Meta GA4 Integration Guide"
@@ -154,7 +147,6 @@
     ],
     "priority": "High",
     "adoption_pct": 12,
-    "stage": "Actioned",
     "expected_lift": "+13% lower CPA",
     "references": [
       "Meta Creative Insights 2025",
@@ -175,7 +167,6 @@
     ],
     "priority": "High",
     "adoption_pct": 48,
-    "stage": "Pitched",
     "expected_lift": "+12% lower CPA",
     "references": [
       "Meta Advantage+ Campaign Budget Benchmarks 2025"
@@ -195,7 +186,6 @@
     ],
     "priority": "Medium",
     "adoption_pct": 0,
-    "stage": "Actioned",
     "expected_lift": "+10% incremental reach",
     "references": [
       "Meta Threads Ads Launch Report 2025"
@@ -215,7 +205,6 @@
     ],
     "priority": "Medium",
     "adoption_pct": 0,
-    "stage": "Pitched",
     "expected_lift": "+6% lower CPA",
     "references": [
       "Meta Advantage+ Benchmarks 2025"
@@ -235,7 +224,6 @@
     ],
     "priority": "Medium",
     "adoption_pct": 0,
-    "stage": "Pitched",
     "expected_lift": "+5% CPA improvement",
     "references": [
       "Meta Flexible Media Benchmarks 2025"
@@ -252,7 +240,6 @@
     ],
     "priority": "Medium",
     "adoption_pct": 0,
-    "stage": "Pitched",
     "expected_lift": "",
     "references": [],
     "tags": "",
@@ -269,7 +256,6 @@
     ],
     "priority": "Medium",
     "adoption_pct": 0,
-    "stage": "Pitched",
     "expected_lift": "+5% lower CPA",
     "references": [
       "Meta Bidding Strategy Guide 2025"
@@ -289,7 +275,6 @@
     ],
     "priority": "Medium",
     "adoption_pct": 0,
-    "stage": "Pitched",
     "expected_lift": "+15-20% conversion volume uplift",
     "references": [
       "Meta Cross-Surface Attribution Report 2025"
@@ -310,7 +295,6 @@
     ],
     "priority": "Medium",
     "adoption_pct": 2,
-    "stage": "Actioned",
     "expected_lift": "3.2× more effective for brand impressions",
     "references": [
       "Meta Reels Performance Report 2025"
@@ -327,7 +311,6 @@
     ],
     "priority": "Medium",
     "adoption_pct": 3,
-    "stage": "Actioned",
     "expected_lift": "",
     "references": [],
     "tags": "",
@@ -345,7 +328,6 @@
     ],
     "priority": "Medium",
     "adoption_pct": 4,
-    "stage": "Actioned",
     "expected_lift": "+5% lower CPA + 1pt EMQ uplift",
     "references": [
       "Meta CAPI Performance Benchmarks"
@@ -365,7 +347,6 @@
     ],
     "priority": "Medium",
     "adoption_pct": 12,
-    "stage": "Partially adopted",
     "expected_lift": "+8% CTR lift",
     "references": [
       "Meta Advantage+ Creative Benchmarks 2025"
@@ -385,7 +366,6 @@
     ],
     "priority": "Medium",
     "adoption_pct": 65,
-    "stage": "Partially adopted",
     "expected_lift": "+5% lower CPA",
     "references": [
       "Meta Account Structure Best Practices 2025"
