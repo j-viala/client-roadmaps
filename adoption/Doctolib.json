@@ -1,0 +1,1787 @@
+{
+  "meta": {
+    "schema_version": "v1",
+    "client": "Doctolib",
+    "vertical_benchmark": "Healthcare, Pharmaceuticals & Biotech — Health Tech",
+    "source": "Meta CRM BoB Insights",
+    "snapshot_date": "2026-05-22",
+    "period_label": "Jan → Apr 2026",
+    "geo_scope": [
+      "BE",
+      "FR",
+      "DE",
+      "IT",
+      "LU",
+      "PT",
+      "ES",
+      "CH",
+      "UK"
+    ],
+    "ad_accounts_included": [
+      "[DE - B2C] Paid",
+      "[FR - B2C] Paid",
+      "[FR - B2B] SQL",
+      "Ophta David",
+      "Doctolib Talent DE",
+      "[IT - B2B] SQL",
+      "[DE - B2B] SQL",
+      "[IT - B2C] Organic posts",
+      "[FR - B2C] Organic posts",
+      "[DE - B2C] Organic posts"
+    ],
+    "aggregation_method": "simple_average_across_accounts",
+    "default_view": "ALL",
+    "ui_hint": "sub_tabs"
+  },
+  "views": [
+    {
+      "id": "ALL",
+      "label": "All ad accounts (10)",
+      "ad_account_id": null,
+      "categories": [
+        {
+          "key": "ai_solutions",
+          "name": "AI Solutions",
+          "client_pct_aggregate": 66.05,
+          "benchmark_pct_aggregate": 62.59,
+          "delta_pp_aggregate": 3.46,
+          "products": [
+            {
+              "name": "Advantage+ sales campaign",
+              "client_pct": 38.35,
+              "benchmark_pct": 57.96,
+              "delta_pp": -19.61
+            },
+            {
+              "name": "Advantage+ app campaign",
+              "client_pct": 48.52,
+              "benchmark_pct": 51.04,
+              "delta_pp": -2.52
+            },
+            {
+              "name": "Advantage+ leads campaign",
+              "client_pct": 93.05,
+              "benchmark_pct": 30.79,
+              "delta_pp": 62.26
+            },
+            {
+              "name": "Advantage+ audience",
+              "client_pct": 83.25,
+              "benchmark_pct": 83.3,
+              "delta_pp": -0.05
+            },
+            {
+              "name": "Advantage+ placements",
+              "client_pct": 62.33,
+              "benchmark_pct": 73.74,
+              "delta_pp": -11.41
+            },
+            {
+              "name": "Advantage+ campaign budget",
+              "client_pct": 70.79,
+              "benchmark_pct": 78.69,
+              "delta_pp": -7.9
+            }
+          ]
+        },
+        {
+          "key": "creative_solutions",
+          "name": "Creative Solutions",
+          "client_pct_aggregate": 31.31,
+          "benchmark_pct_aggregate": 34.46,
+          "delta_pp_aggregate": -3.15,
+          "products": [
+            {
+              "name": "Reels opt-in",
+              "client_pct": 97.66,
+              "benchmark_pct": 97.95,
+              "delta_pp": -0.29
+            },
+            {
+              "name": "Partnership ads",
+              "client_pct": 0.68,
+              "benchmark_pct": 9.04,
+              "delta_pp": -8.36
+            },
+            {
+              "name": "Advantage+ creative full opt-in",
+              "client_pct": 13.87,
+              "benchmark_pct": 11.36,
+              "delta_pp": 2.51
+            },
+            {
+              "name": "Advantage+ creative add music",
+              "client_pct": 27.76,
+              "benchmark_pct": 12.95,
+              "delta_pp": 14.81
+            },
+            {
+              "name": "Advantage+ creative flexible media",
+              "client_pct": 13.86,
+              "benchmark_pct": 6.88,
+              "delta_pp": 6.98
+            },
+            {
+              "name": "Ad sets with 9:16 video",
+              "client_pct": 61.84,
+              "benchmark_pct": 76.54,
+              "delta_pp": -14.7
+            },
+            {
+              "name": "Ad sets with 5+ creatives",
+              "client_pct": 34.83,
+              "benchmark_pct": 60.92,
+              "delta_pp": -26.09
+            },
+            {
+              "name": "Catalog product video",
+              "client_pct": 0.0,
+              "benchmark_pct": 0.06,
+              "delta_pp": -0.06
+            }
+          ]
+        },
+        {
+          "key": "business_messaging_solutions",
+          "name": "Business Messaging Solutions",
+          "client_pct_aggregate": 0.0,
+          "benchmark_pct_aggregate": null,
+          "delta_pp_aggregate": null,
+          "products": [
+            {
+              "name": "Click to WhatsApp",
+              "client_pct": 0.0,
+              "benchmark_pct": null,
+              "delta_pp": null,
+              "status": "greenfield"
+            },
+            {
+              "name": "Click to Instagram Direct",
+              "client_pct": 0.0,
+              "benchmark_pct": null,
+              "delta_pp": null,
+              "status": "greenfield"
+            }
+          ]
+        },
+        {
+          "key": "performance_boosters",
+          "name": "Performance Boosters",
+          "client_pct_aggregate": 37.57,
+          "benchmark_pct_aggregate": 36.31,
+          "delta_pp_aggregate": 1.26,
+          "products": [
+            {
+              "name": "6+ Placements opt-in",
+              "client_pct": 82.93,
+              "benchmark_pct": 98.75,
+              "delta_pp": -15.82
+            },
+            {
+              "name": "Value rules",
+              "client_pct": 0.0,
+              "benchmark_pct": 1.24,
+              "delta_pp": -1.24
+            },
+            {
+              "name": "Lead ads (instant forms)",
+              "client_pct": 29.79,
+              "benchmark_pct": 8.94,
+              "delta_pp": 20.85
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "de_b2c_paid",
+      "label": "[DE - B2C] Paid",
+      "ad_account_id": "2711444432470169",
+      "categories": [
+        {
+          "key": "ai_solutions",
+          "name": "AI Solutions",
+          "client_pct_aggregate": 98.51,
+          "benchmark_pct_aggregate": 62.59,
+          "delta_pp_aggregate": 3.09,
+          "products": [
+            {
+              "name": "Advantage+ sales campaign",
+              "client_pct": null,
+              "benchmark_pct": 57.96,
+              "delta_pp": -57.96
+            },
+            {
+              "name": "Advantage+ app campaign",
+              "client_pct": 97.03,
+              "benchmark_pct": 51.04,
+              "delta_pp": 45.99
+            },
+            {
+              "name": "Advantage+ leads campaign",
+              "client_pct": null,
+              "benchmark_pct": 30.79,
+              "delta_pp": -30.79
+            },
+            {
+              "name": "Advantage+ audience",
+              "client_pct": 100.0,
+              "benchmark_pct": 83.3,
+              "delta_pp": 16.7
+            },
+            {
+              "name": "Advantage+ placements",
+              "client_pct": 99.99,
+              "benchmark_pct": 73.74,
+              "delta_pp": 26.25
+            },
+            {
+              "name": "Advantage+ campaign budget",
+              "client_pct": 97.03,
+              "benchmark_pct": 78.69,
+              "delta_pp": 18.33
+            }
+          ]
+        },
+        {
+          "key": "creative_solutions",
+          "name": "Creative Solutions",
+          "client_pct_aggregate": 46.77,
+          "benchmark_pct_aggregate": 34.46,
+          "delta_pp_aggregate": 12.31,
+          "products": [
+            {
+              "name": "Reels opt-in",
+              "client_pct": 100.0,
+              "benchmark_pct": 97.95,
+              "delta_pp": 2.05
+            },
+            {
+              "name": "Partnership ads",
+              "client_pct": 0.0,
+              "benchmark_pct": 9.04,
+              "delta_pp": -9.04
+            },
+            {
+              "name": "Advantage+ creative full opt-in",
+              "client_pct": 3.85,
+              "benchmark_pct": 11.36,
+              "delta_pp": -7.5
+            },
+            {
+              "name": "Advantage+ creative add music",
+              "client_pct": 33.42,
+              "benchmark_pct": 12.95,
+              "delta_pp": 20.47
+            },
+            {
+              "name": "Advantage+ creative flexible media",
+              "client_pct": 38.56,
+              "benchmark_pct": 6.88,
+              "delta_pp": 31.69
+            },
+            {
+              "name": "Ad sets with 9:16 video",
+              "client_pct": 99.99,
+              "benchmark_pct": 76.54,
+              "delta_pp": 23.45
+            },
+            {
+              "name": "Ad sets with 5+ creatives",
+              "client_pct": 98.33,
+              "benchmark_pct": 60.92,
+              "delta_pp": 37.41
+            },
+            {
+              "name": "Catalog product video",
+              "client_pct": 0.0,
+              "benchmark_pct": 0.06,
+              "delta_pp": -0.06
+            }
+          ]
+        },
+        {
+          "key": "business_messaging_solutions",
+          "name": "Business Messaging Solutions",
+          "client_pct_aggregate": 0.0,
+          "benchmark_pct_aggregate": null,
+          "delta_pp_aggregate": 0.0,
+          "products": [
+            {
+              "name": "Click to WhatsApp",
+              "client_pct": 0.0,
+              "benchmark_pct": null,
+              "delta_pp": 0.0,
+              "status": "greenfield"
+            },
+            {
+              "name": "Click to Instagram Direct",
+              "client_pct": 0.0,
+              "benchmark_pct": null,
+              "delta_pp": 0.0,
+              "status": "greenfield"
+            }
+          ]
+        },
+        {
+          "key": "performance_boosters",
+          "name": "Performance Boosters",
+          "client_pct_aggregate": 33.33,
+          "benchmark_pct_aggregate": 36.31,
+          "delta_pp_aggregate": -2.98,
+          "products": [
+            {
+              "name": "6+ Placements opt-in",
+              "client_pct": 100.0,
+              "benchmark_pct": 98.75,
+              "delta_pp": 1.25
+            },
+            {
+              "name": "Value rules",
+              "client_pct": 0.0,
+              "benchmark_pct": 1.24,
+              "delta_pp": -1.24
+            },
+            {
+              "name": "Lead ads (instant forms)",
+              "client_pct": 0.0,
+              "benchmark_pct": 8.94,
+              "delta_pp": -8.94
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fr_b2c_paid",
+      "label": "[FR - B2C] Paid",
+      "ad_account_id": "1405639453252445",
+      "categories": [
+        {
+          "key": "ai_solutions",
+          "name": "AI Solutions",
+          "client_pct_aggregate": 5.0,
+          "benchmark_pct_aggregate": 62.59,
+          "delta_pp_aggregate": -60.09,
+          "products": [
+            {
+              "name": "Advantage+ sales campaign",
+              "client_pct": null,
+              "benchmark_pct": 57.96,
+              "delta_pp": -57.96
+            },
+            {
+              "name": "Advantage+ app campaign",
+              "client_pct": null,
+              "benchmark_pct": 51.04,
+              "delta_pp": -51.04
+            },
+            {
+              "name": "Advantage+ leads campaign",
+              "client_pct": null,
+              "benchmark_pct": 30.79,
+              "delta_pp": -30.79
+            },
+            {
+              "name": "Advantage+ audience",
+              "client_pct": 0.0,
+              "benchmark_pct": 83.3,
+              "delta_pp": -83.3
+            },
+            {
+              "name": "Advantage+ placements",
+              "client_pct": 15.01,
+              "benchmark_pct": 73.74,
+              "delta_pp": -58.73
+            },
+            {
+              "name": "Advantage+ campaign budget",
+              "client_pct": 0.0,
+              "benchmark_pct": 78.69,
+              "delta_pp": -78.69
+            }
+          ]
+        },
+        {
+          "key": "creative_solutions",
+          "name": "Creative Solutions",
+          "client_pct_aggregate": 36.46,
+          "benchmark_pct_aggregate": 34.46,
+          "delta_pp_aggregate": 2.0,
+          "products": [
+            {
+              "name": "Reels opt-in",
+              "client_pct": 100.0,
+              "benchmark_pct": 97.95,
+              "delta_pp": 2.05
+            },
+            {
+              "name": "Partnership ads",
+              "client_pct": 0.0,
+              "benchmark_pct": 9.04,
+              "delta_pp": -9.04
+            },
+            {
+              "name": "Advantage+ creative full opt-in",
+              "client_pct": 0.02,
+              "benchmark_pct": 11.36,
+              "delta_pp": -11.34
+            },
+            {
+              "name": "Advantage+ creative add music",
+              "client_pct": 0.0,
+              "benchmark_pct": 12.95,
+              "delta_pp": -12.95
+            },
+            {
+              "name": "Advantage+ creative flexible media",
+              "client_pct": 0.0,
+              "benchmark_pct": 6.88,
+              "delta_pp": -6.88
+            },
+            {
+              "name": "Ad sets with 9:16 video",
+              "client_pct": 94.78,
+              "benchmark_pct": 76.54,
+              "delta_pp": 18.24
+            },
+            {
+              "name": "Ad sets with 5+ creatives",
+              "client_pct": 96.89,
+              "benchmark_pct": 60.92,
+              "delta_pp": 35.97
+            },
+            {
+              "name": "Catalog product video",
+              "client_pct": 0.0,
+              "benchmark_pct": 0.06,
+              "delta_pp": -0.06
+            }
+          ]
+        },
+        {
+          "key": "business_messaging_solutions",
+          "name": "Business Messaging Solutions",
+          "client_pct_aggregate": 0.0,
+          "benchmark_pct_aggregate": null,
+          "delta_pp_aggregate": 0.0,
+          "products": [
+            {
+              "name": "Click to WhatsApp",
+              "client_pct": 0.0,
+              "benchmark_pct": null,
+              "delta_pp": 0.0,
+              "status": "greenfield"
+            },
+            {
+              "name": "Click to Instagram Direct",
+              "client_pct": 0.0,
+              "benchmark_pct": null,
+              "delta_pp": 0.0,
+              "status": "greenfield"
+            }
+          ]
+        },
+        {
+          "key": "performance_boosters",
+          "name": "Performance Boosters",
+          "client_pct_aggregate": 33.33,
+          "benchmark_pct_aggregate": 36.31,
+          "delta_pp_aggregate": -2.98,
+          "products": [
+            {
+              "name": "6+ Placements opt-in",
+              "client_pct": 100.0,
+              "benchmark_pct": 98.75,
+              "delta_pp": 1.25
+            },
+            {
+              "name": "Value rules",
+              "client_pct": 0.0,
+              "benchmark_pct": 1.24,
+              "delta_pp": -1.24
+            },
+            {
+              "name": "Lead ads (instant forms)",
+              "client_pct": 0.0,
+              "benchmark_pct": 8.94,
+              "delta_pp": -8.94
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fr_b2b_sql",
+      "label": "[FR - B2B] SQL",
+      "ad_account_id": "1491191987823180",
+      "categories": [
+        {
+          "key": "ai_solutions",
+          "name": "AI Solutions",
+          "client_pct_aggregate": 87.32,
+          "benchmark_pct_aggregate": 62.59,
+          "delta_pp_aggregate": -4.38,
+          "products": [
+            {
+              "name": "Advantage+ sales campaign",
+              "client_pct": null,
+              "benchmark_pct": 57.96,
+              "delta_pp": -57.96
+            },
+            {
+              "name": "Advantage+ app campaign",
+              "client_pct": null,
+              "benchmark_pct": 51.04,
+              "delta_pp": -51.04
+            },
+            {
+              "name": "Advantage+ leads campaign",
+              "client_pct": 80.02,
+              "benchmark_pct": 30.79,
+              "delta_pp": 49.23
+            },
+            {
+              "name": "Advantage+ audience",
+              "client_pct": 96.22,
+              "benchmark_pct": 83.3,
+              "delta_pp": 12.92
+            },
+            {
+              "name": "Advantage+ placements",
+              "client_pct": 85.85,
+              "benchmark_pct": 73.74,
+              "delta_pp": 12.1
+            },
+            {
+              "name": "Advantage+ campaign budget",
+              "client_pct": 87.19,
+              "benchmark_pct": 78.69,
+              "delta_pp": 8.49
+            }
+          ]
+        },
+        {
+          "key": "creative_solutions",
+          "name": "Creative Solutions",
+          "client_pct_aggregate": 26.08,
+          "benchmark_pct_aggregate": 34.46,
+          "delta_pp_aggregate": -8.39,
+          "products": [
+            {
+              "name": "Reels opt-in",
+              "client_pct": 100.0,
+              "benchmark_pct": 97.95,
+              "delta_pp": 2.05
+            },
+            {
+              "name": "Partnership ads",
+              "client_pct": 0.7,
+              "benchmark_pct": 9.04,
+              "delta_pp": -8.35
+            },
+            {
+              "name": "Advantage+ creative full opt-in",
+              "client_pct": 0.02,
+              "benchmark_pct": 11.36,
+              "delta_pp": -11.34
+            },
+            {
+              "name": "Advantage+ creative add music",
+              "client_pct": 0.0,
+              "benchmark_pct": 12.95,
+              "delta_pp": -12.95
+            },
+            {
+              "name": "Advantage+ creative flexible media",
+              "client_pct": 0.0,
+              "benchmark_pct": 6.88,
+              "delta_pp": -6.88
+            },
+            {
+              "name": "Ad sets with 9:16 video",
+              "client_pct": 83.36,
+              "benchmark_pct": 76.54,
+              "delta_pp": 6.82
+            },
+            {
+              "name": "Ad sets with 5+ creatives",
+              "client_pct": 24.53,
+              "benchmark_pct": 60.92,
+              "delta_pp": -36.39
+            },
+            {
+              "name": "Catalog product video",
+              "client_pct": 0.0,
+              "benchmark_pct": 0.06,
+              "delta_pp": -0.06
+            }
+          ]
+        },
+        {
+          "key": "business_messaging_solutions",
+          "name": "Business Messaging Solutions",
+          "client_pct_aggregate": 0.0,
+          "benchmark_pct_aggregate": null,
+          "delta_pp_aggregate": 0.0,
+          "products": [
+            {
+              "name": "Click to WhatsApp",
+              "client_pct": 0.0,
+              "benchmark_pct": null,
+              "delta_pp": 0.0,
+              "status": "greenfield"
+            },
+            {
+              "name": "Click to Instagram Direct",
+              "client_pct": 0.0,
+              "benchmark_pct": null,
+              "delta_pp": 0.0,
+              "status": "greenfield"
+            }
+          ]
+        },
+        {
+          "key": "performance_boosters",
+          "name": "Performance Boosters",
+          "client_pct_aggregate": 61.34,
+          "benchmark_pct_aggregate": 36.31,
+          "delta_pp_aggregate": 25.03,
+          "products": [
+            {
+              "name": "6+ Placements opt-in",
+              "client_pct": 100.0,
+              "benchmark_pct": 98.75,
+              "delta_pp": 1.25
+            },
+            {
+              "name": "Value rules",
+              "client_pct": 0.0,
+              "benchmark_pct": 1.24,
+              "delta_pp": -1.24
+            },
+            {
+              "name": "Lead ads (instant forms)",
+              "client_pct": 84.02,
+              "benchmark_pct": 8.94,
+              "delta_pp": 75.08
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ophta_david",
+      "label": "Ophta David",
+      "ad_account_id": "504846743507500",
+      "categories": [
+        {
+          "key": "ai_solutions",
+          "name": "AI Solutions",
+          "client_pct_aggregate": 100.0,
+          "benchmark_pct_aggregate": 62.59,
+          "delta_pp_aggregate": 4.08,
+          "products": [
+            {
+              "name": "Advantage+ sales campaign",
+              "client_pct": null,
+              "benchmark_pct": 57.96,
+              "delta_pp": -57.96
+            },
+            {
+              "name": "Advantage+ app campaign",
+              "client_pct": null,
+              "benchmark_pct": 51.04,
+              "delta_pp": -51.04
+            },
+            {
+              "name": "Advantage+ leads campaign",
+              "client_pct": 100.0,
+              "benchmark_pct": 30.79,
+              "delta_pp": 69.21
+            },
+            {
+              "name": "Advantage+ audience",
+              "client_pct": 100.0,
+              "benchmark_pct": 83.3,
+              "delta_pp": 16.7
+            },
+            {
+              "name": "Advantage+ placements",
+              "client_pct": 100.0,
+              "benchmark_pct": 73.74,
+              "delta_pp": 26.26
+            },
+            {
+              "name": "Advantage+ campaign budget",
+              "client_pct": 100.0,
+              "benchmark_pct": 78.69,
+              "delta_pp": 21.31
+            }
+          ]
+        },
+        {
+          "key": "creative_solutions",
+          "name": "Creative Solutions",
+          "client_pct_aggregate": 34.22,
+          "benchmark_pct_aggregate": 34.46,
+          "delta_pp_aggregate": -0.24,
+          "products": [
+            {
+              "name": "Reels opt-in",
+              "client_pct": 100.0,
+              "benchmark_pct": 97.95,
+              "delta_pp": 2.05
+            },
+            {
+              "name": "Partnership ads",
+              "client_pct": 0.0,
+              "benchmark_pct": 9.04,
+              "delta_pp": -9.04
+            },
+            {
+              "name": "Advantage+ creative full opt-in",
+              "client_pct": 0.0,
+              "benchmark_pct": 11.36,
+              "delta_pp": -11.36
+            },
+            {
+              "name": "Advantage+ creative add music",
+              "client_pct": 73.79,
+              "benchmark_pct": 12.95,
+              "delta_pp": 60.84
+            },
+            {
+              "name": "Advantage+ creative flexible media",
+              "client_pct": 100.0,
+              "benchmark_pct": 6.88,
+              "delta_pp": 93.12
+            },
+            {
+              "name": "Ad sets with 9:16 video",
+              "client_pct": 0.0,
+              "benchmark_pct": 76.54,
+              "delta_pp": -76.54
+            },
+            {
+              "name": "Ad sets with 5+ creatives",
+              "client_pct": 0.0,
+              "benchmark_pct": 60.92,
+              "delta_pp": -60.92
+            },
+            {
+              "name": "Catalog product video",
+              "client_pct": 0.0,
+              "benchmark_pct": 0.06,
+              "delta_pp": -0.06
+            }
+          ]
+        },
+        {
+          "key": "business_messaging_solutions",
+          "name": "Business Messaging Solutions",
+          "client_pct_aggregate": 0.0,
+          "benchmark_pct_aggregate": null,
+          "delta_pp_aggregate": 0.0,
+          "products": [
+            {
+              "name": "Click to WhatsApp",
+              "client_pct": 0.0,
+              "benchmark_pct": null,
+              "delta_pp": 0.0,
+              "status": "greenfield"
+            },
+            {
+              "name": "Click to Instagram Direct",
+              "client_pct": 0.0,
+              "benchmark_pct": null,
+              "delta_pp": 0.0,
+              "status": "greenfield"
+            }
+          ]
+        },
+        {
+          "key": "performance_boosters",
+          "name": "Performance Boosters",
+          "client_pct_aggregate": 42.07,
+          "benchmark_pct_aggregate": 36.31,
+          "delta_pp_aggregate": 5.76,
+          "products": [
+            {
+              "name": "6+ Placements opt-in",
+              "client_pct": 100.0,
+              "benchmark_pct": 98.75,
+              "delta_pp": 1.25
+            },
+            {
+              "name": "Value rules",
+              "client_pct": 0.0,
+              "benchmark_pct": 1.24,
+              "delta_pp": -1.24
+            },
+            {
+              "name": "Lead ads (instant forms)",
+              "client_pct": 26.21,
+              "benchmark_pct": 8.94,
+              "delta_pp": 17.27
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doctolib_talent_de",
+      "label": "Doctolib Talent DE",
+      "ad_account_id": "109947526534950",
+      "categories": [
+        {
+          "key": "ai_solutions",
+          "name": "AI Solutions",
+          "client_pct_aggregate": 58.29,
+          "benchmark_pct_aggregate": 62.59,
+          "delta_pp_aggregate": -33.44,
+          "products": [
+            {
+              "name": "Advantage+ sales campaign",
+              "client_pct": null,
+              "benchmark_pct": 57.96,
+              "delta_pp": -57.96
+            },
+            {
+              "name": "Advantage+ app campaign",
+              "client_pct": null,
+              "benchmark_pct": 51.04,
+              "delta_pp": -51.04
+            },
+            {
+              "name": "Advantage+ leads campaign",
+              "client_pct": null,
+              "benchmark_pct": 30.79,
+              "delta_pp": -30.79
+            },
+            {
+              "name": "Advantage+ audience",
+              "client_pct": 76.44,
+              "benchmark_pct": 83.3,
+              "delta_pp": -6.86
+            },
+            {
+              "name": "Advantage+ placements",
+              "client_pct": 0.0,
+              "benchmark_pct": 73.74,
+              "delta_pp": -73.74
+            },
+            {
+              "name": "Advantage+ campaign budget",
+              "client_pct": 98.44,
+              "benchmark_pct": 78.69,
+              "delta_pp": 19.75
+            }
+          ]
+        },
+        {
+          "key": "creative_solutions",
+          "name": "Creative Solutions",
+          "client_pct_aggregate": 25.12,
+          "benchmark_pct_aggregate": 34.46,
+          "delta_pp_aggregate": -9.34,
+          "products": [
+            {
+              "name": "Reels opt-in",
+              "client_pct": 100.0,
+              "benchmark_pct": 97.95,
+              "delta_pp": 2.05
+            },
+            {
+              "name": "Partnership ads",
+              "client_pct": 0.0,
+              "benchmark_pct": 9.04,
+              "delta_pp": -9.04
+            },
+            {
+              "name": "Advantage+ creative full opt-in",
+              "client_pct": 0.0,
+              "benchmark_pct": 11.36,
+              "delta_pp": -11.36
+            },
+            {
+              "name": "Advantage+ creative add music",
+              "client_pct": 99.65,
+              "benchmark_pct": 12.95,
+              "delta_pp": 86.7
+            },
+            {
+              "name": "Advantage+ creative flexible media",
+              "client_pct": 0.0,
+              "benchmark_pct": 6.88,
+              "delta_pp": -6.88
+            },
+            {
+              "name": "Ad sets with 9:16 video",
+              "client_pct": 0.0,
+              "benchmark_pct": 76.54,
+              "delta_pp": -76.54
+            },
+            {
+              "name": "Ad sets with 5+ creatives",
+              "client_pct": 1.34,
+              "benchmark_pct": 60.92,
+              "delta_pp": -59.58
+            },
+            {
+              "name": "Catalog product video",
+              "client_pct": 0.0,
+              "benchmark_pct": 0.06,
+              "delta_pp": -0.06
+            }
+          ]
+        },
+        {
+          "key": "business_messaging_solutions",
+          "name": "Business Messaging Solutions",
+          "client_pct_aggregate": 0.0,
+          "benchmark_pct_aggregate": null,
+          "delta_pp_aggregate": 0.0,
+          "products": [
+            {
+              "name": "Click to WhatsApp",
+              "client_pct": 0.0,
+              "benchmark_pct": null,
+              "delta_pp": 0.0,
+              "status": "greenfield"
+            },
+            {
+              "name": "Click to Instagram Direct",
+              "client_pct": 0.0,
+              "benchmark_pct": null,
+              "delta_pp": 0.0,
+              "status": "greenfield"
+            }
+          ]
+        },
+        {
+          "key": "performance_boosters",
+          "name": "Performance Boosters",
+          "client_pct_aggregate": 0.0,
+          "benchmark_pct_aggregate": 36.31,
+          "delta_pp_aggregate": -36.31,
+          "products": [
+            {
+              "name": "6+ Placements opt-in",
+              "client_pct": 0.0,
+              "benchmark_pct": 98.75,
+              "delta_pp": -98.75
+            },
+            {
+              "name": "Value rules",
+              "client_pct": 0.0,
+              "benchmark_pct": 1.24,
+              "delta_pp": -1.24
+            },
+            {
+              "name": "Lead ads (instant forms)",
+              "client_pct": 0.0,
+              "benchmark_pct": 8.94,
+              "delta_pp": -8.94
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "it_b2b_sql",
+      "label": "[IT - B2B] SQL",
+      "ad_account_id": "212729167499794",
+      "categories": [
+        {
+          "key": "ai_solutions",
+          "name": "AI Solutions",
+          "client_pct_aggregate": 97.83,
+          "benchmark_pct_aggregate": 62.59,
+          "delta_pp_aggregate": 2.64,
+          "products": [
+            {
+              "name": "Advantage+ sales campaign",
+              "client_pct": null,
+              "benchmark_pct": 57.96,
+              "delta_pp": -57.96
+            },
+            {
+              "name": "Advantage+ app campaign",
+              "client_pct": null,
+              "benchmark_pct": 51.04,
+              "delta_pp": -51.04
+            },
+            {
+              "name": "Advantage+ leads campaign",
+              "client_pct": 97.83,
+              "benchmark_pct": 30.79,
+              "delta_pp": 67.04
+            },
+            {
+              "name": "Advantage+ audience",
+              "client_pct": 97.83,
+              "benchmark_pct": 83.3,
+              "delta_pp": 14.54
+            },
+            {
+              "name": "Advantage+ placements",
+              "client_pct": 97.83,
+              "benchmark_pct": 73.74,
+              "delta_pp": 24.09
+            },
+            {
+              "name": "Advantage+ campaign budget",
+              "client_pct": 97.83,
+              "benchmark_pct": 78.69,
+              "delta_pp": 19.14
+            }
+          ]
+        },
+        {
+          "key": "creative_solutions",
+          "name": "Creative Solutions",
+          "client_pct_aggregate": 25.75,
+          "benchmark_pct_aggregate": 34.46,
+          "delta_pp_aggregate": -8.71,
+          "products": [
+            {
+              "name": "Reels opt-in",
+              "client_pct": 100.0,
+              "benchmark_pct": 97.95,
+              "delta_pp": 2.05
+            },
+            {
+              "name": "Partnership ads",
+              "client_pct": 0.0,
+              "benchmark_pct": 9.04,
+              "delta_pp": -9.04
+            },
+            {
+              "name": "Advantage+ creative full opt-in",
+              "client_pct": 0.0,
+              "benchmark_pct": 11.36,
+              "delta_pp": -11.36
+            },
+            {
+              "name": "Advantage+ creative add music",
+              "client_pct": 0.0,
+              "benchmark_pct": 12.95,
+              "delta_pp": -12.95
+            },
+            {
+              "name": "Advantage+ creative flexible media",
+              "client_pct": 0.0,
+              "benchmark_pct": 6.88,
+              "delta_pp": -6.88
+            },
+            {
+              "name": "Ad sets with 9:16 video",
+              "client_pct": 84.52,
+              "benchmark_pct": 76.54,
+              "delta_pp": 7.99
+            },
+            {
+              "name": "Ad sets with 5+ creatives",
+              "client_pct": 21.51,
+              "benchmark_pct": 60.92,
+              "delta_pp": -39.41
+            },
+            {
+              "name": "Catalog product video",
+              "client_pct": 0.0,
+              "benchmark_pct": 0.06,
+              "delta_pp": -0.06
+            }
+          ]
+        },
+        {
+          "key": "business_messaging_solutions",
+          "name": "Business Messaging Solutions",
+          "client_pct_aggregate": 0.0,
+          "benchmark_pct_aggregate": null,
+          "delta_pp_aggregate": 0.0,
+          "products": [
+            {
+              "name": "Click to WhatsApp",
+              "client_pct": 0.0,
+              "benchmark_pct": null,
+              "delta_pp": 0.0,
+              "status": "greenfield"
+            },
+            {
+              "name": "Click to Instagram Direct",
+              "client_pct": 0.0,
+              "benchmark_pct": null,
+              "delta_pp": 0.0,
+              "status": "greenfield"
+            }
+          ]
+        },
+        {
+          "key": "performance_boosters",
+          "name": "Performance Boosters",
+          "client_pct_aggregate": 66.58,
+          "benchmark_pct_aggregate": 36.31,
+          "delta_pp_aggregate": 30.27,
+          "products": [
+            {
+              "name": "6+ Placements opt-in",
+              "client_pct": 100.0,
+              "benchmark_pct": 98.75,
+              "delta_pp": 1.25
+            },
+            {
+              "name": "Value rules",
+              "client_pct": 0.0,
+              "benchmark_pct": 1.24,
+              "delta_pp": -1.24
+            },
+            {
+              "name": "Lead ads (instant forms)",
+              "client_pct": 99.74,
+              "benchmark_pct": 8.94,
+              "delta_pp": 90.8
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "de_b2b_sql",
+      "label": "[DE - B2B] SQL",
+      "ad_account_id": "423640678506023",
+      "categories": [
+        {
+          "key": "ai_solutions",
+          "name": "AI Solutions",
+          "client_pct_aggregate": 96.24,
+          "benchmark_pct_aggregate": 62.59,
+          "delta_pp_aggregate": 1.58,
+          "products": [
+            {
+              "name": "Advantage+ sales campaign",
+              "client_pct": null,
+              "benchmark_pct": 57.96,
+              "delta_pp": -57.96
+            },
+            {
+              "name": "Advantage+ app campaign",
+              "client_pct": null,
+              "benchmark_pct": 51.04,
+              "delta_pp": -51.04
+            },
+            {
+              "name": "Advantage+ leads campaign",
+              "client_pct": 94.35,
+              "benchmark_pct": 30.79,
+              "delta_pp": 63.56
+            },
+            {
+              "name": "Advantage+ audience",
+              "client_pct": 98.01,
+              "benchmark_pct": 83.3,
+              "delta_pp": 14.71
+            },
+            {
+              "name": "Advantage+ placements",
+              "client_pct": 95.6,
+              "benchmark_pct": 73.74,
+              "delta_pp": 21.86
+            },
+            {
+              "name": "Advantage+ campaign budget",
+              "client_pct": 97.01,
+              "benchmark_pct": 78.69,
+              "delta_pp": 18.32
+            }
+          ]
+        },
+        {
+          "key": "creative_solutions",
+          "name": "Creative Solutions",
+          "client_pct_aggregate": 21.86,
+          "benchmark_pct_aggregate": 34.46,
+          "delta_pp_aggregate": -12.6,
+          "products": [
+            {
+              "name": "Reels opt-in",
+              "client_pct": 100.0,
+              "benchmark_pct": 97.95,
+              "delta_pp": 2.05
+            },
+            {
+              "name": "Partnership ads",
+              "client_pct": 0.0,
+              "benchmark_pct": 9.04,
+              "delta_pp": -9.04
+            },
+            {
+              "name": "Advantage+ creative full opt-in",
+              "client_pct": 0.0,
+              "benchmark_pct": 11.36,
+              "delta_pp": -11.36
+            },
+            {
+              "name": "Advantage+ creative add music",
+              "client_pct": 0.0,
+              "benchmark_pct": 12.95,
+              "delta_pp": -12.95
+            },
+            {
+              "name": "Advantage+ creative flexible media",
+              "client_pct": 0.0,
+              "benchmark_pct": 6.88,
+              "delta_pp": -6.88
+            },
+            {
+              "name": "Ad sets with 9:16 video",
+              "client_pct": 58.94,
+              "benchmark_pct": 76.54,
+              "delta_pp": -17.6
+            },
+            {
+              "name": "Ad sets with 5+ creatives",
+              "client_pct": 15.98,
+              "benchmark_pct": 60.92,
+              "delta_pp": -44.93
+            },
+            {
+              "name": "Catalog product video",
+              "client_pct": 0.0,
+              "benchmark_pct": 0.06,
+              "delta_pp": -0.06
+            }
+          ]
+        },
+        {
+          "key": "business_messaging_solutions",
+          "name": "Business Messaging Solutions",
+          "client_pct_aggregate": 0.0,
+          "benchmark_pct_aggregate": null,
+          "delta_pp_aggregate": 0.0,
+          "products": [
+            {
+              "name": "Click to WhatsApp",
+              "client_pct": 0.0,
+              "benchmark_pct": null,
+              "delta_pp": 0.0,
+              "status": "greenfield"
+            },
+            {
+              "name": "Click to Instagram Direct",
+              "client_pct": 0.0,
+              "benchmark_pct": null,
+              "delta_pp": 0.0,
+              "status": "greenfield"
+            }
+          ]
+        },
+        {
+          "key": "performance_boosters",
+          "name": "Performance Boosters",
+          "client_pct_aggregate": 62.63,
+          "benchmark_pct_aggregate": 36.31,
+          "delta_pp_aggregate": 26.32,
+          "products": [
+            {
+              "name": "6+ Placements opt-in",
+              "client_pct": 100.0,
+              "benchmark_pct": 98.75,
+              "delta_pp": 1.25
+            },
+            {
+              "name": "Value rules",
+              "client_pct": 0.0,
+              "benchmark_pct": 1.24,
+              "delta_pp": -1.24
+            },
+            {
+              "name": "Lead ads (instant forms)",
+              "client_pct": 87.89,
+              "benchmark_pct": 8.94,
+              "delta_pp": 78.95
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "it_b2c_organic_posts",
+      "label": "[IT - B2C] Organic posts",
+      "ad_account_id": "991706264801211",
+      "categories": [
+        {
+          "key": "ai_solutions",
+          "name": "AI Solutions",
+          "client_pct_aggregate": 53.83,
+          "benchmark_pct_aggregate": 62.59,
+          "delta_pp_aggregate": -17.73,
+          "products": [
+            {
+              "name": "Advantage+ sales campaign",
+              "client_pct": 38.35,
+              "benchmark_pct": 57.96,
+              "delta_pp": -19.61
+            },
+            {
+              "name": "Advantage+ app campaign",
+              "client_pct": 0.0,
+              "benchmark_pct": 51.04,
+              "delta_pp": -51.04
+            },
+            {
+              "name": "Advantage+ leads campaign",
+              "client_pct": null,
+              "benchmark_pct": 30.79,
+              "delta_pp": -30.79
+            },
+            {
+              "name": "Advantage+ audience",
+              "client_pct": 98.18,
+              "benchmark_pct": 83.3,
+              "delta_pp": 14.88
+            },
+            {
+              "name": "Advantage+ placements",
+              "client_pct": 98.36,
+              "benchmark_pct": 73.74,
+              "delta_pp": 24.62
+            },
+            {
+              "name": "Advantage+ campaign budget",
+              "client_pct": 34.26,
+              "benchmark_pct": 78.69,
+              "delta_pp": -44.43
+            }
+          ]
+        },
+        {
+          "key": "creative_solutions",
+          "name": "Creative Solutions",
+          "client_pct_aggregate": 33.61,
+          "benchmark_pct_aggregate": 34.46,
+          "delta_pp_aggregate": -0.86,
+          "products": [
+            {
+              "name": "Reels opt-in",
+              "client_pct": 99.82,
+              "benchmark_pct": 97.95,
+              "delta_pp": 1.87
+            },
+            {
+              "name": "Partnership ads",
+              "client_pct": 0.01,
+              "benchmark_pct": 9.04,
+              "delta_pp": -9.03
+            },
+            {
+              "name": "Advantage+ creative full opt-in",
+              "client_pct": 20.54,
+              "benchmark_pct": 11.36,
+              "delta_pp": 9.18
+            },
+            {
+              "name": "Advantage+ creative add music",
+              "client_pct": 1.16,
+              "benchmark_pct": 12.95,
+              "delta_pp": -11.79
+            },
+            {
+              "name": "Advantage+ creative flexible media",
+              "client_pct": 0.0,
+              "benchmark_pct": 6.88,
+              "delta_pp": -6.88
+            },
+            {
+              "name": "Ad sets with 9:16 video",
+              "client_pct": 93.69,
+              "benchmark_pct": 76.54,
+              "delta_pp": 17.15
+            },
+            {
+              "name": "Ad sets with 5+ creatives",
+              "client_pct": 53.63,
+              "benchmark_pct": 60.92,
+              "delta_pp": -7.29
+            },
+            {
+              "name": "Catalog product video",
+              "client_pct": 0.0,
+              "benchmark_pct": 0.06,
+              "delta_pp": -0.06
+            }
+          ]
+        },
+        {
+          "key": "business_messaging_solutions",
+          "name": "Business Messaging Solutions",
+          "client_pct_aggregate": 0.0,
+          "benchmark_pct_aggregate": null,
+          "delta_pp_aggregate": 0.0,
+          "products": [
+            {
+              "name": "Click to WhatsApp",
+              "client_pct": 0.0,
+              "benchmark_pct": null,
+              "delta_pp": 0.0,
+              "status": "greenfield"
+            },
+            {
+              "name": "Click to Instagram Direct",
+              "client_pct": 0.0,
+              "benchmark_pct": null,
+              "delta_pp": 0.0,
+              "status": "greenfield"
+            }
+          ]
+        },
+        {
+          "key": "performance_boosters",
+          "name": "Performance Boosters",
+          "client_pct_aggregate": 33.27,
+          "benchmark_pct_aggregate": 36.31,
+          "delta_pp_aggregate": -3.04,
+          "products": [
+            {
+              "name": "6+ Placements opt-in",
+              "client_pct": 99.82,
+              "benchmark_pct": 98.75,
+              "delta_pp": 1.07
+            },
+            {
+              "name": "Value rules",
+              "client_pct": 0.0,
+              "benchmark_pct": 1.24,
+              "delta_pp": -1.24
+            },
+            {
+              "name": "Lead ads (instant forms)",
+              "client_pct": 0.0,
+              "benchmark_pct": 8.94,
+              "delta_pp": -8.94
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fr_b2c_organic_posts",
+      "label": "[FR - B2C] Organic posts",
+      "ad_account_id": "1569824603500645",
+      "categories": [
+        {
+          "key": "ai_solutions",
+          "name": "AI Solutions",
+          "client_pct_aggregate": 62.85,
+          "benchmark_pct_aggregate": 62.59,
+          "delta_pp_aggregate": -31.16,
+          "products": [
+            {
+              "name": "Advantage+ sales campaign",
+              "client_pct": null,
+              "benchmark_pct": 57.96,
+              "delta_pp": -57.96
+            },
+            {
+              "name": "Advantage+ app campaign",
+              "client_pct": null,
+              "benchmark_pct": 51.04,
+              "delta_pp": -51.04
+            },
+            {
+              "name": "Advantage+ leads campaign",
+              "client_pct": null,
+              "benchmark_pct": 30.79,
+              "delta_pp": -30.79
+            },
+            {
+              "name": "Advantage+ audience",
+              "client_pct": 65.86,
+              "benchmark_pct": 83.3,
+              "delta_pp": -17.43
+            },
+            {
+              "name": "Advantage+ placements",
+              "client_pct": 30.02,
+              "benchmark_pct": 73.74,
+              "delta_pp": -43.72
+            },
+            {
+              "name": "Advantage+ campaign budget",
+              "client_pct": 92.68,
+              "benchmark_pct": 78.69,
+              "delta_pp": 13.99
+            }
+          ]
+        },
+        {
+          "key": "creative_solutions",
+          "name": "Creative Solutions",
+          "client_pct_aggregate": 34.87,
+          "benchmark_pct_aggregate": 34.46,
+          "delta_pp_aggregate": 0.41,
+          "products": [
+            {
+              "name": "Reels opt-in",
+              "client_pct": 94.95,
+              "benchmark_pct": 97.95,
+              "delta_pp": -3.0
+            },
+            {
+              "name": "Partnership ads",
+              "client_pct": 0.04,
+              "benchmark_pct": 9.04,
+              "delta_pp": -9.0
+            },
+            {
+              "name": "Advantage+ creative full opt-in",
+              "client_pct": 87.52,
+              "benchmark_pct": 11.36,
+              "delta_pp": 76.16
+            },
+            {
+              "name": "Advantage+ creative add music",
+              "client_pct": 68.89,
+              "benchmark_pct": 12.95,
+              "delta_pp": 55.95
+            },
+            {
+              "name": "Advantage+ creative flexible media",
+              "client_pct": 0.0,
+              "benchmark_pct": 6.88,
+              "delta_pp": -6.88
+            },
+            {
+              "name": "Ad sets with 9:16 video",
+              "client_pct": 27.54,
+              "benchmark_pct": 76.54,
+              "delta_pp": -49.0
+            },
+            {
+              "name": "Ad sets with 5+ creatives",
+              "client_pct": 0.0,
+              "benchmark_pct": 60.92,
+              "delta_pp": -60.92
+            },
+            {
+              "name": "Catalog product video",
+              "client_pct": 0.0,
+              "benchmark_pct": 0.06,
+              "delta_pp": -0.06
+            }
+          ]
+        },
+        {
+          "key": "business_messaging_solutions",
+          "name": "Business Messaging Solutions",
+          "client_pct_aggregate": 0.0,
+          "benchmark_pct_aggregate": null,
+          "delta_pp_aggregate": 0.0,
+          "products": [
+            {
+              "name": "Click to WhatsApp",
+              "client_pct": 0.0,
+              "benchmark_pct": null,
+              "delta_pp": 0.0,
+              "status": "greenfield"
+            },
+            {
+              "name": "Click to Instagram Direct",
+              "client_pct": 0.0,
+              "benchmark_pct": null,
+              "delta_pp": 0.0,
+              "status": "greenfield"
+            }
+          ]
+        },
+        {
+          "key": "performance_boosters",
+          "name": "Performance Boosters",
+          "client_pct_aggregate": 29.52,
+          "benchmark_pct_aggregate": 36.31,
+          "delta_pp_aggregate": -6.79,
+          "products": [
+            {
+              "name": "6+ Placements opt-in",
+              "client_pct": 88.55,
+              "benchmark_pct": 98.75,
+              "delta_pp": -10.19
+            },
+            {
+              "name": "Value rules",
+              "client_pct": 0.0,
+              "benchmark_pct": 1.24,
+              "delta_pp": -1.24
+            },
+            {
+              "name": "Lead ads (instant forms)",
+              "client_pct": 0.0,
+              "benchmark_pct": 8.94,
+              "delta_pp": -8.94
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "de_b2c_organic_posts",
+      "label": "[DE - B2C] Organic posts",
+      "ad_account_id": "554236905704153",
+      "categories": [
+        {
+          "key": "ai_solutions",
+          "name": "AI Solutions",
+          "client_pct_aggregate": 34.7,
+          "benchmark_pct_aggregate": 62.59,
+          "delta_pp_aggregate": -45.24,
+          "products": [
+            {
+              "name": "Advantage+ sales campaign",
+              "client_pct": null,
+              "benchmark_pct": 57.96,
+              "delta_pp": -57.96
+            },
+            {
+              "name": "Advantage+ app campaign",
+              "client_pct": null,
+              "benchmark_pct": 51.04,
+              "delta_pp": -51.04
+            },
+            {
+              "name": "Advantage+ leads campaign",
+              "client_pct": null,
+              "benchmark_pct": 30.79,
+              "delta_pp": -30.79
+            },
+            {
+              "name": "Advantage+ audience",
+              "client_pct": 100.0,
+              "benchmark_pct": 83.3,
+              "delta_pp": 16.7
+            },
+            {
+              "name": "Advantage+ placements",
+              "client_pct": 0.64,
+              "benchmark_pct": 73.74,
+              "delta_pp": -73.11
+            },
+            {
+              "name": "Advantage+ campaign budget",
+              "client_pct": 3.45,
+              "benchmark_pct": 78.69,
+              "delta_pp": -75.24
+            }
+          ]
+        },
+        {
+          "key": "creative_solutions",
+          "name": "Creative Solutions",
+          "client_pct_aggregate": 28.36,
+          "benchmark_pct_aggregate": 34.46,
+          "delta_pp_aggregate": -6.1,
+          "products": [
+            {
+              "name": "Reels opt-in",
+              "client_pct": 81.82,
+              "benchmark_pct": 97.95,
+              "delta_pp": -16.13
+            },
+            {
+              "name": "Partnership ads",
+              "client_pct": 6.01,
+              "benchmark_pct": 9.04,
+              "delta_pp": -3.04
+            },
+            {
+              "name": "Advantage+ creative full opt-in",
+              "client_pct": 26.73,
+              "benchmark_pct": 11.36,
+              "delta_pp": 15.37
+            },
+            {
+              "name": "Advantage+ creative add music",
+              "client_pct": 0.64,
+              "benchmark_pct": 12.95,
+              "delta_pp": -12.31
+            },
+            {
+              "name": "Advantage+ creative flexible media",
+              "client_pct": 0.0,
+              "benchmark_pct": 6.88,
+              "delta_pp": -6.88
+            },
+            {
+              "name": "Ad sets with 9:16 video",
+              "client_pct": 75.6,
+              "benchmark_pct": 76.54,
+              "delta_pp": -0.94
+            },
+            {
+              "name": "Ad sets with 5+ creatives",
+              "client_pct": 36.09,
+              "benchmark_pct": 60.92,
+              "delta_pp": -24.83
+            },
+            {
+              "name": "Catalog product video",
+              "client_pct": 0.0,
+              "benchmark_pct": 0.06,
+              "delta_pp": -0.06
+            }
+          ]
+        },
+        {
+          "key": "business_messaging_solutions",
+          "name": "Business Messaging Solutions",
+          "client_pct_aggregate": 0.0,
+          "benchmark_pct_aggregate": null,
+          "delta_pp_aggregate": 0.0,
+          "products": [
+            {
+              "name": "Click to WhatsApp",
+              "client_pct": 0.0,
+              "benchmark_pct": null,
+              "delta_pp": 0.0,
+              "status": "greenfield"
+            },
+            {
+              "name": "Click to Instagram Direct",
+              "client_pct": 0.0,
+              "benchmark_pct": null,
+              "delta_pp": 0.0,
+              "status": "greenfield"
+            }
+          ]
+        },
+        {
+          "key": "performance_boosters",
+          "name": "Performance Boosters",
+          "client_pct_aggregate": 13.66,
+          "benchmark_pct_aggregate": 36.31,
+          "delta_pp_aggregate": -22.65,
+          "products": [
+            {
+              "name": "6+ Placements opt-in",
+              "client_pct": 40.97,
+              "benchmark_pct": 98.75,
+              "delta_pp": -57.77
+            },
+            {
+              "name": "Value rules",
+              "client_pct": 0.0,
+              "benchmark_pct": 1.24,
+              "delta_pp": -1.24
+            },
+            {
+              "name": "Lead ads (instant forms)",
+              "client_pct": 0.0,
+              "benchmark_pct": 8.94,
+              "delta_pp": -8.94
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
