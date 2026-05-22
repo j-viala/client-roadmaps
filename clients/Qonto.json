@@ -35,13 +35,14 @@
     "subtitle_how": "Live campaign running. 8 mid-flight optimization recos in implementation tracking.",
     "next_action": "Share live campaign screenshot + dashboard access to Meta team",
     "theme": "Performance & Growth",
-    "status": "In Progress",
+    "status": "Done",
     "meta_owner": "Julian",
     "client_owner": "Qonto",
     "sort_order": 3,
     "deadline": "",
     "link_url": "",
-    "tags": "market:DE,bls"
+    "tags": "market:DE,bls",
+    "pinned": false
   },
   {
     "stream_name": "Creative pipeline — scale to 6-10 active creatives",
@@ -49,13 +50,14 @@
     "subtitle_how": "New assets in production, delivery dates pending confirmation.",
     "next_action": "Confirm delivery dates for new creative batch",
     "theme": "Performance & Growth",
-    "status": "Open",
+    "status": "Done",
     "meta_owner": "Julian",
     "client_owner": "Qonto",
     "sort_order": 4,
     "deadline": "",
     "link_url": "",
-    "tags": "creative-diversity,rs-canonical:creative-diversification"
+    "tags": "creative-diversity,rs-canonical:creative-diversification",
+    "pinned": false
   },
   {
     "stream_name": "Branding FR July — Reels Trending Ads brief",
@@ -69,7 +71,8 @@
     "sort_order": 5,
     "deadline": "2026-06-15",
     "link_url": "",
-    "tags": "market:FR,branding,reels"
+    "tags": "market:FR,branding,reels",
+    "pinned": false
   },
   {
     "stream_name": "Q2 BLS DE mid-flight optimization checkpoint",
@@ -77,13 +80,14 @@
     "subtitle_how": "Q2 BLS DE live. Adoption status of 8 reco unknown.",
     "next_action": "Review mid-flight delivery report with Qonto",
     "theme": "Performance & Growth",
-    "status": "Open",
+    "status": "Done",
     "meta_owner": "Julian",
     "client_owner": "Qonto",
     "sort_order": 6,
     "deadline": "",
     "link_url": "",
-    "tags": "market:DE,bls,checkpoint"
+    "tags": "market:DE,bls,checkpoint",
+    "pinned": false
   },
   {
     "stream_name": "Push Delivery rollout — better ad rotation",
@@ -91,12 +95,58 @@
     "subtitle_how": "Not yet scoped. Client surfaced interest in May 7 bi-weekly.",
     "next_action": "Scope Push Delivery applicability + draft client pitch",
     "theme": "Performance & Growth",
-    "status": "Open",
+    "status": "Done",
     "meta_owner": "Julian",
     "client_owner": "Qonto",
     "sort_order": 7,
     "deadline": "",
     "link_url": "",
-    "tags": "push-delivery,rs-canonical:push-delivery"
+    "tags": "push-delivery,rs-canonical:push-delivery",
+    "pinned": false
+  },
+  {
+    "stream_name": "CI License DE rollout — share ad creation/targeting impact",
+    "subtitle_why": "Qonto raised CI License coming H2 2026. Meta needs to proactively surface implications on ad creation rules and targeting limitations.",
+    "subtitle_how": "Coordinate with Policy + Product Marketing to compile current+upcoming restrictions. Share before next bi-weekly.",
+    "next_action": "Pull Policy/PMM brief on CI ad ecosystem changes",
+    "theme": "Strategic Investments",
+    "status": "Open",
+    "meta_owner": "Julian",
+    "client_owner": "Qonto DE",
+    "sort_order": 8,
+    "deadline": "2026-06-04",
+    "link_url": "",
+    "tags": "market:DE,policy,ci-license",
+    "pinned": false
+  },
+  {
+    "stream_name": "GbR Launch — fix Week2/Week3 Purchase event attribution",
+    "subtitle_why": "GbR creates 2-3 week delay between Contract Signed and revenue. Current Purchase event timing breaks attribution for delayed conversions.",
+    "subtitle_how": "Engage CAPI/Analytics team to design tracking pattern (extended attribution window / custom event). Document for Qonto integration.",
+    "next_action": "Brief CAPI specialist + draft tracking proposal",
+    "theme": "Performance & Growth",
+    "status": "Open",
+    "meta_owner": "Julian",
+    "client_owner": "Qonto DE",
+    "sort_order": 9,
+    "deadline": "2026-06-04",
+    "link_url": "",
+    "tags": "market:DE,capi,attribution,measurement",
+    "pinned": true
+  },
+  {
+    "stream_name": "Send updated Q3 RS deck for Qonto DE",
+    "subtitle_why": "Explicit ask from Qonto DE on May 21 bi-weekly. Q3 planning kickoff — RS prioritization needed.",
+    "subtitle_how": "Pull latest rs/Qonto.json top recos, contextualize for DE market, format as deck.",
+    "next_action": "Draft Q3 RS deck and share",
+    "theme": "Strategic Investments",
+    "status": "Open",
+    "meta_owner": "Julian",
+    "client_owner": "Qonto DE",
+    "sort_order": 10,
+    "deadline": "2026-06-04",
+    "link_url": "",
+    "tags": "market:DE,rs,q3-planning",
+    "pinned": true
   }
 ]
