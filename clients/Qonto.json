@@ -1,26 +1,5 @@
 [
   {
-    "stream_name": "Suivre case Qonto ES — vérification alternative annonceur (Karine)",
-    "subtitle_why": "Qonto ES growth blocked by alternative annonceur verification stuck côté Meta. No resolution = no spend ramp in Iberia.",
-    "subtitle_how": "Karine attend alternative verification annonceur côté Meta. Relancer si pas de progrès avant deadline.",
-    "next_action": "Relancer Karine + Policy avant 2026-06-02",
-    "market": "ES",
-    "topics": [
-      "case-followup",
-      "verification",
-      "policy"
-    ],
-    "priority": "P1",
-    "theme": "Strategic Investments",
-    "status": "Open",
-    "meta_owner": "Julian",
-    "client_owner": "Qonto",
-    "sort_order": 1,
-    "deadline": "2026-06-02",
-    "link_url": "",
-    "pinned": true
-  },
-  {
     "stream_name": "Push 'website + app' conversion location rec — Critical RS unactioned",
     "subtitle_why": "Top RS in Qonto book. Adoption unlocks attributed revenue lift.",
     "subtitle_how": "Brief client on the recommendation, target adoption Q2.",
@@ -35,7 +14,7 @@
     "status": "Open",
     "meta_owner": "Julian",
     "client_owner": "Qonto",
-    "sort_order": 2,
+    "sort_order": 1,
     "deadline": "",
     "link_url": "",
     "pinned": true
@@ -55,7 +34,7 @@
     "status": "Done",
     "meta_owner": "Julian",
     "client_owner": "Qonto",
-    "sort_order": 3,
+    "sort_order": 2,
     "deadline": "",
     "link_url": "",
     "pinned": false
@@ -75,7 +54,7 @@
     "status": "Done",
     "meta_owner": "Julian",
     "client_owner": "Qonto",
-    "sort_order": 4,
+    "sort_order": 3,
     "deadline": "",
     "link_url": "",
     "pinned": false
@@ -95,7 +74,7 @@
     "status": "Open",
     "meta_owner": "Julian",
     "client_owner": "Qonto",
-    "sort_order": 5,
+    "sort_order": 4,
     "deadline": "2026-06-15",
     "link_url": "",
     "pinned": false
@@ -115,7 +94,7 @@
     "status": "Done",
     "meta_owner": "Julian",
     "client_owner": "Qonto",
-    "sort_order": 6,
+    "sort_order": 5,
     "deadline": "",
     "link_url": "",
     "pinned": false
@@ -135,7 +114,7 @@
     "status": "Done",
     "meta_owner": "Julian",
     "client_owner": "Qonto",
-    "sort_order": 7,
+    "sort_order": 6,
     "deadline": "",
     "link_url": "",
     "pinned": false
@@ -155,7 +134,7 @@
     "status": "Open",
     "meta_owner": "Julian",
     "client_owner": "Qonto DE",
-    "sort_order": 8,
+    "sort_order": 7,
     "deadline": "2026-06-04",
     "link_url": "",
     "pinned": false
@@ -176,7 +155,7 @@
     "status": "Open",
     "meta_owner": "Julian",
     "client_owner": "Qonto DE",
-    "sort_order": 9,
+    "sort_order": 8,
     "deadline": "2026-06-04",
     "link_url": "",
     "pinned": true
@@ -196,7 +175,7 @@
     "status": "Open",
     "meta_owner": "Julian",
     "client_owner": "Qonto DE",
-    "sort_order": 10,
+    "sort_order": 9,
     "deadline": "2026-06-04",
     "link_url": "",
     "pinned": true
