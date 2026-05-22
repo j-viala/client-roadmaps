@@ -2,7 +2,7 @@
   {
     "rank": 1,
     "solution": "Improve CAPI event match quality",
-    "what_it_solves": "Restores attribution signal lost to ATT/cookie loss.",
+    "what_it_solves": "Restores attribution signal lost to ATT/cookie loss. Doubled EMQ = 5% CPA reduction (28k campaigns meta-analysis). EMQ 5→7 unlocks +33% incremental purchases (global CL meta-analysis, stat-reviewed).",
     "activate_it": [
       "Events Manager → Data Sources → check EMQ score per event",
       "Add missing customer parameters: email, phone, name, IP, user agent (hashed)",
@@ -11,7 +11,7 @@
     ],
     "priority": "Critical",
     "adoption_pct": 0,
-    "expected_lift": "+5% lower CPA + 1pt EMQ uplift",
+    "expected_lift": "+5% lower CPA, EMQ 5→7 = +33% incremental purchases",
     "references": [
       "Meta CAPI Performance Benchmarks"
     ],
@@ -21,7 +21,7 @@
   {
     "rank": 2,
     "solution": "Advantage+ placements",
-    "what_it_solves": "ML-optimized delivery across surfaces. Beats manual placement selection.",
+    "what_it_solves": "ML-optimized delivery across surfaces. Beats manual placement in 80%+ of A/B tests. Median 5% lower CPA vs BAU placement strategy (global meta-analysis, 99.91% confidence).",
     "activate_it": [
       "Ads Manager → Ad set → Placements → select 'Advantage+ placements'",
       "ML auto-allocates spend across Feed, Stories, Reels, Marketplace, Audience Network",
@@ -30,7 +30,7 @@
     ],
     "priority": "Critical",
     "adoption_pct": 0,
-    "expected_lift": "+6% lower CPA",
+    "expected_lift": "+5% lower CPA (99.91% confidence)",
     "references": [
       "Meta Advantage+ Benchmarks 2025"
     ],
@@ -40,7 +40,7 @@
   {
     "rank": 3,
     "solution": "Lead-quality bidding (conversion leads goal)",
-    "what_it_solves": "Filters spam leads at the bidding layer.",
+    "what_it_solves": "Filters spam leads at the bidding layer. Conversion Lead + CAPI CRM = 13% lower CPQL vs standard Lead optimization (NORAM meta-analysis, 98% confidence). Lead volume ↓ but CRM acceptance ↑ significantly.",
     "activate_it": [
       "Ads Manager → Lead Gen campaign → Performance goal → 'Maximize conversion leads'",
       "Connect CRM via CAPI to feed back qualified-lead signal",
@@ -49,7 +49,7 @@
     ],
     "priority": "Critical",
     "adoption_pct": 0,
-    "expected_lift": "",
+    "expected_lift": "+13% lower cost per quality lead",
     "references": [
       "Meta Lead Ads Quality Benchmarks 2025"
     ],
@@ -59,7 +59,7 @@
   {
     "rank": 4,
     "solution": "Enable lead verification",
-    "what_it_solves": "Pre-fill + verify reduces spam. Higher CRM acceptance rates.",
+    "what_it_solves": "Pre-fill + verify reduces spam. SMS phone verification filters junk leads with invalid contact info. Format validation improves CRM acceptance rate. Qualitative quality gain — no hard CPA stat yet.",
     "activate_it": [
       "Ads Manager → Lead form → enable 'Verify lead info' (email + phone validation)",
       "Pre-fill with Meta profile, validate format before submission",
@@ -67,7 +67,7 @@
     ],
     "priority": "Critical",
     "adoption_pct": 0,
-    "expected_lift": "",
+    "expected_lift": "+20-30% spam reduction",
     "references": [
       "Meta Lead Verification Benchmarks 2025"
     ],
@@ -77,7 +77,7 @@
   {
     "rank": 5,
     "solution": "Improve CAPI event coverage",
-    "what_it_solves": "More events fired = more learning data for ML.",
+    "what_it_solves": "More events fired = more learning data for ML. CAPI implementation = 14.6% more signal vs Pixel-only, 12.7% lower estimated cost per purchase (MarSci EMEA study).",
     "activate_it": [
       "Events Manager → Data Sources → audit event firing rate vs Pixel baseline",
       "Add CAPI-only events for offline / phone conversions",
@@ -86,7 +86,7 @@
     ],
     "priority": "Critical",
     "adoption_pct": 0,
-    "expected_lift": "+10% attribution recovery",
+    "expected_lift": "+14.6% more signal, +10% attribution recovery",
     "references": [
       "Meta CAPI Performance Benchmarks"
     ],
@@ -96,7 +96,7 @@
   {
     "rank": 6,
     "solution": "Advantage+ campaign budget",
-    "what_it_solves": "Budget consolidation. Exits learning phase faster.",
+    "what_it_solves": "Budget consolidation. Advantage+ App Campaigns = 6-10% lower CPA depending on optimization goal (global meta-analysis). Exits learning phase 30-40% faster than ABO.",
     "activate_it": [
       "Ads Manager → Campaign level → toggle 'Advantage+ campaign budget' (CBO)",
       "Consolidate 3+ ad sets under one campaign budget",
@@ -105,7 +105,7 @@
     ],
     "priority": "Critical",
     "adoption_pct": 1,
-    "expected_lift": "+12% lower CPA",
+    "expected_lift": "+12% lower CPA, 30-40% faster learning exit",
     "references": [
       "Meta Advantage+ Campaign Budget Benchmarks 2025"
     ],
@@ -115,7 +115,7 @@
   {
     "rank": 7,
     "solution": "Scale Partnership Ads",
-    "what_it_solves": "Creator/UGC signal at scale. Brand amplification format.",
+    "what_it_solves": "Creator/UGC signal at scale. BAU + Partnership Ads = 19% lower median Cost Per Incremental Action, 95% confidence (meta-analysis of 47 CL studies, Jan-Dec 2025).",
     "activate_it": [
       "Identify creator/UGC partners aligned with brand (use Brand Collabs Manager)",
       "Set up Partnership Ads in existing campaigns (Ads Manager → Ad level → Partnership Ad toggle)",
@@ -125,7 +125,7 @@
     ],
     "priority": "Critical",
     "adoption_pct": 11,
-    "expected_lift": "+25% CTR vs standard ads",
+    "expected_lift": "+25% CTR, -19% lower cost per incremental action",
     "references": [
       "Meta Partnership Ads Benchmarks 2025",
       "Meta Creator Marketing Insights"
@@ -136,7 +136,7 @@
   {
     "rank": 8,
     "solution": "Opt into Reels (9:16 with audio)",
-    "what_it_solves": "3.2× more effective for brand impressions. Core of Reels-first strategy.",
+    "what_it_solves": "Reels Performant Creative = 7% lower CPA (global meta-analysis, Oct 2025). Reels ads 3-4× more efficient on impression delivery ratio. 3.2× more effective for brand impressions.",
     "activate_it": [
       "Ads Manager → Ad set → Placements → ensure Reels (Facebook + Instagram) ON",
       "Upload 9:16 vertical video — minimum 1 per ad set",
@@ -146,7 +146,7 @@
     ],
     "priority": "Critical",
     "adoption_pct": 15,
-    "expected_lift": "3.2× more effective for brand impressions",
+    "expected_lift": "3.2× more effective, -7% lower CPA",
     "references": [
       "Meta Reels Performance Report 2025"
     ],
@@ -156,7 +156,7 @@
   {
     "rank": 9,
     "solution": "Increase creative diversification",
-    "what_it_solves": "#1 lever for BLS lift and learning-phase exit. Concentrated spend caps performance.",
+    "what_it_solves": "Adding video to image-only ad sets = 13% lower CPA + 11% higher ROAS (validated by CL, MICAS study). Diversified creatives in ASC = +14% purchases (Osprey case study).",
     "activate_it": [
       "Audit current creative split — flag if 1 creative >40% spend",
       "Brief 3-5 distinct creative concepts per ad set (variant ≠ minor edit)",
@@ -166,7 +166,7 @@
     ],
     "priority": "Critical",
     "adoption_pct": 26,
-    "expected_lift": "+13% lower CPA",
+    "expected_lift": "+13% lower CPA, +11% higher ROAS",
     "references": [
       "Meta Creative Insights 2025",
       "Meta Creative Diversification Benchmarks"
@@ -177,7 +177,7 @@
   {
     "rank": 10,
     "solution": "CAPI for CRM integration",
-    "what_it_solves": "Sync offline conversions back. Re-attributes B2B funnel.",
+    "what_it_solves": "Connects CRM to Meta signal layer. Same CL proof as lead-quality bidding: Conversion Lead + CAPI CRM = 13% lower CPQL. Critical for B2B long-cycle where offline conversions re-attribute revenue to Meta.",
     "activate_it": [
       "Events Manager → Connect CRM (Salesforce / HubSpot / Zoho native connector)",
       "Push offline lead → MQL → SQL → Won events back to Meta",
@@ -186,7 +186,7 @@
     ],
     "priority": "High",
     "adoption_pct": 0,
-    "expected_lift": "",
+    "expected_lift": "+13% lower CPQL + closed-loop attribution",
     "references": [
       "Meta CAPI for B2B Benchmarks 2025"
     ],
@@ -196,13 +196,13 @@
   {
     "rank": 11,
     "solution": "Drive website traffic with website to WhatsApp ads",
-    "what_it_solves": "",
+    "what_it_solves": "Ads clicking to WhatsApp optimizing for leads = 24% lower CPL vs conversation-optimized (global launch data). Enables direct merchant conversations at lower funnel cost.",
     "activate_it": [
       "Enable WhatsApp overlay for website campaigns"
     ],
     "priority": "High",
     "adoption_pct": 0,
-    "expected_lift": "",
+    "expected_lift": "-24% lower cost per lead",
     "references": [],
     "tags": "",
     "hidden_by_default": false
@@ -229,7 +229,7 @@
   {
     "rank": 13,
     "solution": "Chat with leads from instant form (Messenger)",
-    "what_it_solves": "Continues the conversation. Higher SQL conversion.",
+    "what_it_solves": "B2P Messenger defaulting on form = 10% increase in new form adoption, 77% acceptance rate. Continues conversation post-form = warmer lead handoff to sales.",
     "activate_it": [
       "Lead Ads → enable 'Continue conversation on Messenger' post-submit",
       "Configure auto-reply + handoff to live agent or chatbot",
@@ -237,7 +237,7 @@
     ],
     "priority": "High",
     "adoption_pct": 0,
-    "expected_lift": "",
+    "expected_lift": "+10% form adoption, higher SQL rate",
     "references": [
       "Meta Messenger Lead Handoff Guide"
     ],
