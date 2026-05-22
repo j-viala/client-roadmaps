@@ -1,9 +1,16 @@
 [
   {
     "stream_name": "Suivre case Qonto ES — vérification alternative annonceur (Karine)",
-    "subtitle_why": "",
-    "subtitle_how": "Karine attend alternative verification annonceur côté Meta. Relancer si pas de progrès avant deadline",
-    "next_action": "",
+    "subtitle_why": "Qonto ES growth blocked by alternative annonceur verification stuck côté Meta. No resolution = no spend ramp in Iberia.",
+    "subtitle_how": "Karine attend alternative verification annonceur côté Meta. Relancer si pas de progrès avant deadline.",
+    "next_action": "Relancer Karine + Policy avant 2026-06-02",
+    "market": "ES",
+    "topics": [
+      "case-followup",
+      "verification",
+      "policy"
+    ],
+    "priority": "P1",
     "theme": "Strategic Investments",
     "status": "Open",
     "meta_owner": "Julian",
@@ -11,7 +18,6 @@
     "sort_order": 1,
     "deadline": "2026-06-02",
     "link_url": "",
-    "tags": "market:ES",
     "pinned": true
   },
   {
@@ -19,6 +25,12 @@
     "subtitle_why": "Top RS in Qonto book. Adoption unlocks attributed revenue lift.",
     "subtitle_how": "Brief client on the recommendation, target adoption Q2.",
     "next_action": "Schedule rec walk-through with Qonto growth team",
+    "market": "ALL",
+    "topics": [
+      "rs-canonical:conversion-location",
+      "conversion-location"
+    ],
+    "priority": "P1",
     "theme": "Performance & Growth",
     "status": "Open",
     "meta_owner": "Julian",
@@ -26,14 +38,19 @@
     "sort_order": 2,
     "deadline": "",
     "link_url": "",
-    "tags": "rs-canonical:conversion-location",
     "pinned": true
   },
   {
     "stream_name": "Q2 BLS DE setup hardening — freq cap, creative rotation, targeting",
     "subtitle_why": "Q1 BLS DE delivered +5.7pp Ad Recall / +4.5pp Awareness / +3.8pp Message Association (above EMEA bench). Q2 needs setup discipline to repeat.",
     "subtitle_how": "Live campaign running. 8 mid-flight optimization recos in implementation tracking.",
-    "next_action": "Share live campaign screenshot + dashboard access to Meta team",
+    "next_action": "",
+    "market": "DE",
+    "topics": [
+      "bls",
+      "setup-hardening"
+    ],
+    "priority": "P2",
     "theme": "Performance & Growth",
     "status": "Done",
     "meta_owner": "Julian",
@@ -41,14 +58,19 @@
     "sort_order": 3,
     "deadline": "",
     "link_url": "",
-    "tags": "market:DE,bls",
     "pinned": false
   },
   {
     "stream_name": "Creative pipeline — scale to 6-10 active creatives",
     "subtitle_why": "Q1 had 57% spend concentrated in 1 creative. Diversity is the #1 lever for BLS lift and learning-phase exit.",
     "subtitle_how": "New assets in production, delivery dates pending confirmation.",
-    "next_action": "Confirm delivery dates for new creative batch",
+    "next_action": "",
+    "market": "ALL",
+    "topics": [
+      "creative-diversity",
+      "rs-canonical:creative-diversification"
+    ],
+    "priority": "P2",
     "theme": "Performance & Growth",
     "status": "Done",
     "meta_owner": "Julian",
@@ -56,7 +78,6 @@
     "sort_order": 4,
     "deadline": "",
     "link_url": "",
-    "tags": "creative-diversity,rs-canonical:creative-diversification",
     "pinned": false
   },
   {
@@ -64,6 +85,12 @@
     "subtitle_why": "FR brand visibility play timed for July, leveraging Reels Trending Ads format for cultural relevance.",
     "subtitle_how": "Early planning phase — brief timeline to align with Qonto FR brand team.",
     "next_action": "Align on FR July brief timeline with Qonto",
+    "market": "FR",
+    "topics": [
+      "branding",
+      "reels"
+    ],
+    "priority": "P2",
     "theme": "Strategic Investments",
     "status": "Open",
     "meta_owner": "Julian",
@@ -71,14 +98,19 @@
     "sort_order": 5,
     "deadline": "2026-06-15",
     "link_url": "",
-    "tags": "market:FR,branding,reels",
     "pinned": false
   },
   {
     "stream_name": "Q2 BLS DE mid-flight optimization checkpoint",
     "subtitle_why": "8 reco identified for Q2 (freq cap, Value Rules, Reels-first, creative diversification). Mid-flight check ensures implementation before flight ends.",
     "subtitle_how": "Q2 BLS DE live. Adoption status of 8 reco unknown.",
-    "next_action": "Review mid-flight delivery report with Qonto",
+    "next_action": "",
+    "market": "DE",
+    "topics": [
+      "bls",
+      "checkpoint"
+    ],
+    "priority": "P2",
     "theme": "Performance & Growth",
     "status": "Done",
     "meta_owner": "Julian",
@@ -86,14 +118,19 @@
     "sort_order": 6,
     "deadline": "",
     "link_url": "",
-    "tags": "market:DE,bls,checkpoint",
     "pinned": false
   },
   {
     "stream_name": "Push Delivery rollout — better ad rotation",
     "subtitle_why": "Qonto flagged Push Delivery as a topic of interest. Improves ad rotation efficiency vs default delivery.",
     "subtitle_how": "Not yet scoped. Client surfaced interest in May 7 bi-weekly.",
-    "next_action": "Scope Push Delivery applicability + draft client pitch",
+    "next_action": "",
+    "market": "ALL",
+    "topics": [
+      "push-delivery",
+      "rs-canonical:push-delivery"
+    ],
+    "priority": "P2",
     "theme": "Performance & Growth",
     "status": "Done",
     "meta_owner": "Julian",
@@ -101,7 +138,6 @@
     "sort_order": 7,
     "deadline": "",
     "link_url": "",
-    "tags": "push-delivery,rs-canonical:push-delivery",
     "pinned": false
   },
   {
@@ -109,6 +145,12 @@
     "subtitle_why": "Qonto raised CI License coming H2 2026. Meta needs to proactively surface implications on ad creation rules and targeting limitations.",
     "subtitle_how": "Coordinate with Policy + Product Marketing to compile current+upcoming restrictions. Share before next bi-weekly.",
     "next_action": "Pull Policy/PMM brief on CI ad ecosystem changes",
+    "market": "DE",
+    "topics": [
+      "policy",
+      "ci-license"
+    ],
+    "priority": "P2",
     "theme": "Strategic Investments",
     "status": "Open",
     "meta_owner": "Julian",
@@ -116,7 +158,6 @@
     "sort_order": 8,
     "deadline": "2026-06-04",
     "link_url": "",
-    "tags": "market:DE,policy,ci-license",
     "pinned": false
   },
   {
@@ -124,6 +165,13 @@
     "subtitle_why": "GbR creates 2-3 week delay between Contract Signed and revenue. Current Purchase event timing breaks attribution for delayed conversions.",
     "subtitle_how": "Engage CAPI/Analytics team to design tracking pattern (extended attribution window / custom event). Document for Qonto integration.",
     "next_action": "Brief CAPI specialist + draft tracking proposal",
+    "market": "DE",
+    "topics": [
+      "capi",
+      "attribution",
+      "measurement"
+    ],
+    "priority": "P1",
     "theme": "Performance & Growth",
     "status": "Open",
     "meta_owner": "Julian",
@@ -131,7 +179,6 @@
     "sort_order": 9,
     "deadline": "2026-06-04",
     "link_url": "",
-    "tags": "market:DE,capi,attribution,measurement",
     "pinned": true
   },
   {
@@ -139,6 +186,12 @@
     "subtitle_why": "Explicit ask from Qonto DE on May 21 bi-weekly. Q3 planning kickoff — RS prioritization needed.",
     "subtitle_how": "Pull latest rs/Qonto.json top recos, contextualize for DE market, format as deck.",
     "next_action": "Draft Q3 RS deck and share",
+    "market": "DE",
+    "topics": [
+      "rs",
+      "q3-planning"
+    ],
+    "priority": "P1",
     "theme": "Strategic Investments",
     "status": "Open",
     "meta_owner": "Julian",
@@ -146,7 +199,6 @@
     "sort_order": 10,
     "deadline": "2026-06-04",
     "link_url": "",
-    "tags": "market:DE,rs,q3-planning",
     "pinned": true
   }
 ]
