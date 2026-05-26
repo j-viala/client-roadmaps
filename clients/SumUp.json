@@ -276,5 +276,32 @@
     "client_owner": "Anna",
     "sort_order": 28,
     "tags": "team:Sales-led, WAITING:Meta TSC"
+  },
+  {
+    "stream_name": "WhatsApp Username — réclamer le BSUID avant le 1/06",
+    "subtitle_why": "Workplace 25/05 : lancement Username avancé du 29/06 au 1/06. Clients ont J-7 pour revendiquer leur BSUID préféré avant attribution auto.",
+    "subtitle_how": "Annonce reçue 25/05. Fenêtre courte (J-7) — risque d'attribution non choisie si pas d'action.",
+    "next_action": "Alerter le client cette semaine et l'accompagner sur la revendication du BSUID préféré",
+    "theme": "Performance & Growth",
+    "status": "Open",
+    "meta_owner": "Julian",
+    "client_owner": "Anna",
+    "deadline": "2026-06-01",
+    "tags": "team:WhatsApp",
+    "pinned": true,
+    "sort_order": 29
+  },
+  {
+    "stream_name": "Lead Ads + Calendly booking integration — pitch beta 1%",
+    "subtitle_why": "Feature en prod à 1% dans Ads Manager. Unlock direct pour SumUp : booking RDV (commercial / onboarding marchand) depuis Lead Ad sans friction.",
+    "subtitle_how": "Annoncée Tech Pod 25/05 — disponible 1% des comptes Ads Manager.",
+    "next_action": "Pitcher la beta au client cette semaine + checker éligibilité du compte Ads Manager",
+    "theme": "Performance & Growth",
+    "status": "Open",
+    "meta_owner": "Julian",
+    "client_owner": "Anna",
+    "deadline": "",
+    "tags": "team:Lead Ads",
+    "sort_order": 30
   }
 ]
