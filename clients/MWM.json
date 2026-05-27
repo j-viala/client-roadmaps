@@ -210,5 +210,19 @@
     "tags": "team:CAPI",
     "pinned": true,
     "sort_order": 35
+  },
+  {
+    "stream_name": "Partager l'audit CAPI complet avec Josselyn (MWM) — débloquer le debug signal",
+    "subtitle_why": "Audit interne MWM finalisé 27/05, 'il y a urgence' selon Julian. Sans le partage côté client, les fixes signal restent bloqués.",
+    "subtitle_how": "Audit complet prêt côté Meta (briefé Rafael 27/05).",
+    "next_action": "Envoyer l'audit CAPI à Josselyn (MWM) cette semaine + caler un call d'alignement debug",
+    "theme": "Performance & Growth",
+    "status": "Open",
+    "meta_owner": "Julian",
+    "client_owner": "Josselyn",
+    "sort_order": 36,
+    "deadline": "2026-05-30",
+    "tags": "team:CAPI",
+    "pinned": true
   }
 ]
