@@ -2,7 +2,7 @@
   {
     "stream_name": "App bidding optimization — validate + scale Highest Volume across portfolio",
     "subtitle_why": "Validate Highest Volume bidding hypothesis and consolidate winning bids at scale to capture full Q2 budget potential",
-    "subtitle_how": "Test backlog queued for Q2 (validation phase); AAC Highest Volume bid consolidation beta confirmed, weekly rollout in progress",
+    "subtitle_how": "Test backlog queued for Q2 (validation phase); AAC Highest Volume bid…",
     "theme": "Performance & Growth",
     "status": "In Progress",
     "meta_owner": "Julian",
@@ -58,14 +58,14 @@
   },
   {
     "stream_name": "CAPI signal quality debug — hashed params + Purchase Event troubleshooting",
-    "subtitle_why": "Lift CAPI attribution accuracy by fixing hashed parameter coverage + resolving Purchase Event signal ambiguity (Free Trial conversion confusion)",
-    "subtitle_how": "Both workstreams blocked on MWM technical input — awaiting hashed param decision + campaign data from Josselyn for Free Trial event mapping",
+    "subtitle_why": "Lift CAPI attribution accuracy by fixing hashed parameter coverage + resolving Purchase Event signal ambiguity (Free Trial conversion…",
+    "subtitle_how": "Both workstreams blocked on MWM technical input — awaiting hashed param…",
     "theme": "Performance & Growth",
     "status": "Blocked",
     "meta_owner": "Julian",
     "client_owner": "Josselyn",
     "sort_order": 12,
-    "next_action": "Chase Josselyn on hashed parameter expansion decision + collect Free Trial campaign data for event mapping"
+    "next_action": "Chase Josselyn on hashed parameter expansion decision + collect Free Trial campaign data for event…"
   },
   {
     "stream_name": "Threads placement activation — reach younger audiences",
@@ -177,7 +177,7 @@
   {
     "stream_name": "Web-to-App conversion location — adopt unified optimization (+15-20% conversion volume)",
     "subtitle_why": "Top Q2 RS expected lift in MWM book — Meta-projected +15-20% conversion volume uplift",
-    "subtitle_how": "RS not yet activated on MWM accounts; setup requires app-side conversion event mapping aligned with web pixel",
+    "subtitle_how": "RS not yet activated on MWM accounts; setup requires app-side conversion event…",
     "next_action": "Brief Josselyn on Web-to-App conversion location setup, target activation by end of May",
     "theme": "Performance & Growth",
     "status": "Open",

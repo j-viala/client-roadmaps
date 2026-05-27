@@ -46,9 +46,9 @@
   },
   {
     "stream_name": "CAPI Audit — évaluer qualité des signaux + identifier les leviers pour mieux nourrir le ML de Meta",
-    "subtitle_why": "Top priorité Meta-wide : meilleurs signaux serveur = ML Ads Manager mieux fueled = lift mesurable de performance sur tout le book (CPA / ROAS / conversions).",
-    "subtitle_how": "Not started. Périmètre à scoper : couverture des signaux serveur, qualité du hashing des paramètres, dédup events, match rate déterministe vs probabiliste, gaps vs benchmark vertical.",
-    "next_action": "Scoper l'audit CAPI (signal coverage + match quality + recommended upgrades) et caler un kickoff avec le client",
+    "subtitle_why": "Top priorité Meta-wide : meilleurs signaux serveur = ML Ads Manager mieux fueled = lift mesurable de performance sur tout le book (CPA /…",
+    "subtitle_how": "Not started. Périmètre à scoper : couverture des signaux serveur, qualité du…",
+    "next_action": "Scoper l'audit CAPI (signal coverage + match quality + recommended upgrades) et caler un kickoff…",
     "theme": "Performance & Growth",
     "status": "Open",
     "meta_owner": "Meta",

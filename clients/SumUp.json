@@ -50,7 +50,7 @@
   {
     "stream_name": "Value Optimisation (VO) — UK live + Tier 1 EMEA extension",
     "subtitle_why": "Scale value-based bidding from proven UK rollout to additional Tier 1 EMEA markets to lift LTV-weighted conversions",
-    "subtitle_how": "Live in UK monitoring weekly performance vs CPA-only baseline. Email thread with Diogo S. + Willem + Anna active to lock extension market shortlist.",
+    "subtitle_how": "Live in UK monitoring weekly performance vs CPA-only baseline. Email thread…",
     "theme": "Performance & Growth",
     "status": "In Progress",
     "meta_owner": "Julian",
@@ -160,7 +160,7 @@
   {
     "stream_name": "Lead gen bidding pitch — VBB (Anna) + HVB (Felipe) for B2B campaigns",
     "subtitle_why": "Bring Meta value-based bidding (VBB) and Highest Value Bidding (HVB) logic to SumUp B2B lead gen — currently only Google Ads tested",
-    "subtitle_how": "Both requests surfaced at 16.04 monthly — Meta-side response in build for both VBB (Anna) and HVB (Felipe)",
+    "subtitle_how": "Both requests surfaced at 16.04 monthly — Meta-side response in build for both…",
     "theme": "Performance & Growth",
     "status": "Open",
     "meta_owner": "Julian",
@@ -184,8 +184,8 @@
   {
     "stream_name": "Website + App conversion location — adopt unified optimization (+15-20% conversion volume)",
     "subtitle_why": "Top Q2 RS expected lift on SumUp book — Meta-projected +15-20% conversion volume uplift",
-    "subtitle_how": "RS not yet activated; setup requires unified web pixel + app event mapping for SumUp Pay funnel",
-    "next_action": "Brief Diogo S. (Mobile) + Bojana (Sales-led) on Web-to-App conversion location setup; target activation by end of May",
+    "subtitle_how": "RS not yet activated; setup requires unified web pixel + app event mapping for…",
+    "next_action": "Brief Diogo S. (Mobile) + Bojana (Sales-led) on Web-to-App conversion location setup; target…",
     "theme": "Performance & Growth",
     "status": "Open",
     "meta_owner": "Julian",
@@ -196,7 +196,7 @@
   {
     "stream_name": "Scale Partnership Ads — pilot on UK book (-71% CPA, +19% purchase rate)",
     "subtitle_why": "Q2 RS with massive expected lift (-71% CPA, +19% purchase rate). 0% adoption today = full upside available.",
-    "subtitle_how": "Partnership Ads not yet activated on SumUp campaigns. Requires creator/partner identification + content licensing setup.",
+    "subtitle_how": "Partnership Ads not yet activated on SumUp campaigns. Requires creator/partner…",
     "next_action": "Identify 3-5 candidate creators per market with Anna (Sales-led); pilot on UK book first",
     "theme": "Performance & Growth",
     "status": "Open",
@@ -268,8 +268,8 @@
   {
     "stream_name": "Leads Ads troubleshooting — restore lead capture for B2B merchant acquisition",
     "subtitle_why": "Leads Ads is a primary acquisition format for SumUp B2B campaigns; downtime/issues directly impact Sales-led pipeline",
-    "subtitle_how": "TSC case ongoing with Meta technical support; investigation in flight on form delivery / lead routing issue",
-    "next_action": "Track TSC case resolution; relance technical support weekly until lead capture restored on Anna's campaigns",
+    "subtitle_how": "TSC case ongoing with Meta technical support; investigation in flight on form…",
+    "next_action": "Track TSC case resolution; relance technical support weekly until lead capture restored on Anna's…",
     "theme": "Performance & Growth",
     "status": "In Progress",
     "meta_owner": "Julian",
@@ -306,9 +306,9 @@
   },
   {
     "stream_name": "CAPI Audit — évaluer qualité des signaux + identifier les leviers pour mieux nourrir le ML de Meta",
-    "subtitle_why": "Top priorité Meta-wide : meilleurs signaux serveur = ML Ads Manager mieux fueled = lift mesurable de performance sur tout le book (CPA / ROAS / conversions).",
-    "subtitle_how": "Not started. Périmètre à scoper : couverture des signaux serveur, qualité du hashing des paramètres, dédup events, match rate déterministe vs probabiliste, gaps vs benchmark vertical.",
-    "next_action": "Scoper l'audit CAPI (signal coverage + match quality + recommended upgrades) et caler un kickoff avec le client",
+    "subtitle_why": "Top priorité Meta-wide : meilleurs signaux serveur = ML Ads Manager mieux fueled = lift mesurable de performance sur tout le book (CPA /…",
+    "subtitle_how": "Not started. Périmètre à scoper : couverture des signaux serveur, qualité du…",
+    "next_action": "Scoper l'audit CAPI (signal coverage + match quality + recommended upgrades) et caler un kickoff…",
     "theme": "Performance & Growth",
     "status": "Open",
     "meta_owner": "Meta",
