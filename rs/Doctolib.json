@@ -90,7 +90,8 @@
     "hidden_by_default": false,
     "benchmark_pct": 6,
     "benchmark_gap": "-6.05 pp",
-    "adoption_source": "Doctolib adoption sheet 2026-06-01"
+    "adoption_source": "Doctolib adoption sheet 2026-06-01",
+    "benchmark_vertical": "B2B SaaS"
   },
   {
     "rank": 6,
@@ -166,7 +167,8 @@
     "hidden_by_default": false,
     "benchmark_pct": 56,
     "benchmark_gap": "+30.98 pp",
-    "adoption_source": "Doctolib adoption sheet 2026-06-01"
+    "adoption_source": "Doctolib adoption sheet 2026-06-01",
+    "benchmark_vertical": "B2B SaaS"
   },
   {
     "rank": 10,
@@ -206,7 +208,8 @@
     "hidden_by_default": false,
     "benchmark_pct": 70,
     "benchmark_gap": "+20.84 pp",
-    "adoption_source": "Doctolib adoption sheet 2026-06-01"
+    "adoption_source": "Doctolib adoption sheet 2026-06-01",
+    "benchmark_vertical": "B2B SaaS"
   },
   {
     "rank": 12,
@@ -248,7 +251,8 @@
     "hidden_by_default": false,
     "benchmark_pct": 96,
     "benchmark_gap": "+3.15 pp",
-    "adoption_source": "Doctolib adoption sheet 2026-06-01"
+    "adoption_source": "Doctolib adoption sheet 2026-06-01",
+    "benchmark_vertical": "B2B SaaS"
   },
   {
     "rank": 14,
@@ -521,7 +525,8 @@
     "expected_lift": "",
     "references": [],
     "tags": "needs-enrichment",
-    "hidden_by_default": false
+    "hidden_by_default": false,
+    "benchmark_vertical": "B2B SaaS"
   },
   {
     "rank": 30,
@@ -536,7 +541,8 @@
     "expected_lift": "",
     "references": [],
     "tags": "needs-enrichment",
-    "hidden_by_default": false
+    "hidden_by_default": false,
+    "benchmark_vertical": "B2B SaaS"
   },
   {
     "rank": 31,
@@ -551,7 +557,8 @@
     "expected_lift": "",
     "references": [],
     "tags": "needs-enrichment",
-    "hidden_by_default": false
+    "hidden_by_default": false,
+    "benchmark_vertical": "B2B SaaS"
   },
   {
     "rank": 32,
@@ -566,7 +573,8 @@
     "expected_lift": "",
     "references": [],
     "tags": "needs-enrichment",
-    "hidden_by_default": false
+    "hidden_by_default": false,
+    "benchmark_vertical": "B2B SaaS"
   },
   {
     "rank": 33,
@@ -581,6 +589,7 @@
     "expected_lift": "",
     "references": [],
     "tags": "needs-enrichment",
-    "hidden_by_default": false
+    "hidden_by_default": false,
+    "benchmark_vertical": "B2B SaaS"
   }
 ]
