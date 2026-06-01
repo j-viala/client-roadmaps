@@ -85,5 +85,36 @@
     "deadline": "",
     "tags": "team:Lead Ads",
     "sort_order": 6
+  },
+  {
+    "stream_name": "Validate Adjust config for Doctolib Parents CLS",
+    "subtitle_why": "Parents launch 06-15 depends on CLS measurement; Adjust 'All attribution sources' config must validate before campaign goes live (validation buffer was 06-05).",
+    "subtitle_how": "Sync with Adrien Cretat + Olga Khamitova (Adjust technical owner). BizEng Dewangee supports technical implementation end-to-end.",
+    "next_action": "Confirm Adjust 'All attribution sources' config validates with Olga + Dewangee by 2026-06-05; surface any blocker to Adrien before Parents launch.",
+    "theme": "Measurement & Signal",
+    "status": "Open",
+    "meta_owner": "Julian",
+    "client_owner": "Adrien Cretat / Olga Khamitova",
+    "sort_order": 2,
+    "deadline": "2026-06-05",
+    "link_url": "",
+    "tags": "T2,P1,parents,cls,adjust",
+    "pinned": true,
+    "supporter": "Dewangee (BizEng, Meta)"
+  },
+  {
+    "stream_name": "MMA implementation support — unblock Sally's Business Portfolio approval",
+    "subtitle_why": "Sally's Meta Managed Account migration broke the BP notification flow; Doctolib admins haven't received the approval prompt for Business Portfolio 277046712679402, blocking org transfer.",
+    "subtitle_how": "Rafael provided 2 unblock procedures to FX + Céline on 2026-05-28 (Force Direct Link Verification OR Force domain trust match). Auto-approval safety net at ~15 days (≈ 2026-06-12).",
+    "next_action": "Follow up with François-Xavier Le Quéré 2026-06-04 to confirm Céline executed Step 1 or Step 2; verify Business Portfolio shows approved in Organization Manager. Escalate if still blocked by 2026-06-10.",
+    "theme": "Account Health & Compliance",
+    "status": "Open",
+    "meta_owner": "Rafael",
+    "client_owner": "François-Xavier Le Quéré + Céline Cottereau",
+    "sort_order": 3,
+    "deadline": "2026-06-12",
+    "link_url": "",
+    "tags": "T2,P2,mma,business-portfolio,sally",
+    "pinned": true
   }
 ]
