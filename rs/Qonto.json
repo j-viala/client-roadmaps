@@ -73,7 +73,7 @@
     "hidden_by_default": false,
     "benchmark_pct": 4,
     "benchmark_gap": "-3.62 pp",
-    "benchmark_vertical": "B2B SaaS",
+    "benchmark_vertical": "Fintech",
     "adoption_source": "Qonto adoption sheet 2026-06-01 (period Jan 1 - May 30 2026)"
   },
   {
@@ -116,7 +116,7 @@
     "hidden_by_default": false,
     "benchmark_pct": 3,
     "benchmark_gap": "-3.08 pp",
-    "benchmark_vertical": "B2B SaaS",
+    "benchmark_vertical": "Fintech",
     "adoption_source": "Qonto adoption sheet 2026-06-01 (period Jan 1 - May 30 2026)"
   },
   {
@@ -195,7 +195,7 @@
     "hidden_by_default": false,
     "benchmark_pct": 45,
     "benchmark_gap": "+24.02 pp",
-    "benchmark_vertical": "B2B SaaS",
+    "benchmark_vertical": "Fintech",
     "adoption_source": "Qonto adoption sheet 2026-06-01 (period Jan 1 - May 30 2026)"
   },
   {
@@ -218,7 +218,7 @@
     "hidden_by_default": false,
     "benchmark_pct": 77,
     "benchmark_gap": "-5.13 pp",
-    "benchmark_vertical": "B2B SaaS",
+    "benchmark_vertical": "Fintech",
     "adoption_source": "Qonto adoption sheet 2026-06-01 (period Jan 1 - May 30 2026)"
   },
   {
@@ -242,7 +242,7 @@
     "hidden_by_default": false,
     "benchmark_pct": 93,
     "benchmark_gap": "+2.29 pp",
-    "benchmark_vertical": "B2B SaaS",
+    "benchmark_vertical": "Fintech",
     "adoption_source": "Qonto adoption sheet 2026-06-01 (period Jan 1 - May 30 2026)"
   },
   {
@@ -434,7 +434,7 @@
     "hidden_by_default": true,
     "benchmark_pct": 72,
     "benchmark_gap": "+12.42 pp",
-    "benchmark_vertical": "B2B SaaS",
+    "benchmark_vertical": "Fintech",
     "adoption_source": "Qonto adoption sheet 2026-06-01 (period Jan 1 - May 30 2026)"
   },
   {
@@ -643,7 +643,7 @@
     "adoption_pct": 44,
     "benchmark_pct": 39,
     "benchmark_gap": "+4.27 pp",
-    "benchmark_vertical": "B2B SaaS",
+    "benchmark_vertical": "Fintech",
     "adoption_source": "Qonto adoption sheet 2026-06-01 (period Jan 1 - May 30 2026)",
     "expected_lift": "",
     "references": [],
@@ -659,7 +659,7 @@
     "adoption_pct": 69,
     "benchmark_pct": 35,
     "benchmark_gap": "+33.95 pp",
-    "benchmark_vertical": "B2B SaaS",
+    "benchmark_vertical": "Fintech",
     "adoption_source": "Qonto adoption sheet 2026-06-01 (period Jan 1 - May 30 2026)",
     "expected_lift": "",
     "references": [],
@@ -675,7 +675,7 @@
     "adoption_pct": 10,
     "benchmark_pct": 12,
     "benchmark_gap": "-2.05 pp",
-    "benchmark_vertical": "B2B SaaS",
+    "benchmark_vertical": "Fintech",
     "adoption_source": "Qonto adoption sheet 2026-06-01 (period Jan 1 - May 30 2026)",
     "expected_lift": "",
     "references": [],
@@ -691,7 +691,7 @@
     "adoption_pct": 87,
     "benchmark_pct": 71,
     "benchmark_gap": "+15.84 pp",
-    "benchmark_vertical": "B2B SaaS",
+    "benchmark_vertical": "Fintech",
     "adoption_source": "Qonto adoption sheet 2026-06-01 (period Jan 1 - May 30 2026)",
     "expected_lift": "",
     "references": [],
@@ -707,7 +707,7 @@
     "adoption_pct": 1,
     "benchmark_pct": 4,
     "benchmark_gap": "-2.52 pp",
-    "benchmark_vertical": "B2B SaaS",
+    "benchmark_vertical": "Fintech",
     "adoption_source": "Qonto adoption sheet 2026-06-01 (period Jan 1 - May 30 2026)",
     "expected_lift": "",
     "references": [],
@@ -723,7 +723,7 @@
     "adoption_pct": 0,
     "benchmark_pct": 2,
     "benchmark_gap": "-2.13 pp",
-    "benchmark_vertical": "B2B SaaS",
+    "benchmark_vertical": "Fintech",
     "adoption_source": "Qonto adoption sheet 2026-06-01 (period Jan 1 - May 30 2026)",
     "expected_lift": "",
     "references": [],
@@ -739,7 +739,7 @@
     "adoption_pct": 88,
     "benchmark_pct": 92,
     "benchmark_gap": "-4.40 pp",
-    "benchmark_vertical": "B2B SaaS",
+    "benchmark_vertical": "Fintech",
     "adoption_source": "Qonto adoption sheet 2026-06-01 (period Jan 1 - May 30 2026)",
     "expected_lift": "",
     "references": [],
@@ -755,7 +755,7 @@
     "adoption_pct": 6,
     "benchmark_pct": 10,
     "benchmark_gap": "-3.23 pp",
-    "benchmark_vertical": "B2B SaaS",
+    "benchmark_vertical": "Fintech",
     "adoption_source": "Qonto adoption sheet 2026-06-01 (period Jan 1 - May 30 2026)",
     "expected_lift": "",
     "references": [],
@@ -771,7 +771,7 @@
     "adoption_pct": 0,
     "benchmark_pct": 0,
     "benchmark_gap": "-0.12 pp",
-    "benchmark_vertical": "B2B SaaS",
+    "benchmark_vertical": "Fintech",
     "adoption_source": "Qonto adoption sheet 2026-06-01 (period Jan 1 - May 30 2026)",
     "expected_lift": "",
     "references": [],
@@ -787,7 +787,7 @@
     "adoption_pct": 73,
     "benchmark_pct": 56,
     "benchmark_gap": "+16.68 pp",
-    "benchmark_vertical": "B2B SaaS",
+    "benchmark_vertical": "Fintech",
     "adoption_source": "Qonto adoption sheet 2026-06-01 (period Jan 1 - May 30 2026)",
     "expected_lift": "",
     "references": [],
