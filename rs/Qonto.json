@@ -70,7 +70,11 @@
       "Meta Flexible Media Benchmarks 2025"
     ],
     "tags": "",
-    "hidden_by_default": false
+    "hidden_by_default": false,
+    "benchmark_pct": 4,
+    "benchmark_gap": "-3.62 pp",
+    "benchmark_vertical": "B2B SaaS",
+    "adoption_source": "Qonto adoption sheet 2026-06-01 (period Jan 1 - May 30 2026)"
   },
   {
     "rank": 5,
@@ -109,7 +113,11 @@
       "Meta Creator Marketing Insights"
     ],
     "tags": "",
-    "hidden_by_default": false
+    "hidden_by_default": false,
+    "benchmark_pct": 3,
+    "benchmark_gap": "-3.08 pp",
+    "benchmark_vertical": "B2B SaaS",
+    "adoption_source": "Qonto adoption sheet 2026-06-01 (period Jan 1 - May 30 2026)"
   },
   {
     "rank": 7,
@@ -178,13 +186,17 @@
       "Avoid manual placement unless brand-safety constraint"
     ],
     "priority": "High",
-    "adoption_pct": 15,
+    "adoption_pct": 69,
     "expected_lift": "+6% lower CPA",
     "references": [
       "Meta Advantage+ Benchmarks 2025"
     ],
     "tags": "",
-    "hidden_by_default": false
+    "hidden_by_default": false,
+    "benchmark_pct": 45,
+    "benchmark_gap": "+24.02 pp",
+    "benchmark_vertical": "B2B SaaS",
+    "adoption_source": "Qonto adoption sheet 2026-06-01 (period Jan 1 - May 30 2026)"
   },
   {
     "rank": 11,
@@ -197,13 +209,17 @@
       "Compare CPA vs locked interest audience after 14d"
     ],
     "priority": "High",
-    "adoption_pct": 34,
+    "adoption_pct": 72,
     "expected_lift": "+15% lower CPA",
     "references": [
       "Meta Advantage+ Audience Benchmarks 2025"
     ],
     "tags": "",
-    "hidden_by_default": false
+    "hidden_by_default": false,
+    "benchmark_pct": 77,
+    "benchmark_gap": "-5.13 pp",
+    "benchmark_vertical": "B2B SaaS",
+    "adoption_source": "Qonto adoption sheet 2026-06-01 (period Jan 1 - May 30 2026)"
   },
   {
     "rank": 12,
@@ -217,13 +233,17 @@
       "Track Reels-specific CPM vs Feed CPM (typically -20% on Reels)"
     ],
     "priority": "High",
-    "adoption_pct": 40,
+    "adoption_pct": 95,
     "expected_lift": "3.2× more effective for brand impressions",
     "references": [
       "Meta Reels Performance Report 2025"
     ],
     "tags": "",
-    "hidden_by_default": false
+    "hidden_by_default": false,
+    "benchmark_pct": 93,
+    "benchmark_gap": "+2.29 pp",
+    "benchmark_vertical": "B2B SaaS",
+    "adoption_source": "Qonto adoption sheet 2026-06-01 (period Jan 1 - May 30 2026)"
   },
   {
     "rank": 13,
@@ -405,13 +425,17 @@
       "Exits learning phase 30-40% faster than ABO"
     ],
     "priority": "Medium",
-    "adoption_pct": 63,
+    "adoption_pct": 85,
     "expected_lift": "+12% lower CPA",
     "references": [
       "Meta Advantage+ Campaign Budget Benchmarks 2025"
     ],
     "tags": "",
-    "hidden_by_default": true
+    "hidden_by_default": true,
+    "benchmark_pct": 72,
+    "benchmark_gap": "+12.42 pp",
+    "benchmark_vertical": "B2B SaaS",
+    "adoption_source": "Qonto adoption sheet 2026-06-01 (period Jan 1 - May 30 2026)"
   },
   {
     "rank": 24,
@@ -609,5 +633,165 @@
     ],
     "tags": "",
     "hidden_by_default": true
+  },
+  {
+    "rank": 36,
+    "solution": "Advantage+ sales campaign",
+    "what_it_solves": "Adoption tracked via Qonto product adoption sheet 2026-06-01 (Jan 1 - May 30 2026) — enrichment pending.",
+    "activate_it": [],
+    "priority": "Low",
+    "adoption_pct": 44,
+    "benchmark_pct": 39,
+    "benchmark_gap": "+4.27 pp",
+    "benchmark_vertical": "B2B SaaS",
+    "adoption_source": "Qonto adoption sheet 2026-06-01 (period Jan 1 - May 30 2026)",
+    "expected_lift": "",
+    "references": [],
+    "tags": "needs-enrichment",
+    "hidden_by_default": false
+  },
+  {
+    "rank": 37,
+    "solution": "Advantage+ leads campaign",
+    "what_it_solves": "Adoption tracked via Qonto product adoption sheet 2026-06-01 (Jan 1 - May 30 2026) — enrichment pending.",
+    "activate_it": [],
+    "priority": "Low",
+    "adoption_pct": 69,
+    "benchmark_pct": 35,
+    "benchmark_gap": "+33.95 pp",
+    "benchmark_vertical": "B2B SaaS",
+    "adoption_source": "Qonto adoption sheet 2026-06-01 (period Jan 1 - May 30 2026)",
+    "expected_lift": "",
+    "references": [],
+    "tags": "needs-enrichment",
+    "hidden_by_default": false
+  },
+  {
+    "rank": 38,
+    "solution": "Advantage+ creative full opt-in",
+    "what_it_solves": "Adoption tracked via Qonto product adoption sheet 2026-06-01 (Jan 1 - May 30 2026) — enrichment pending.",
+    "activate_it": [],
+    "priority": "Medium",
+    "adoption_pct": 10,
+    "benchmark_pct": 12,
+    "benchmark_gap": "-2.05 pp",
+    "benchmark_vertical": "B2B SaaS",
+    "adoption_source": "Qonto adoption sheet 2026-06-01 (period Jan 1 - May 30 2026)",
+    "expected_lift": "",
+    "references": [],
+    "tags": "needs-enrichment",
+    "hidden_by_default": false
+  },
+  {
+    "rank": 39,
+    "solution": "Ad sets with 9:16 video",
+    "what_it_solves": "Adoption tracked via Qonto product adoption sheet 2026-06-01 (Jan 1 - May 30 2026) — enrichment pending.",
+    "activate_it": [],
+    "priority": "Low",
+    "adoption_pct": 87,
+    "benchmark_pct": 71,
+    "benchmark_gap": "+15.84 pp",
+    "benchmark_vertical": "B2B SaaS",
+    "adoption_source": "Qonto adoption sheet 2026-06-01 (period Jan 1 - May 30 2026)",
+    "expected_lift": "",
+    "references": [],
+    "tags": "needs-enrichment",
+    "hidden_by_default": false
+  },
+  {
+    "rank": 40,
+    "solution": "Lead ads (instant forms)",
+    "what_it_solves": "Adoption tracked via Qonto product adoption sheet 2026-06-01 (Jan 1 - May 30 2026) — enrichment pending.",
+    "activate_it": [],
+    "priority": "Medium",
+    "adoption_pct": 1,
+    "benchmark_pct": 4,
+    "benchmark_gap": "-2.52 pp",
+    "benchmark_vertical": "B2B SaaS",
+    "adoption_source": "Qonto adoption sheet 2026-06-01 (period Jan 1 - May 30 2026)",
+    "expected_lift": "",
+    "references": [],
+    "tags": "needs-enrichment",
+    "hidden_by_default": false
+  },
+  {
+    "rank": 41,
+    "solution": "Value rules",
+    "what_it_solves": "Adoption tracked via Qonto product adoption sheet 2026-06-01 (Jan 1 - May 30 2026) — enrichment pending.",
+    "activate_it": [],
+    "priority": "Medium",
+    "adoption_pct": 0,
+    "benchmark_pct": 2,
+    "benchmark_gap": "-2.13 pp",
+    "benchmark_vertical": "B2B SaaS",
+    "adoption_source": "Qonto adoption sheet 2026-06-01 (period Jan 1 - May 30 2026)",
+    "expected_lift": "",
+    "references": [],
+    "tags": "needs-enrichment",
+    "hidden_by_default": false
+  },
+  {
+    "rank": 42,
+    "solution": "6+ Placements opt-in",
+    "what_it_solves": "Adoption tracked via Qonto product adoption sheet 2026-06-01 (Jan 1 - May 30 2026) — enrichment pending.",
+    "activate_it": [],
+    "priority": "Medium",
+    "adoption_pct": 88,
+    "benchmark_pct": 92,
+    "benchmark_gap": "-4.40 pp",
+    "benchmark_vertical": "B2B SaaS",
+    "adoption_source": "Qonto adoption sheet 2026-06-01 (period Jan 1 - May 30 2026)",
+    "expected_lift": "",
+    "references": [],
+    "tags": "needs-enrichment",
+    "hidden_by_default": false
+  },
+  {
+    "rank": 43,
+    "solution": "Advantage+ creative add music",
+    "what_it_solves": "Adoption tracked via Qonto product adoption sheet 2026-06-01 (Jan 1 - May 30 2026) — enrichment pending.",
+    "activate_it": [],
+    "priority": "Medium",
+    "adoption_pct": 6,
+    "benchmark_pct": 10,
+    "benchmark_gap": "-3.23 pp",
+    "benchmark_vertical": "B2B SaaS",
+    "adoption_source": "Qonto adoption sheet 2026-06-01 (period Jan 1 - May 30 2026)",
+    "expected_lift": "",
+    "references": [],
+    "tags": "needs-enrichment",
+    "hidden_by_default": false
+  },
+  {
+    "rank": 44,
+    "solution": "Catalog product video",
+    "what_it_solves": "Adoption tracked via Qonto product adoption sheet 2026-06-01 (Jan 1 - May 30 2026) — enrichment pending.",
+    "activate_it": [],
+    "priority": "Medium",
+    "adoption_pct": 0,
+    "benchmark_pct": 0,
+    "benchmark_gap": "-0.12 pp",
+    "benchmark_vertical": "B2B SaaS",
+    "adoption_source": "Qonto adoption sheet 2026-06-01 (period Jan 1 - May 30 2026)",
+    "expected_lift": "",
+    "references": [],
+    "tags": "needs-enrichment",
+    "hidden_by_default": false
+  },
+  {
+    "rank": 45,
+    "solution": "Ad sets with 5+ creatives",
+    "what_it_solves": "Adoption tracked via Qonto product adoption sheet 2026-06-01 (Jan 1 - May 30 2026) — enrichment pending.",
+    "activate_it": [],
+    "priority": "Low",
+    "adoption_pct": 73,
+    "benchmark_pct": 56,
+    "benchmark_gap": "+16.68 pp",
+    "benchmark_vertical": "B2B SaaS",
+    "adoption_source": "Qonto adoption sheet 2026-06-01 (period Jan 1 - May 30 2026)",
+    "expected_lift": "",
+    "references": [],
+    "tags": "needs-enrichment",
+    "hidden_by_default": false
   }
 ]
