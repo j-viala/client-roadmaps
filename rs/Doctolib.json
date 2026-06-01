@@ -80,14 +80,17 @@
       "Compare CTR + CPA vs standard ads → scale winners 20%+"
     ],
     "priority": "Critical",
-    "adoption_pct": 2,
+    "adoption_pct": 0,
     "expected_lift": "+25% CTR vs standard ads",
     "references": [
       "Meta Partnership Ads Benchmarks 2025",
       "Meta Creator Marketing Insights"
     ],
     "tags": "",
-    "hidden_by_default": false
+    "hidden_by_default": false,
+    "benchmark_pct": 6,
+    "benchmark_gap": "-6.05 pp",
+    "adoption_source": "Doctolib adoption sheet 2026-06-01"
   },
   {
     "rank": 6,
@@ -154,13 +157,16 @@
       "Avoid manual placement unless brand-safety constraint"
     ],
     "priority": "High",
-    "adoption_pct": 0,
+    "adoption_pct": 87,
     "expected_lift": "+6% lower CPA",
     "references": [
       "Meta Advantage+ Benchmarks 2025"
     ],
     "tags": "",
-    "hidden_by_default": false
+    "hidden_by_default": false,
+    "benchmark_pct": 56,
+    "benchmark_gap": "+30.98 pp",
+    "adoption_source": "Doctolib adoption sheet 2026-06-01"
   },
   {
     "rank": 10,
@@ -191,13 +197,16 @@
       "Compare CPA vs locked interest audience after 14d"
     ],
     "priority": "High",
-    "adoption_pct": 0,
+    "adoption_pct": 91,
     "expected_lift": "+15% lower CPA",
     "references": [
       "Meta Advantage+ Audience Benchmarks 2025"
     ],
     "tags": "",
-    "hidden_by_default": false
+    "hidden_by_default": false,
+    "benchmark_pct": 70,
+    "benchmark_gap": "+20.84 pp",
+    "adoption_source": "Doctolib adoption sheet 2026-06-01"
   },
   {
     "rank": 12,
@@ -230,13 +239,16 @@
       "Track Reels-specific CPM vs Feed CPM (typically -20% on Reels)"
     ],
     "priority": "High",
-    "adoption_pct": 38,
+    "adoption_pct": 99,
     "expected_lift": "3.2× more effective for brand impressions",
     "references": [
       "Meta Reels Performance Report 2025"
     ],
     "tags": "",
-    "hidden_by_default": false
+    "hidden_by_default": false,
+    "benchmark_pct": 96,
+    "benchmark_gap": "+3.15 pp",
+    "adoption_source": "Doctolib adoption sheet 2026-06-01"
   },
   {
     "rank": 14,
@@ -495,5 +507,80 @@
     ],
     "tags": "",
     "hidden_by_default": true
+  },
+  {
+    "rank": 29,
+    "solution": "Reels performant creative opt-in",
+    "what_it_solves": "Adoption tracked via Doctolib product adoption sheet 2026-06-01 — enrichment pending.",
+    "activate_it": [],
+    "priority": "Medium",
+    "adoption_pct": 68,
+    "benchmark_pct": 68,
+    "benchmark_gap": "-0.10 pp",
+    "adoption_source": "Doctolib adoption sheet 2026-06-01",
+    "expected_lift": "",
+    "references": [],
+    "tags": "needs-enrichment",
+    "hidden_by_default": false
+  },
+  {
+    "rank": 30,
+    "solution": "Advantage+ sales campaign",
+    "what_it_solves": "Adoption tracked via Doctolib product adoption sheet 2026-06-01 — enrichment pending.",
+    "activate_it": [],
+    "priority": "High",
+    "adoption_pct": 40,
+    "benchmark_pct": 56,
+    "benchmark_gap": "-16.05 pp",
+    "adoption_source": "Doctolib adoption sheet 2026-06-01",
+    "expected_lift": "",
+    "references": [],
+    "tags": "needs-enrichment",
+    "hidden_by_default": false
+  },
+  {
+    "rank": 31,
+    "solution": "Advantage+ app campaign",
+    "what_it_solves": "Adoption tracked via Doctolib product adoption sheet 2026-06-01 — enrichment pending.",
+    "activate_it": [],
+    "priority": "Low",
+    "adoption_pct": 90,
+    "benchmark_pct": 57,
+    "benchmark_gap": "+33.02 pp",
+    "adoption_source": "Doctolib adoption sheet 2026-06-01",
+    "expected_lift": "",
+    "references": [],
+    "tags": "needs-enrichment",
+    "hidden_by_default": false
+  },
+  {
+    "rank": 32,
+    "solution": "Advantage+ leads campaign",
+    "what_it_solves": "Adoption tracked via Doctolib product adoption sheet 2026-06-01 — enrichment pending.",
+    "activate_it": [],
+    "priority": "Low",
+    "adoption_pct": 89,
+    "benchmark_pct": 38,
+    "benchmark_gap": "+51.28 pp",
+    "adoption_source": "Doctolib adoption sheet 2026-06-01",
+    "expected_lift": "",
+    "references": [],
+    "tags": "needs-enrichment",
+    "hidden_by_default": false
+  },
+  {
+    "rank": 33,
+    "solution": "Advantage+ creative full opt-in",
+    "what_it_solves": "Adoption tracked via Doctolib product adoption sheet 2026-06-01 — enrichment pending.",
+    "activate_it": [],
+    "priority": "High",
+    "adoption_pct": 2,
+    "benchmark_pct": 14,
+    "benchmark_gap": "-11.84 pp",
+    "adoption_source": "Doctolib adoption sheet 2026-06-01",
+    "expected_lift": "",
+    "references": [],
+    "tags": "needs-enrichment",
+    "hidden_by_default": false
   }
 ]
