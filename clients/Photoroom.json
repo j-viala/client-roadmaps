@@ -126,5 +126,35 @@
     "tags": "team:WhatsApp",
     "pinned": true,
     "sort_order": 9
+  },
+  {
+    "stream_name": "Value optimization + SDK update — scope with biz engineer",
+    "subtitle_why": "Value optimization requires SDK update; evaluate technical effort with biz engineer.",
+    "subtitle_how": "Tech Pod 2026-05-13.",
+    "next_action": "Launch dedicated thread with biz engineer; assess SDK effort.",
+    "theme": "Measurement & Signal",
+    "status": "Open",
+    "meta_owner": "Julian",
+    "client_owner": "",
+    "sort_order": 10,
+    "deadline": "",
+    "link_url": "",
+    "tags": "migrated-from-tracker",
+    "pinned": false
+  },
+  {
+    "stream_name": "Pitch Conversion Lift + VO/NPVO — measure LTV/CAC, boost ROAS",
+    "subtitle_why": "Conversion Lift to measure LTV/CAC incrementality; VO/NPVO to boost ROAS.",
+    "subtitle_how": "Tech Pod 2026-05-21.",
+    "next_action": "Pitch Conversion Lift + VO/NPVO to client.",
+    "theme": "Measurement & Signal",
+    "status": "Open",
+    "meta_owner": "Julian",
+    "client_owner": "",
+    "sort_order": 11,
+    "deadline": "",
+    "link_url": "",
+    "tags": "migrated-from-tracker",
+    "pinned": false
   }
 ]
