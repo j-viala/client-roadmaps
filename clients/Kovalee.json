@@ -99,5 +99,20 @@
     "deadline": "",
     "tags": "T3,P2,attribution",
     "pinned": false
+  },
+  {
+    "stream_name": "Pitch ROAS Goal beta (+11% conv, same CPA) — growth lever",
+    "subtitle_why": "ROAS Goal beta: +11% conversions at same CPA. Growth lever for at-risk Kovalee.",
+    "subtitle_how": "Workplace post May 18.",
+    "next_action": "Pilot 1 campaign with Ettore.",
+    "theme": "Performance & Growth",
+    "status": "Open",
+    "meta_owner": "Julian",
+    "client_owner": "Ettore Carfagnini",
+    "sort_order": 9,
+    "deadline": "",
+    "link_url": "",
+    "tags": "migrated-from-tracker",
+    "pinned": false
   }
 ]
