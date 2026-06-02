@@ -57,5 +57,47 @@
     "tags": "team:CAPI",
     "pinned": true,
     "sort_order": 5
+  },
+  {
+    "stream_name": "Reinstall tracking blocker — unblock (stuck since Apr 15)",
+    "subtitle_why": "App reinstall events not firing since 2026-04-15; no progress — blocks retargeting + measurement for an at-risk client (-27% YoY, 43% ATT).",
+    "subtitle_how": "Diagnose SDK/MMP reinstall event config with Ettore; escalate to BizEng if technical.",
+    "next_action": "Get reinstall event status from Ettore; open TSC case if unresolved.",
+    "theme": "Measurement & Signal",
+    "status": "Open",
+    "meta_owner": "Julian",
+    "client_owner": "Ettore Carfagnini",
+    "sort_order": 6,
+    "deadline": "",
+    "tags": "T3,P1,reinstall,blocker,needs-confirmation",
+    "pinned": true
+  },
+  {
+    "stream_name": "Data Signals Improvement — biggest perf lever",
+    "subtitle_why": "Identified as Kovalee's single biggest performance lever; biweekly cadence active. Signal quality drives algo performance for app UA.",
+    "subtitle_how": "Continue biweekly; map EMQ/CAPI gaps; leverage Meta Ads MCP server (shared by Rafael) for self-serve diagnostics.",
+    "next_action": "Next biweekly: review signal quality metrics + agree 1 concrete improvement.",
+    "theme": "Measurement & Signal",
+    "status": "Open",
+    "meta_owner": "Julian",
+    "client_owner": "Ettore Carfagnini",
+    "sort_order": 7,
+    "deadline": "",
+    "tags": "T3,P2,signals,capi,needs-confirmation",
+    "pinned": false
+  },
+  {
+    "stream_name": "Custom Attribution allowlist — Kovalee eligible (10% rollout)",
+    "subtitle_why": "Custom Attribution at 10% rollout; Kovalee flagged as allowlist candidate (per market-signal scan). Could improve measurement accuracy.",
+    "subtitle_how": "Confirm CAPI connection prerequisite, then request allowlist add for Kovalee accounts.",
+    "next_action": "Verify CAPI status; submit allowlist request if eligible.",
+    "theme": "Measurement & Signal",
+    "status": "Open",
+    "meta_owner": "Julian",
+    "client_owner": "Ettore Carfagnini",
+    "sort_order": 8,
+    "deadline": "",
+    "tags": "T3,P2,attribution,needs-confirmation",
+    "pinned": false
   }
 ]
