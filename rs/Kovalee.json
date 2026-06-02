@@ -18,7 +18,11 @@
       "Meta Creator Marketing Insights"
     ],
     "tags": "",
-    "hidden_by_default": false
+    "hidden_by_default": false,
+    "benchmark_pct": 7,
+    "benchmark_gap": "-7 pp",
+    "benchmark_vertical": "App Lifestyle",
+    "adoption_source": "Kovalee adoption sheet 2026-06-02 (Jan-May 2026, vs App Lifestyle industry)"
   },
   {
     "rank": 2,
@@ -72,13 +76,17 @@
       "Track Reels-specific CPM vs Feed CPM (typically -20% on Reels)"
     ],
     "priority": "Critical",
-    "adoption_pct": 12,
+    "adoption_pct": 100,
     "expected_lift": "3.2× more effective for brand impressions",
     "references": [
       "Meta Reels Performance Report 2025"
     ],
     "tags": "",
-    "hidden_by_default": false
+    "hidden_by_default": false,
+    "benchmark_pct": 99,
+    "benchmark_gap": "+1 pp",
+    "benchmark_vertical": "App Lifestyle",
+    "adoption_source": "Kovalee adoption sheet 2026-06-02 (Jan-May 2026, vs App Lifestyle industry)"
   },
   {
     "rank": 5,
@@ -146,13 +154,17 @@
       "Compare CPA vs locked interest audience after 14d"
     ],
     "priority": "High",
-    "adoption_pct": 4,
+    "adoption_pct": 90,
     "expected_lift": "+15% lower CPA",
     "references": [
       "Meta Advantage+ Audience Benchmarks 2025"
     ],
     "tags": "",
-    "hidden_by_default": false
+    "hidden_by_default": false,
+    "benchmark_pct": 88,
+    "benchmark_gap": "+2 pp",
+    "benchmark_vertical": "App Lifestyle",
+    "adoption_source": "Kovalee adoption sheet 2026-06-02 (Jan-May 2026, vs App Lifestyle industry)"
   },
   {
     "rank": 9,
@@ -204,13 +216,17 @@
       "Compare CPA vs locked-creative ads in same campaign"
     ],
     "priority": "Medium",
-    "adoption_pct": 0,
+    "adoption_pct": 1,
     "expected_lift": "+5% CPA improvement",
     "references": [
       "Meta Flexible Media Benchmarks 2025"
     ],
     "tags": "",
-    "hidden_by_default": false
+    "hidden_by_default": false,
+    "benchmark_pct": 14,
+    "benchmark_gap": "-13 pp",
+    "benchmark_vertical": "App Lifestyle",
+    "adoption_source": "Kovalee adoption sheet 2026-06-02 (Jan-May 2026, vs App Lifestyle industry)"
   },
   {
     "rank": 12,
@@ -256,13 +272,17 @@
       "Exits learning phase 30-40% faster than ABO"
     ],
     "priority": "Medium",
-    "adoption_pct": 0,
+    "adoption_pct": 93,
     "expected_lift": "+12% lower CPA",
     "references": [
       "Meta Advantage+ Campaign Budget Benchmarks 2025"
     ],
     "tags": "",
-    "hidden_by_default": false
+    "hidden_by_default": false,
+    "benchmark_pct": 72,
+    "benchmark_gap": "+21 pp",
+    "benchmark_vertical": "App Lifestyle",
+    "adoption_source": "Kovalee adoption sheet 2026-06-02 (Jan-May 2026, vs App Lifestyle industry)"
   },
   {
     "rank": 15,
@@ -370,13 +390,17 @@
       "Avoid manual placement unless brand-safety constraint"
     ],
     "priority": "Medium",
-    "adoption_pct": 62,
+    "adoption_pct": 94,
     "expected_lift": "+6% lower CPA",
     "references": [
       "Meta Advantage+ Benchmarks 2025"
     ],
     "tags": "",
-    "hidden_by_default": true
+    "hidden_by_default": true,
+    "benchmark_pct": 66,
+    "benchmark_gap": "+28 pp",
+    "benchmark_vertical": "App Lifestyle",
+    "adoption_source": "Kovalee adoption sheet 2026-06-02 (Jan-May 2026, vs App Lifestyle industry)"
   },
   {
     "rank": 21,
@@ -428,5 +452,165 @@
     "references": [],
     "tags": "",
     "hidden_by_default": true
+  },
+  {
+    "rank": 24,
+    "solution": "Advantage+ sales campaign",
+    "what_it_solves": "Adoption tracked via Kovalee adoption sheet 2026-06-02 (Jan-May 2026, vs App Lifestyle) — enrichment pending.",
+    "activate_it": [],
+    "priority": "Low",
+    "adoption_pct": 90,
+    "benchmark_pct": 26,
+    "benchmark_gap": "+64 pp",
+    "benchmark_vertical": "App Lifestyle",
+    "adoption_source": "Kovalee adoption sheet 2026-06-02 (Jan-May 2026, vs App Lifestyle industry)",
+    "expected_lift": "",
+    "references": [],
+    "tags": "needs-enrichment",
+    "hidden_by_default": false
+  },
+  {
+    "rank": 25,
+    "solution": "Advantage+ app campaign",
+    "what_it_solves": "Adoption tracked via Kovalee adoption sheet 2026-06-02 (Jan-May 2026, vs App Lifestyle) — enrichment pending.",
+    "activate_it": [],
+    "priority": "Low",
+    "adoption_pct": 76,
+    "benchmark_pct": 50,
+    "benchmark_gap": "+26 pp",
+    "benchmark_vertical": "App Lifestyle",
+    "adoption_source": "Kovalee adoption sheet 2026-06-02 (Jan-May 2026, vs App Lifestyle industry)",
+    "expected_lift": "",
+    "references": [],
+    "tags": "needs-enrichment",
+    "hidden_by_default": false
+  },
+  {
+    "rank": 26,
+    "solution": "Advantage+ creative full opt-in",
+    "what_it_solves": "Adoption tracked via Kovalee adoption sheet 2026-06-02 (Jan-May 2026, vs App Lifestyle) — enrichment pending.",
+    "activate_it": [],
+    "priority": "Medium",
+    "adoption_pct": 6,
+    "benchmark_pct": 9,
+    "benchmark_gap": "-3 pp",
+    "benchmark_vertical": "App Lifestyle",
+    "adoption_source": "Kovalee adoption sheet 2026-06-02 (Jan-May 2026, vs App Lifestyle industry)",
+    "expected_lift": "",
+    "references": [],
+    "tags": "needs-enrichment",
+    "hidden_by_default": false
+  },
+  {
+    "rank": 27,
+    "solution": "Ad sets with 9:16 video",
+    "what_it_solves": "Adoption tracked via Kovalee adoption sheet 2026-06-02 (Jan-May 2026, vs App Lifestyle) — enrichment pending.",
+    "activate_it": [],
+    "priority": "Low",
+    "adoption_pct": 100,
+    "benchmark_pct": 69,
+    "benchmark_gap": "+31 pp",
+    "benchmark_vertical": "App Lifestyle",
+    "adoption_source": "Kovalee adoption sheet 2026-06-02 (Jan-May 2026, vs App Lifestyle industry)",
+    "expected_lift": "",
+    "references": [],
+    "tags": "needs-enrichment",
+    "hidden_by_default": false
+  },
+  {
+    "rank": 28,
+    "solution": "Lead ads (instant forms)",
+    "what_it_solves": "Adoption tracked via Kovalee adoption sheet 2026-06-02 (Jan-May 2026, vs App Lifestyle) — enrichment pending.",
+    "activate_it": [],
+    "priority": "Low",
+    "adoption_pct": 0,
+    "benchmark_pct": 0,
+    "benchmark_gap": "+0 pp",
+    "benchmark_vertical": "App Lifestyle",
+    "adoption_source": "Kovalee adoption sheet 2026-06-02 (Jan-May 2026, vs App Lifestyle industry)",
+    "expected_lift": "",
+    "references": [],
+    "tags": "needs-enrichment",
+    "hidden_by_default": false
+  },
+  {
+    "rank": 29,
+    "solution": "Value rules",
+    "what_it_solves": "Adoption tracked via Kovalee adoption sheet 2026-06-02 (Jan-May 2026, vs App Lifestyle) — enrichment pending.",
+    "activate_it": [],
+    "priority": "Medium",
+    "adoption_pct": 5,
+    "benchmark_pct": 6,
+    "benchmark_gap": "-1 pp",
+    "benchmark_vertical": "App Lifestyle",
+    "adoption_source": "Kovalee adoption sheet 2026-06-02 (Jan-May 2026, vs App Lifestyle industry)",
+    "expected_lift": "",
+    "references": [],
+    "tags": "needs-enrichment",
+    "hidden_by_default": false
+  },
+  {
+    "rank": 30,
+    "solution": "6+ Placements opt-in",
+    "what_it_solves": "Adoption tracked via Kovalee adoption sheet 2026-06-02 (Jan-May 2026, vs App Lifestyle) — enrichment pending.",
+    "activate_it": [],
+    "priority": "Low",
+    "adoption_pct": 100,
+    "benchmark_pct": 98,
+    "benchmark_gap": "+2 pp",
+    "benchmark_vertical": "App Lifestyle",
+    "adoption_source": "Kovalee adoption sheet 2026-06-02 (Jan-May 2026, vs App Lifestyle industry)",
+    "expected_lift": "",
+    "references": [],
+    "tags": "needs-enrichment",
+    "hidden_by_default": false
+  },
+  {
+    "rank": 31,
+    "solution": "Advantage+ creative add music",
+    "what_it_solves": "Adoption tracked via Kovalee adoption sheet 2026-06-02 (Jan-May 2026, vs App Lifestyle) — enrichment pending.",
+    "activate_it": [],
+    "priority": "High",
+    "adoption_pct": 0,
+    "benchmark_pct": 7,
+    "benchmark_gap": "-7 pp",
+    "benchmark_vertical": "App Lifestyle",
+    "adoption_source": "Kovalee adoption sheet 2026-06-02 (Jan-May 2026, vs App Lifestyle industry)",
+    "expected_lift": "",
+    "references": [],
+    "tags": "needs-enrichment",
+    "hidden_by_default": false
+  },
+  {
+    "rank": 32,
+    "solution": "Catalog product video",
+    "what_it_solves": "Adoption tracked via Kovalee adoption sheet 2026-06-02 (Jan-May 2026, vs App Lifestyle) — enrichment pending.",
+    "activate_it": [],
+    "priority": "High",
+    "adoption_pct": 7,
+    "benchmark_pct": 15,
+    "benchmark_gap": "-8 pp",
+    "benchmark_vertical": "App Lifestyle",
+    "adoption_source": "Kovalee adoption sheet 2026-06-02 (Jan-May 2026, vs App Lifestyle industry)",
+    "expected_lift": "",
+    "references": [],
+    "tags": "needs-enrichment",
+    "hidden_by_default": false
+  },
+  {
+    "rank": 33,
+    "solution": "Ad sets with 5+ creatives",
+    "what_it_solves": "Adoption tracked via Kovalee adoption sheet 2026-06-02 (Jan-May 2026, vs App Lifestyle) — enrichment pending.",
+    "activate_it": [],
+    "priority": "Low",
+    "adoption_pct": 87,
+    "benchmark_pct": 65,
+    "benchmark_gap": "+22 pp",
+    "benchmark_vertical": "App Lifestyle",
+    "adoption_source": "Kovalee adoption sheet 2026-06-02 (Jan-May 2026, vs App Lifestyle industry)",
+    "expected_lift": "",
+    "references": [],
+    "tags": "needs-enrichment",
+    "hidden_by_default": false
   }
 ]
