@@ -224,5 +224,35 @@
     "deadline": "2026-05-30",
     "tags": "team:CAPI",
     "pinned": true
+  },
+  {
+    "stream_name": "Pitch ROAS Goal beta (+11% conv, same CPA) — recovery angle",
+    "subtitle_why": "ROAS Goal beta: +11% conversions at same CPA. Recovery lever for MWM (-54% YoY).",
+    "subtitle_how": "Workplace post May 18.",
+    "next_action": "Pilot 1 campaign with Josselyn.",
+    "theme": "Performance & Growth",
+    "status": "Open",
+    "meta_owner": "Julian",
+    "client_owner": "Josselyn",
+    "sort_order": 37,
+    "deadline": "",
+    "link_url": "",
+    "tags": "migrated-from-tracker",
+    "pinned": false
+  },
+  {
+    "stream_name": "Define measurement plan — Web&App signal DJiing",
+    "subtitle_why": "DJiing Web&App signal visible in CRM but not Hatch — measurement gap to close.",
+    "subtitle_how": "Tech Pod 2026-05-20.",
+    "next_action": "Define tracking/measurement plan for the signal.",
+    "theme": "Measurement & Signal",
+    "status": "Open",
+    "meta_owner": "Julian",
+    "client_owner": "",
+    "sort_order": 38,
+    "deadline": "",
+    "link_url": "",
+    "tags": "migrated-from-tracker",
+    "pinned": false
   }
 ]
