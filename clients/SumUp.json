@@ -317,5 +317,20 @@
     "tags": "team:CAPI",
     "pinned": true,
     "sort_order": 31
+  },
+  {
+    "stream_name": "Audit App vs Web-to-App perf gap",
+    "subtitle_why": "Compare paused App campaigns vs active Web-to-App (ex-IT) to quantify perf gap.",
+    "subtitle_how": "Get campaign IDs from Diogo.",
+    "next_action": "Get IDs from Diogo; compare paused App vs active W2A.",
+    "theme": "Performance & Growth",
+    "status": "Open",
+    "meta_owner": "Julian",
+    "client_owner": "Diogo",
+    "sort_order": 32,
+    "deadline": "",
+    "link_url": "",
+    "tags": "migrated-from-tracker",
+    "pinned": true
   }
 ]
