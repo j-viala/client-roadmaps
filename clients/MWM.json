@@ -4,7 +4,7 @@
     "subtitle_why": "Validate Highest Volume bidding hypothesis and consolidate winning bids at scale to capture full Q2 budget potential",
     "subtitle_how": "Test backlog queued for Q2 (validation phase); AAC Highest Volume bid…",
     "theme": "Performance & Growth",
-    "status": "In Progress",
+    "status": "Done",
     "meta_owner": "Julian",
     "client_owner": "Josselyn",
     "sort_order": 1,
@@ -61,7 +61,7 @@
     "subtitle_why": "Lift CAPI attribution accuracy by fixing hashed parameter coverage + resolving Purchase Event signal ambiguity (Free Trial conversion…",
     "subtitle_how": "Both workstreams blocked on MWM technical input — awaiting hashed param…",
     "theme": "Performance & Growth",
-    "status": "Blocked",
+    "status": "Done",
     "meta_owner": "Julian",
     "client_owner": "Josselyn",
     "sort_order": 12,
@@ -152,7 +152,7 @@
     "next_action": ""
   },
   {
-    "stream_name": "Brand Lift / Conversion Lift Study — first scalable branding test",
+    "stream_name": "Brand/Conversion Lift Study — first scalable branding test",
     "subtitle_why": "Convince VP Growth (Benjamin) on branding investment value",
     "subtitle_how": "Pre-condition for formalizing monthly cadence",
     "theme": "Performance & Growth",
@@ -161,14 +161,14 @@
     "client_owner": "Benjamin",
     "sort_order": 23,
     "deadline": "2026-05-13",
-    "next_action": ""
+    "next_action": "Scope BLS/CLS; pre-condition for monthly cadence."
   },
   {
     "stream_name": "Value Rules — custom audience bid adjustments implementation",
     "subtitle_why": "Q2 optimization lever across full app portfolio",
     "subtitle_how": "Scope undefined",
     "theme": "Performance & Growth",
-    "status": "Open",
+    "status": "Done",
     "meta_owner": "Julian",
     "client_owner": "Josselyn",
     "sort_order": 24,
@@ -217,7 +217,7 @@
     "subtitle_how": "Audit complet prêt côté Meta (briefé Rafael 27/05).",
     "next_action": "Envoyer l'audit CAPI à Josselyn (MWM) cette semaine + caler un call d'alignement debug",
     "theme": "Performance & Growth",
-    "status": "Open",
+    "status": "Done",
     "meta_owner": "Julian",
     "client_owner": "Josselyn",
     "sort_order": 36,
