@@ -30,10 +30,10 @@
     "pinned": true
   },
   {
-    "stream_name": "GDPR reply to Naima — answer Doctolib data privacy questions",
+    "stream_name": "MMA — unblock Sally's Business Portfolio (BP 277046712679402)",
     "subtitle_why": "",
-    "subtitle_how": "Naima asked Doctolib GDPR-related questions; reply due tomorrow per task-gardener detection",
-    "next_action": "",
+    "subtitle_how": "Rafael gave FX+Céline 2 unblock steps (28/05). Auto-approves ~12/06 if not done.",
+    "next_action": "Follow up FX 04/06; confirm BP approved in Org Manager.",
     "theme": "Strategic Investments",
     "status": "Done",
     "meta_owner": "Julian",
@@ -103,10 +103,10 @@
     "supporter": "Dewangee (BizEng, Meta)"
   },
   {
-    "stream_name": "MMA implementation support — unblock Sally's Business Portfolio approval",
+    "stream_name": "MMA — unblock Sally's Business Portfolio (BP 277046712679402)",
     "subtitle_why": "Sally's Meta Managed Account migration broke the BP notification flow; Doctolib admins haven't received the approval prompt for Business Portfolio 277046712679402, blocking org transfer.",
-    "subtitle_how": "Rafael provided 2 unblock procedures to FX + Céline on 2026-05-28 (Force Direct Link Verification OR Force domain trust match). Auto-approval safety net at ~15 days (≈ 2026-06-12).",
-    "next_action": "Follow up with François-Xavier Le Quéré 2026-06-04 to confirm Céline executed Step 1 or Step 2; verify Business Portfolio shows approved in Organization Manager. Escalate if still blocked by 2026-06-10.",
+    "subtitle_how": "Rafael gave FX+Céline 2 unblock steps (28/05). Auto-approves ~12/06 if not done.",
+    "next_action": "Follow up FX 04/06; confirm BP approved in Org Manager.",
     "theme": "Account Health & Compliance",
     "status": "Open",
     "meta_owner": "Rafael",
