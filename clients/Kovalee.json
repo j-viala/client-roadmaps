@@ -69,7 +69,7 @@
     "client_owner": "Ettore Carfagnini",
     "sort_order": 6,
     "deadline": "",
-    "tags": "T3,P1,reinstall,blocker,needs-confirmation",
+    "tags": "T3,P1,reinstall,blocker",
     "pinned": true
   },
   {
@@ -83,7 +83,7 @@
     "client_owner": "Ettore Carfagnini",
     "sort_order": 7,
     "deadline": "",
-    "tags": "T3,P2,signals,capi,needs-confirmation",
+    "tags": "T3,P2,signals,capi",
     "pinned": false
   },
   {
@@ -97,7 +97,7 @@
     "client_owner": "Ettore Carfagnini",
     "sort_order": 8,
     "deadline": "",
-    "tags": "T3,P2,attribution,needs-confirmation",
+    "tags": "T3,P2,attribution",
     "pinned": false
   }
 ]
