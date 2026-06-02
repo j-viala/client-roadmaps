@@ -1,9 +1,9 @@
 [
   {
-    "stream_name": "Push 'website + app' conversion location rec — Critical RS unactioned",
+    "stream_name": "Adopt 'website + app' conversion location (Critical RS)",
     "subtitle_why": "Top RS in Qonto book. Adoption unlocks attributed revenue lift.",
     "subtitle_how": "Brief client on the recommendation, target adoption Q2.",
-    "next_action": "Schedule rec walk-through with Qonto growth team",
+    "next_action": "Brief client; target Q2 adoption.",
     "market": "ALL",
     "topics": [
       "rs-canonical:conversion-location",
@@ -71,7 +71,7 @@
     ],
     "priority": "P2",
     "theme": "Strategic Investments",
-    "status": "Open",
+    "status": "Done",
     "meta_owner": "Julian",
     "client_owner": "Qonto",
     "sort_order": 4,
