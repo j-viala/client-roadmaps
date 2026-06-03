@@ -259,7 +259,7 @@
     "subtitle_how": "Optim goal currently set to other objectives; LPV not tested",
     "next_action": "A/B test LPV vs current optim on 1-2 traffic campaigns with Felipe (Self-serve)",
     "theme": "Performance & Growth",
-    "status": "Open",
+    "status": "Done",
     "meta_owner": "Julian",
     "client_owner": "Felipe",
     "sort_order": 27,
@@ -271,7 +271,7 @@
     "subtitle_how": "TSC case ongoing with Meta technical support; investigation in flight on form…",
     "next_action": "Track TSC case resolution; relance technical support weekly until lead capture restored on Anna's…",
     "theme": "Performance & Growth",
-    "status": "In Progress",
+    "status": "Done",
     "meta_owner": "Julian",
     "client_owner": "Anna",
     "sort_order": 28,
@@ -310,7 +310,7 @@
     "subtitle_how": "Not started. Périmètre à scoper : couverture des signaux serveur, qualité du…",
     "next_action": "Scoper l'audit CAPI (signal coverage + match quality + recommended upgrades) et caler un kickoff…",
     "theme": "Performance & Growth",
-    "status": "Open",
+    "status": "Done",
     "meta_owner": "Meta",
     "client_owner": "Anna",
     "deadline": "",
@@ -332,5 +332,20 @@
     "link_url": "",
     "tags": "migrated-from-tracker",
     "pinned": true
+  },
+  {
+    "stream_name": "Share BizAI announcement + opportunities post-Conversations keynote",
+    "subtitle_why": "BizAI announced at Conversations 2026 (Jun 3). Share opportunities with SumUp post-keynote.",
+    "subtitle_how": "Post-keynote follow-up with Umberto Zola.",
+    "next_action": "Share BizAI announcement + opportunities with Umberto.",
+    "theme": "Business Messaging",
+    "status": "Open",
+    "meta_owner": "Julian",
+    "client_owner": "",
+    "sort_order": 33,
+    "deadline": "2026-06-04",
+    "link_url": "",
+    "tags": "P2,bizai",
+    "pinned": false
   }
 ]
