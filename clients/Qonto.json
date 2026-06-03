@@ -193,5 +193,20 @@
     "tags": "team:WhatsApp",
     "pinned": true,
     "sort_order": 10
+  },
+  {
+    "stream_name": "Confirm creative-audit debrief date w/ Thomas Guillerm + agency (Jun 12 or 15)",
+    "subtitle_why": "Thomas sent materials; Fanny proposed Jun 12 or 15. Confirm before Julian OOO.",
+    "subtitle_how": "Reply to thread; lock date.",
+    "next_action": "Confirm debrief date with Thomas + agency.",
+    "theme": "Creative",
+    "status": "Open",
+    "meta_owner": "Julian",
+    "client_owner": "",
+    "sort_order": 11,
+    "deadline": "2026-06-04",
+    "link_url": "",
+    "tags": "P2",
+    "pinned": false
   }
 ]
