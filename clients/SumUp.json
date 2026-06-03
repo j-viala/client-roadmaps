@@ -347,5 +347,50 @@
     "link_url": "",
     "tags": "P2,bizai",
     "pinned": false
+  },
+  {
+    "stream_name": "SumUp Sales-Led — CAPI events list + Lead event verification",
+    "subtitle_why": "Sales-Led (Bojana/Anna) need key CAPI events mapped + lead value/currency passed via CAPI/HighTouch for conversion-leads optimization.",
+    "subtitle_how": "From Sales-Led tracker tab + Berlin offsite notes (poke Anna on martech).",
+    "next_action": "Get list of key CAPI events from Anna/Bo; verify Lead event = signup; confirm lead value+currency passed.",
+    "theme": "Measurement & Signal",
+    "status": "Open",
+    "meta_owner": "Julian",
+    "client_owner": "Bojana Nedic / Anna Strano",
+    "sort_order": 34,
+    "deadline": "",
+    "link_url": "",
+    "tags": "P2,sales-led",
+    "pinned": false
+  },
+  {
+    "stream_name": "SumUp Sales-Led — VBB / lead value implementation",
+    "subtitle_why": "Anna testing Value Optimization for Leads beta (SumUp accounts allow-listed). ~15K leads/mo, ~10% convert. Goal: scale budget without degrading quality (>5K TPV, testing 10K).",
+    "subtitle_how": "SumUp tech team implementing lead value.",
+    "next_action": "Track lead-value implementation -> unlock VO for Leads (lead value+currency via CAPI/HighTouch).",
+    "theme": "Performance & Growth",
+    "status": "Open",
+    "meta_owner": "Julian",
+    "client_owner": "Bojana Nedic / Anna Strano",
+    "sort_order": 35,
+    "deadline": "",
+    "link_url": "",
+    "tags": "P2,sales-led",
+    "pinned": false
+  },
+  {
+    "stream_name": "SumUp Sales-Led — WhatsApp first steps",
+    "subtitle_why": "Currently 1-way only, no 2-way opt-in (managed by Channel Ops). B2C cost-saving opp (millions SMS/yr).",
+    "subtitle_how": "15 min planned at next Sales-Led meeting.",
+    "next_action": "Prep WhatsApp first-steps for next Sales-Led meeting; confirm opt-in status with Channel Ops (Anna/Anurag).",
+    "theme": "Business Messaging",
+    "status": "Open",
+    "meta_owner": "Julian",
+    "client_owner": "Bojana Nedic / Anna Strano",
+    "sort_order": 36,
+    "deadline": "",
+    "link_url": "",
+    "tags": "P2,sales-led",
+    "pinned": false
   }
 ]
