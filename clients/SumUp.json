@@ -351,8 +351,8 @@
   {
     "stream_name": "SumUp Sales-Led — CAPI events list + Lead event verification",
     "subtitle_why": "Sales-Led (Bojana/Anna) need key CAPI events mapped + lead value/currency passed via CAPI/HighTouch for conversion-leads optimization.",
-    "subtitle_how": "From Sales-Led tracker tab + Berlin offsite notes (poke Anna on martech).",
-    "next_action": "Get list of key CAPI events from Anna/Bo; verify Lead event = signup; confirm lead value+currency passed.",
+    "subtitle_how": "List obtained 2026-06-03 (7 active POS_*_cAPI form/landing events; in context.md).",
+    "next_action": "Verify which event = signup (Bo); wire lead value+currency for VO-for-Leads.",
     "theme": "Measurement & Signal",
     "status": "Open",
     "meta_owner": "Julian",
