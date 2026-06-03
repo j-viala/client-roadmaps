@@ -89,8 +89,8 @@
   {
     "stream_name": "Custom Attribution allowlist — Kovalee eligible (10% rollout)",
     "subtitle_why": "Custom Attribution at 10% rollout; Kovalee flagged as allowlist candidate (per market-signal scan). Could improve measurement accuracy.",
-    "subtitle_how": "Confirm CAPI connection prerequisite, then request allowlist add for Kovalee accounts.",
-    "next_action": "Verify CAPI status; submit allowlist request if eligible.",
+    "subtitle_how": "Kovalee now on Custom Attribution allowlist (confirmed 2026-06-03).",
+    "next_action": "Now allowlisted - confirm activation + monitor measurement impact.",
     "theme": "Measurement & Signal",
     "status": "Open",
     "meta_owner": "Julian",
@@ -101,7 +101,7 @@
     "pinned": false
   },
   {
-    "stream_name": "Pitch ROAS Goal beta (+11% conv, same CPA) — growth lever",
+    "stream_name": "Pitch ROAS Goal beta - +11% conv at same CPA",
     "subtitle_why": "ROAS Goal beta: +11% conversions at same CPA. Growth lever for at-risk Kovalee.",
     "subtitle_how": "Workplace post May 18.",
     "next_action": "Pilot 1 campaign with Ettore.",
