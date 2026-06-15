@@ -208,5 +208,25 @@
     "link_url": "",
     "tags": "P2",
     "pinned": false
+  },
+  {
+    "stream_name": "Search bar missing — Qonto DE support issue",
+    "subtitle_why": "Qonto DE reported the search bar is missing — disrupts their workflow. Filed with Meta support; tracked to resolution.",
+    "subtitle_how": "Follow up on Meta support Case 3472876326218335 with the platform/support team until fixed.",
+    "next_action": "Track Meta support Case 3472876326218335 to resolution.",
+    "market": "DE",
+    "topics": [
+      "support",
+      "case:3472876326218335"
+    ],
+    "priority": "P2",
+    "theme": "Performance & Growth",
+    "status": "Open",
+    "meta_owner": "Julian",
+    "client_owner": "Qonto DE",
+    "sort_order": 12,
+    "deadline": "",
+    "link_url": "",
+    "pinned": false
   }
 ]
