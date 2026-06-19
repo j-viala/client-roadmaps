@@ -202,8 +202,8 @@
   },
   {
     "stream_name": "Lift event match quality — fix external IDs on conversion events",
-    "subtitle_why": "Event match quality on conversion events is below target, capping optimization. Improving signal quality (external IDs) unlocks better delivery and ROAS.",
-    "subtitle_how": "External-ID fix in motion with AppsFlyer (app-store subs don't pass email/phone; matching on for app, off for web-to-app).",
+    "subtitle_why": "Event match quality averages ~4/10 across apps (Color Pop/SwipeWipe/Edjing 3.9–4.4) — below the 6.0 needed to unlock Value Optimization. Improving signal via external IDs unlocks better delivery and ROAS.",
+    "subtitle_how": "External-ID fix in motion with AppsFlyer (dedup verified clean, single-path S2S). App-store subs don't pass email/phone.",
     "theme": "Measurement & Signal",
     "status": "In Progress",
     "meta_owner": "Julian",
