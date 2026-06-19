@@ -202,13 +202,13 @@
   },
   {
     "stream_name": "Lift event match quality — fix external IDs on conversion events",
-    "subtitle_why": "Event match quality is at 3.5/10 with no external IDs on conversion events, capping optimization. Fixing signal quality unlocks better delivery and ROAS.",
-    "subtitle_how": "App-store subscriptions don't pass email/phone; matching is on for app, off for web-to-app. Work with AppsFlyer on external IDs.",
+    "subtitle_why": "Event match quality on conversion events is below target, capping optimization. Improving signal quality (external IDs) unlocks better delivery and ROAS.",
+    "subtitle_how": "External-ID fix in motion with AppsFlyer (app-store subs don't pass email/phone; matching on for app, off for web-to-app).",
     "theme": "Measurement & Signal",
-    "status": "Open",
+    "status": "In Progress",
     "meta_owner": "Julian",
     "client_owner": "Josselyn",
     "sort_order": 38,
-    "next_action": "Open AppsFlyer thread on external IDs + align on the signal-quality fix."
+    "next_action": "Confirm EMQ uplift once the AppsFlyer external-ID fix lands."
   }
 ]
