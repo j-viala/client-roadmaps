@@ -24,7 +24,7 @@
   {
     "stream_name": "Predicted Lifetime Value (pLTV) — blended optimization rollout",
     "subtitle_why": "Unlock Value Optimization targeting high-LTV users",
-    "subtitle_how": "Blended scoring model shared with Meta, scope undefined",
+    "subtitle_how": "Blended pLTV scoring model in scoping.",
     "theme": "Strategic Investments",
     "status": "Open",
     "meta_owner": "Julian + Horia",
@@ -126,34 +126,8 @@
     "next_action": ""
   },
   {
-    "stream_name": "MWM onsite + exec lunch",
-    "subtitle_why": "Reset strategic alignment with leadership",
-    "subtitle_how": "Completed",
-    "theme": "Strategic Investments",
-    "status": "Done",
-    "meta_owner": "Julian + Rafael + Gilles",
-    "client_owner": "Josselyn + Charles + Benjamin",
-    "sort_order": 20,
-    "pinned": false,
-    "deadline": "TODAY",
-    "next_action": ""
-  },
-  {
-    "stream_name": "Monthly cadence with Benjamin (VP Growth)",
-    "subtitle_why": "Formalize strategic rhythm with VP Growth",
-    "subtitle_how": "Completed",
-    "theme": "Strategic Investments",
-    "status": "Done",
-    "meta_owner": "Julian",
-    "client_owner": "Benjamin",
-    "sort_order": 21,
-    "pinned": false,
-    "deadline": "TODAY",
-    "next_action": ""
-  },
-  {
     "stream_name": "Brand/Conversion Lift Study — first scalable branding test",
-    "subtitle_why": "Convince VP Growth (Benjamin) on branding investment value",
+    "subtitle_why": "Establish branding's measurable value via a first scalable lift study.",
     "subtitle_how": "Pre-condition for formalizing monthly cadence",
     "theme": "Performance & Growth",
     "status": "Done",
@@ -161,7 +135,7 @@
     "client_owner": "Benjamin",
     "sort_order": 23,
     "deadline": "2026-05-13",
-    "next_action": "Scope BLS/CLS; pre-condition for monthly cadence."
+    "next_action": "Scope BLS/CLS for a first scalable branding test."
   },
   {
     "stream_name": "Value Rules — custom audience bid adjustments implementation",
@@ -178,7 +152,7 @@
     "stream_name": "Web-to-App conversion location — adopt unified optimization (+15-20% conversion volume)",
     "subtitle_why": "Top Q2 RS expected lift in MWM book — Meta-projected +15-20% conversion volume uplift",
     "subtitle_how": "RS not yet activated on MWM accounts; setup requires app-side conversion event…",
-    "next_action": "Brief Josselyn on Web-to-App conversion location setup, target activation by end of May",
+    "next_action": "Brief Josselyn on Web-to-App conversion-location setup; target activation this quarter.",
     "theme": "Performance & Growth",
     "status": "Open",
     "meta_owner": "Julian",
@@ -198,8 +172,8 @@
     "sort_order": 34
   },
   {
-    "stream_name": "CAPI Audit — évaluer qualité des signaux + identifier les leviers pour mieux nourrir le ML de Meta",
-    "subtitle_why": "Top priorité Meta-wide : meilleurs signaux serveur = ML Ads Manager mieux fueled = lift mesurable de performance sur tout le book (CPA / ROAS / conversions).",
+    "stream_name": "CAPI Audit — assess signal quality + identify delivery levers",
+    "subtitle_why": "Stronger server-side signals improve delivery and measurable performance across the account.",
     "subtitle_how": "Not started. Périmètre à scoper : couverture des signaux serveur, qualité du hashing des paramètres, dédup events, match rate déterministe vs probabiliste, gaps vs benchmark vertical.",
     "next_action": "",
     "theme": "Performance & Growth",
@@ -212,23 +186,9 @@
     "sort_order": 35
   },
   {
-    "stream_name": "Partager l'audit CAPI complet avec Josselyn (MWM) — débloquer le debug signal",
-    "subtitle_why": "Audit interne MWM finalisé 27/05, 'il y a urgence' selon Julian. Sans le partage côté client, les fixes signal restent bloqués.",
-    "subtitle_how": "Audit complet prêt côté Meta (briefé Rafael 27/05).",
-    "next_action": "Envoyer l'audit CAPI à Josselyn (MWM) cette semaine + caler un call d'alignement debug",
-    "theme": "Performance & Growth",
-    "status": "Done",
-    "meta_owner": "Julian",
-    "client_owner": "Josselyn",
-    "sort_order": 36,
-    "deadline": "2026-05-30",
-    "tags": "team:CAPI",
-    "pinned": true
-  },
-  {
-    "stream_name": "Pitch ROAS Goal beta (+11% conv, same CPA) — recovery angle",
-    "subtitle_why": "ROAS Goal beta: +11% conversions at same CPA. Recovery lever for MWM (-54% YoY).",
-    "subtitle_how": "Workplace post May 18.",
+    "stream_name": "ROAS Goal beta — +11% conversions at the same CPA",
+    "subtitle_why": "ROAS Goal beta delivers +11% conversions at the same CPA — a strong efficiency lever.",
+    "subtitle_how": "Beta available — ready to pilot.",
     "next_action": "Pilot 1 campaign with Josselyn.",
     "theme": "Performance & Growth",
     "status": "Open",
@@ -241,18 +201,14 @@
     "pinned": false
   },
   {
-    "stream_name": "Define measurement plan — Web&App signal DJiing",
-    "subtitle_why": "DJiing Web&App signal visible in CRM but not Hatch — measurement gap to close.",
-    "subtitle_how": "Tech Pod 2026-05-20.",
-    "next_action": "Define tracking/measurement plan for the signal.",
+    "stream_name": "Lift event match quality — fix external IDs on conversion events",
+    "subtitle_why": "Event match quality is at 3.5/10 with no external IDs on conversion events, capping optimization. Fixing signal quality unlocks better delivery and ROAS.",
+    "subtitle_how": "App-store subscriptions don't pass email/phone; matching is on for app, off for web-to-app. Work with AppsFlyer on external IDs.",
     "theme": "Measurement & Signal",
     "status": "Open",
     "meta_owner": "Julian",
-    "client_owner": "",
+    "client_owner": "Josselyn",
     "sort_order": 38,
-    "deadline": "",
-    "link_url": "",
-    "tags": "migrated-from-tracker",
-    "pinned": false
+    "next_action": "Open AppsFlyer thread on external IDs + align on the signal-quality fix."
   }
 ]
