@@ -114,5 +114,20 @@
     "link_url": "",
     "tags": "migrated-from-tracker",
     "pinned": false
+  },
+  {
+    "stream_name": "Improve conversion signal quality for renewal events (Parrot Pal)",
+    "subtitle_why": "Renewal events drive subscription revenue; strong, reliable measurement on these events is what unlocks value-based optimization and protects performance.",
+    "subtitle_how": "Weekly signal monitoring flagged a dip on web renewal events; investigating to restore measurement strength before scaling value optimization.",
+    "next_action": "Diagnose and restore renewal-event signal quality, then re-verify.",
+    "theme": "Measurement & Signal",
+    "status": "Open",
+    "meta_owner": "Julian",
+    "client_owner": "",
+    "sort_order": 10,
+    "deadline": "2026-07-06",
+    "link_url": "",
+    "tags": "",
+    "pinned": false
   }
 ]
