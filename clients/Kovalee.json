@@ -129,5 +129,20 @@
     "link_url": "",
     "tags": "",
     "pinned": false
+  },
+  {
+    "stream_name": "Pep-Talk — Retention & Re-engagement Targeting Strategy",
+    "subtitle_why": "Identify the most effective audience targeting levers to reduce churn and re-engage lapsed users.",
+    "subtitle_how": "Explore audience segmentation and targeting options; define a test-and-learn approach.",
+    "next_action": "Scope retention targeting options and prioritize segments to test.",
+    "theme": "Performance & Growth",
+    "status": "Open",
+    "meta_owner": "Julian",
+    "client_owner": "",
+    "sort_order": 11,
+    "deadline": "",
+    "link_url": "",
+    "tags": "",
+    "pinned": false
   }
 ]
