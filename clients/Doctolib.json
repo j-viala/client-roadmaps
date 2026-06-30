@@ -1,6 +1,6 @@
 [
   {
-    "stream_name": "Push B2B recat FR — case 1492477605932176",
+    "stream_name": "Push B2B re-engagement (France)",
     "subtitle_why": "",
     "subtitle_how": "Support reviewed - push for recat confirmation.",
     "next_action": "",
@@ -127,6 +127,21 @@
     "meta_owner": "Julian",
     "client_owner": "",
     "sort_order": 9,
+    "deadline": "",
+    "link_url": "",
+    "tags": "",
+    "pinned": false
+  },
+  {
+    "stream_name": "Quality & Volume Preference (QVP) alpha — validate & monitor",
+    "subtitle_why": "QVP alpha can lift both lead quality and volume on Doctolib's campaigns — validating it now protects performance as it rolls out.",
+    "subtitle_how": "Validating the new Control design (1 campaign, 2 ad sets) and confirming the alpha is live before scaling.",
+    "next_action": "Validate Control design, confirm alpha live, monitor early performance.",
+    "theme": "Measurement & Signal",
+    "status": "Open",
+    "meta_owner": "Julian",
+    "client_owner": "",
+    "sort_order": 10,
     "deadline": "",
     "link_url": "",
     "tags": "",
