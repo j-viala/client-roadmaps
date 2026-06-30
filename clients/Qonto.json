@@ -142,8 +142,8 @@
   {
     "stream_name": "GbR Launch — fix Week2/Week3 Purchase event attribution",
     "subtitle_why": "GbR creates 2-3 week delay between Contract Signed and revenue. Current Purchase event timing breaks attribution for delayed conversions.",
-    "subtitle_how": "Engage CAPI/Analytics team to design tracking pattern (extended attribution window / custom event). Document for Qonto integration.",
-    "next_action": "Brief CAPI specialist + draft tracking proposal",
+    "subtitle_how": "Engage the measurement/analytics team to design a tracking pattern (extended attribution window / custom event) that captures delayed conversions. Document for Qonto integration.",
+    "next_action": "Brief measurement specialist and draft tracking proposal.",
     "market": "DE",
     "topics": [
       "capi",
@@ -210,10 +210,10 @@
     "pinned": false
   },
   {
-    "stream_name": "Search bar missing — Qonto DE support issue",
-    "subtitle_why": "Qonto DE reported the search bar is missing — disrupts their workflow. Filed with Meta support; tracked to resolution.",
-    "subtitle_how": "Follow up on Meta support Case 3472876326218335 with the platform/support team until fixed.",
-    "next_action": "Track Meta support Case 3472876326218335 to resolution.",
+    "stream_name": "Restore missing search functionality (Qonto DE)",
+    "subtitle_why": "Qonto DE reported the search bar is missing, disrupting their daily workflow. Tracking to resolution.",
+    "subtitle_how": "Escalated to the platform team; following up until the feature is restored.",
+    "next_action": "Follow up until the search functionality is restored.",
     "market": "DE",
     "topics": [
       "support",
