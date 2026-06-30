@@ -116,5 +116,20 @@
     "link_url": "",
     "tags": "T2,P2,mma,business-portfolio,sally",
     "pinned": true
+  },
+  {
+    "stream_name": "WhatsApp Business Messaging — scope integration opportunity",
+    "subtitle_why": "WhatsApp opens a high-intent direct channel for patient engagement and appointment-related communication.",
+    "subtitle_how": "Define integration requirements, identify priority use cases, and outline a pilot structure.",
+    "next_action": "Align on use cases and integration feasibility; define pilot scope.",
+    "theme": "Strategic Investments",
+    "status": "Open",
+    "meta_owner": "Julian",
+    "client_owner": "",
+    "sort_order": 9,
+    "deadline": "",
+    "link_url": "",
+    "tags": "",
+    "pinned": false
   }
 ]
