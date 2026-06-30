@@ -1,16 +1,16 @@
 [
   {
-    "stream_name": "CAPI Subscribe — add value + currency (UNLOCK ROAS)",
-    "subtitle_why": "Foundation #1. Without value, Meta can't differentiate a 15€ solo ticket from a 120€ group booking. Blocks Value Optimization, ROAS reporting, and Value Rules.",
-    "subtitle_how": "CAPI live, Advanced Matching 11/11, AEMv2 55% modeled — but Subscribe fires without value. Fix is surgical: 2 fields on Pixel + CAPI payload.",
-    "next_action": "Aligner timeline eng avec Yulia : ajouter value (prix ticket) + currency (EUR/USD/BRL) sur le WordPress plugin (pixel) ET le booking backend (CAPI custom_data)",
+    "stream_name": "Subscribe tracking — add purchase value + currency (unlock ROAS)",
+    "subtitle_why": "Foundation #1. Without purchase value, the conversion signal cannot differentiate a 15€ solo ticket from a 120€ group booking. This blocks Value Optimization, ROAS reporting, and Value Rules.",
+    "subtitle_how": "Conversion tracking is live with strong match quality, but the Subscribe event fires without a purchase value. The fix is surgical: 2 fields on the website pixel and the server-side event payload.",
+    "next_action": "Align engineering timeline to add purchase value (ticket price) + currency (EUR/USD/BRL) on the WordPress plugin (pixel) and the booking backend (server-side event).",
     "theme": "Performance & Growth",
     "status": "Open",
     "meta_owner": "Julian",
     "client_owner": "",
     "sort_order": 1,
     "deadline": "",
-    "tags": "team:CAPI",
+    "tags": "",
     "pinned": true
   },
   {
