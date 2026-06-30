@@ -228,5 +228,39 @@
     "deadline": "",
     "link_url": "",
     "pinned": false
+  },
+  {
+    "stream_name": "Meta Business Messaging Agent — pilot for DE market",
+    "subtitle_why": "Meta Business Messaging Agent can handle B2B inquiries at scale, reducing cost-per-lead while improving response speed.",
+    "subtitle_how": "Review recommendation, define pilot parameters, and align on success metrics.",
+    "next_action": "Share recommendation; align on pilot scope and KPIs.",
+    "market": "DE",
+    "topics": [],
+    "priority": "P2",
+    "theme": "Strategic Investments",
+    "status": "Open",
+    "meta_owner": "Julian",
+    "client_owner": "",
+    "sort_order": 13,
+    "deadline": "",
+    "link_url": "",
+    "pinned": false
+  },
+  {
+    "stream_name": "Click-to-WhatsApp — B2B Lead Qualification at Scale",
+    "subtitle_why": "CtWA enables qualified B2B lead collection at scale for upmarket campaigns, improving lead intent and conversion efficiency.",
+    "subtitle_how": "Define pilot structure for DE market, align on targeting approach, and set up lead qualification flow.",
+    "next_action": "Align on CtWA pilot design for upmarket B2B campaigns.",
+    "market": "DE",
+    "topics": [],
+    "priority": "P2",
+    "theme": "Performance & Growth",
+    "status": "Open",
+    "meta_owner": "Julian",
+    "client_owner": "",
+    "sort_order": 14,
+    "deadline": "",
+    "link_url": "",
+    "pinned": false
   }
 ]
