@@ -156,5 +156,35 @@
     "link_url": "",
     "tags": "migrated-from-tracker",
     "pinned": false
+  },
+  {
+    "stream_name": "US Branding Campaign — creative delivery (9:16 + 4:5 + video concepts)",
+    "subtitle_why": "Brand campaign needs platform-native creative to land. Vertical (9:16) and square (4:5) formats plus multiple video concepts maximize placement coverage and brand impact across feed, Reels and Stories.",
+    "subtitle_how": "Format recommendations shared; initial assets received from the creative team. Iterating on full creative set + video concept variations.",
+    "next_action": "Finalize 9:16 + 4:5 cuts and align on video concepts with Photoroom creative team",
+    "theme": "Strategic Investments",
+    "status": "Open",
+    "meta_owner": "Julian",
+    "client_owner": "",
+    "deadline": "",
+    "link_url": "",
+    "tags": "",
+    "pinned": false,
+    "sort_order": 12
+  },
+  {
+    "stream_name": "App purchase signal quality — unlock Android Value Optimization",
+    "subtitle_why": "Reliable Android purchase events are the prerequisite for App Value Optimization. Without clean purchase signal, ROAS-based app optimization can't run on Android — closing this unblocks the #1 app growth lever.",
+    "subtitle_how": "Android purchase signal currently not passing validation. Reviewing event setup to restore clean, attributable purchase data.",
+    "next_action": "Audit Android purchase event setup and confirm valid signal for App VO",
+    "theme": "Measurement & Signal",
+    "status": "Open",
+    "meta_owner": "Julian",
+    "client_owner": "",
+    "deadline": "",
+    "link_url": "",
+    "tags": "",
+    "pinned": false,
+    "sort_order": 13
   }
 ]
