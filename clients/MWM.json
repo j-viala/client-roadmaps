@@ -201,14 +201,29 @@
     "pinned": false
   },
   {
-    "stream_name": "Lift event match quality — fix external IDs on conversion events",
-    "subtitle_why": "Event match quality averages ~4/10 across apps (Color Pop/SwipeWipe/Edjing 3.9–4.4) — below the 6.0 needed to unlock Value Optimization. Improving signal via external IDs unlocks better delivery and ROAS.",
-    "subtitle_how": "External-ID fix in motion with AppsFlyer (dedup verified clean, single-path S2S). App-store subs don't pass email/phone.",
+    "stream_name": "Strengthen measurement to unlock value optimization",
+    "subtitle_why": "Higher-quality conversion signals are required to unlock value-based optimization, which improves delivery and ROAS across the app portfolio.",
+    "subtitle_how": "Conversion signal quality improvements are in motion with the measurement partner; deduplication verified clean. App-store subscriptions limit some identity signals.",
     "theme": "Measurement & Signal",
     "status": "In Progress",
     "meta_owner": "Julian",
     "client_owner": "Josselyn",
     "sort_order": 38,
-    "next_action": "Confirm EMQ uplift once the AppsFlyer external-ID fix lands."
+    "next_action": "Confirm signal-quality uplift once the measurement improvement lands, then progress toward value optimization."
+  },
+  {
+    "stream_name": "Meta-personalized creative — measure incremental winners vs reused content",
+    "subtitle_why": "Quantify whether Meta-tailored creatives outperform recycled cross-platform content, to focus creative investment on the highest-yield approach.",
+    "subtitle_how": "Compare winner rate of Meta-personalized creatives against reused content across recent campaigns.",
+    "next_action": "Review results with MWM and define the go-forward creative mix.",
+    "theme": "Performance & Growth",
+    "status": "Open",
+    "meta_owner": "Julian",
+    "client_owner": "",
+    "sort_order": 39,
+    "deadline": "",
+    "link_url": "",
+    "tags": "",
+    "pinned": false
   }
 ]
