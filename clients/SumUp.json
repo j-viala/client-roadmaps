@@ -522,5 +522,15 @@
     "status": "Open",
     "meta_owner": "Julian",
     "sort_order": 45
+  },
+  {
+    "stream_name": "Restore Global Pixel signal coverage",
+    "subtitle_why": "Pixel miscategorization reduces signal quality across SumUp campaigns and limits optimization effectiveness.",
+    "subtitle_how": "Event category review in progress via Events Manager to restore correct pixel classification and full signal coverage.",
+    "next_action": "Complete review; confirm pixel categorization resolved and conversion signal restored.",
+    "theme": "Measurement & Signal",
+    "status": "Open",
+    "meta_owner": "Julian",
+    "sort_order": 46
   }
 ]
