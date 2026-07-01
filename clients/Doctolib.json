@@ -146,5 +146,15 @@
     "link_url": "",
     "tags": "",
     "pinned": false
+  },
+  {
+    "stream_name": "Define alternative measurement strategy (healthcare context)",
+    "subtitle_why": "Healthcare data handling requirements limit standard Meta measurement; an alternative approach is needed to preserve performance visibility.",
+    "subtitle_how": "Mapping impact of applicable restrictions on current measurement setup; defining a compliant alternative attribution approach.",
+    "next_action": "Share alternative measurement plan with Doctolib team for validation and implementation.",
+    "theme": "Measurement & Signal",
+    "status": "Open",
+    "meta_owner": "Julian",
+    "sort_order": 11
   }
 ]
