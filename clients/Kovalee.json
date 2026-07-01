@@ -144,5 +144,15 @@
     "link_url": "",
     "tags": "",
     "pinned": false
+  },
+  {
+    "stream_name": "Restore Purchase event tracking — Couch to 5K",
+    "subtitle_why": "Zero Purchase events are blocking campaign optimization for Couch to 5K — conversion data is unavailable for bidding.",
+    "subtitle_how": "CAPI tracking break identified; server-side event forwarding to be restored and validated end-to-end.",
+    "next_action": "Confirm fix deployed; validate Purchase events flowing in Events Manager.",
+    "theme": "Measurement & Signal",
+    "status": "Open",
+    "meta_owner": "Julian",
+    "sort_order": 12
   }
 ]
