@@ -532,5 +532,15 @@
     "status": "Open",
     "meta_owner": "Julian",
     "sort_order": 46
+  },
+  {
+    "stream_name": "Multi-Market Brand Lift Study — finalize & launch",
+    "subtitle_why": "Brand Lift measurement across markets will quantify brand awareness impact and justify upper-funnel investment decisions.",
+    "subtitle_how": "Study configuration in progress; targeting multi-market rollout for brand impact measurement.",
+    "next_action": "Finalize study configuration; confirm go-live parameters and launch.",
+    "theme": "Strategic Investments",
+    "status": "Open",
+    "meta_owner": "Julian",
+    "sort_order": 47
   }
 ]
