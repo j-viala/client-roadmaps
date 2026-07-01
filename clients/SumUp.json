@@ -512,5 +512,15 @@
     "link_url": "",
     "tags": "",
     "pinned": false
+  },
+  {
+    "stream_name": "SumUp Pay pixel — restore conversion signal",
+    "subtitle_why": "Interrupted conversion tracking on SumUp Pay reduces signal quality and limits campaign optimization accuracy.",
+    "subtitle_how": "Pixel signal interruption identified; restoration in progress with validation via Events Manager.",
+    "next_action": "Confirm tracking restored; validate conversion events flowing correctly.",
+    "theme": "Measurement & Signal",
+    "status": "Open",
+    "meta_owner": "Julian",
+    "sort_order": 45
   }
 ]
